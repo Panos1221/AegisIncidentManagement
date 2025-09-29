@@ -14,7 +14,7 @@ An open-source web app for coordinating public safety incidents. It keeps incide
 - Record incident leaders, casualties, fire details, and property damage when relevant.
 - Assign vehicles and personnel; follow a simple timeline (notified → on scene → finished).
 - Use the CAD view to focus on active incidents and receive real time alerts about new incidents the moment the dispatcher creates an incident.
-- Browse dashboards aligned to your agency (Fire Service, Coast Guard, Police, EKAB). Each agency has unique features. For example the Coast Guard has also a maritime map with live ship traffic (VesselFinder embeded map since API costs for live trafficing are high)
+- Browse dashboards aligned to your agency (Fire Service, Coast Guard, Police, EKAB). Each agency has unique features. For example the Coast Guard has also a maritime map with live ship traffic (VesselFinder embeded map since API costs for live trafficing are high). Police can create Patrol Zones and assign vehicles there.
 
 ## How it works (in practice)
 - Incidents: list, filter, sort; open one to see details and history.
@@ -126,12 +126,31 @@ Desktop app
   1) One is a simple configurator which allows the user to add stations, personnel etc. This is very basic and will be improved in the future.
   2) The other is called AegisDispatcher. Its a WPF application which is can be used only by dispatchers. It has simplified features from the web page and allows quick incident creation and resource managamenet.
 
-## Screenshots (optional)
-If you add images, consider:
-- Dashboard (per agency)
-- CAD (active incidents)
-- Incident details (logs, commanders, casualties)
-- Map view with patrol zones and station boundaries
+## Screenshots
+
+## AegisDesktop Standalone WPF Application:
+![DesktopAppCollage](media/DesktopAppCollage.png)
+![DesktopIncidentCreation](media/DesktopIncidentCreation.png)
+![DesktopIncidentFocus](media/DesktopIncidentFocus.png)
+![DesktopIncidentMap](media/DesktopIncidentMap.png)
+![DesktopMainWindow](media/DesktopMainWindow.png)
+
+## Web App (React)
+![Web Collage](media/WebCollage.png)
+![Map](media/map.png)
+![Districts](media/districts.png)
+![Map Coast Guard Stations](media/map_coast_guard_stations.png)
+![Map Incidents Stations](media/map_incidents_stations.png)
+![New Incident](media/NewIncident.png)
+![Weather Forecast](media/WeatherForecast.png)
+![Marine Traffic](media/marineTraffic.png)
+
+---
+
+## Videos
+- [IMS Incident LifeCycle](media/IMS_Incident_LifeCycle.mp4)
+- [Patrol Zone Creation](media/Patrol%20Zone%20Creation.mp4)
+- [Web Login](media/WebLogin.mp4)
 
 ## Status
 Active development. Features may change. Suggestions are welcome.
