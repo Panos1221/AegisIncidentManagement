@@ -1,0 +1,77 @@
+{
+  "HellenicPolice": {
+    "ViolentIncidents": {
+      "el": "ΒΙΑ & ΣΟΒΑΡΑ ΕΓΚΛΗΜΑΤΑ",
+      "en": "Violent & Serious Crimes",
+      "subcategories": [
+        { "el": "ΑΝΘΡΩΠΟΚΤΟΝΙΑ", "en": "Homicide / Manslaughter" },
+        { "el": "ΣΩΜΑΤΙΚΗ ΒΛΑΒΗ / ΕΠΙΘΕΣΗ", "en": "Assault / Battery" },
+        { "el": "ΛΗΣΤΕΙΑ / ΕΝΟΠΛΗ ΛΗΣΤΕΙΑ", "en": "Robbery / Armed Robbery" },
+        { "el": "ΑΠΑΤΗ / ΟΙΚΟΝΟΜΙΚΑ ΕΓΚΛΗΜΑΤΑ", "en": "Fraud / Economic Crimes" }
+      ]
+    },
+    "TrafficIncidents": {
+      "el": "ΚΥΚΛΟΦΟΡΙΑ & ΤΡΟΧΑΙΑ",
+      "en": "Traffic & Road Incidents",
+      "subcategories": [
+        { "el": "ΣΥΓΚΡΟΥΣΗ ΟΧΗΜΑΤΩΝ", "en": "Vehicle Collision" },
+        { "el": "ΕΓΚΑΤΑΛΕΙΨΗ ΤΟΠΟΥ ΑΤΥΧΗΜΑΤΟΣ (HIT & RUN)", "en": "Hit & Run / Leave Scene" },
+        { "el": "ΜΕΘΥΣΜΕΝΟΣ ΟΔΗΓΟΣ", "en": "Drunk Driving" },
+        { "el": "ΑΠΟΚΛΕΙΣΜΟΣ ΔΡΟΜΟΥ / ΕΜΠΟΔΙΣΜΟΣ", "en": "Road Blockage / Obstruction" }
+      ]
+    },
+    "PublicGatherings": {
+      "el": "ΔΗΜΟΣΙΑ ΤΑΞΗ & ΣΥΓΚΕΝΤΡΩΣΕΙΣ",
+      "en": "Public Order & Gatherings",
+      "subcategories": [
+        { "el": "ΔΙΑΔΗΛΩΣΕΙΣ / ΠΟΡΕΙΕΣ", "en": "Protests / Demonstrations" },
+        { "el": "ΣΥΜΠΛΟΚΕΣ / ΒΙΑΙΑ ΕΠΕΙΣΟΔΙΑ", "en": "Fights / Violent Episodes" },
+        { "el": "ΕΚΔΗΛΩΣΕΙΣ ΜΕ ΠΛΗΘΥΣΜΟ", "en": "Crowd Control / Event Policing" }
+      ]
+    },
+    "TheftIncidents": {
+      "el": "ΕΓΚΛΗΜΑΤA ΠΕΡΙΟΥΣΙΑΣ",
+      "en": "Property Crimes",
+      "subcategories": [
+        { "el": "ΔΙΑΡΡΗΞΗ / ΚΛΟΠΗ ΣΠΙΤΙΟΥ", "en": "Burglary / Home Break-in" },
+        { "el": "ΚΛΟΠΗ ΟΧΗΜΑΤΟΣ", "en": "Vehicle Theft" },
+        { "el": "ΚΛΟΠΗ / ΤΣΑΚΑΛΙΑ", "en": "Theft / Shoplifting" }
+      ]
+    },
+    "Narcotics": {
+      "el": "ΝΑΡΚΩΤΙΚΑ & ΛΑΘΡΕΜΠΟΡΙΟ",
+      "en": "Drugs & Smuggling",
+      "subcategories": [
+        { "el": "ΣΥΛΛΗΨΗ ΝΑΡΚΩΤΙΚΩΝ / ΕΜΠΟΡΙΑ", "en": "Drug Possession / Trafficking" },
+        { "el": "ΛΑΘΡΕΜΠΟΡΙΟ ΕΜΠΟΡΕΥΜΑΤΩΝ", "en": "Smuggling of Goods" }
+      ]
+    },
+    "Disappearances": {
+      "el": "ΕΞΑΦΑΝΙΣΕΙΣ & ΑΝΑΖΗΤΗΣΕΙΣ",
+      "en": "Missing Persons & Searches",
+      "subcategories": [
+        { "el": "ΕΞΑΦΑΝΙΣΗ ΑΝΗΛΙΚΟΥ", "en": "Missing Child" },
+        { "el": "ΕΞΑΦΑΝΙΣΗ ΕΝΗΛΙΚΟΥ", "en": "Missing Adult" },
+        { "el": "ΑΝΑΖΗΤΗΣΗ (SAR)", "en": "Search & Rescue Support" }
+      ]
+    },
+    "MentalIncidents": {
+      "el": "ΨΥΧΙΚΗΣ ΥΓΕΙΑΣ & ΠΡΟΣΤΑΣΙΑ ΠΟΛΙΤΩΝ",
+      "en": "Mental Health & Citizen Protection",
+      "subcategories": [
+        { "el": "ΕΠΕΜΒΑΣΗ ΣΕ ΨΥΧΙΚΗ ΚΡΙΣΗ", "en": "Mental Health Crisis Intervention" },
+        { "el": "ΟΙΚΟΓΕΝΕΙΑΚΗ ΒΙΑ", "en": "Domestic Violence" },
+        { "el": "ΠΕΡΙΣΤΑΤΙΚΟ ΑΣΥΝΟΔΕΥΤΟΥ ΑΤΟΜΟΥ", "en": "Welfare Check / Vulnerable Person" }
+      ]
+    },
+    "Technical": {
+      "el": "ΤΕΧΝΙΚΑ & ΕΙΔΙΚΑ ΠΕΡΙΣΤΑΤΙΚΑ",
+      "en": "Technical & Special Incidents",
+      "subcategories": [
+        { "el": "ΣΥΛΛΗΨΗ / ΠΡΟΣΑΓΩΓΗ", "en": "Arrest / Apprehension" },
+        { "el": "ΕΚΤΕΛΕΣΗ ΕΝΤΑΛΜΑΤΟΣ", "en": "Warrant Execution" },
+        { "el": "ΕΠΙΣΗΜΗ ΕΝΕΡΓΕΙΑ", "en": "Forensic / Crime Scene Support" }
+      ]
+    }
+  }
+}

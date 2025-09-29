@@ -1,0 +1,279 @@
+{
+  "type": "FeatureCollection",
+  "name": "Greek_Fire_Stations",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "1ος Π. Σ. ΑΘΗΝΩΝ",
+        "address": "Μουρούζη 4, Αθήνα 106 74",
+        "city": "Αθήνα",
+        "region": "Αττική"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.74144565231651, 37.97474804070276]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "2ος Π. Σ. ΑΘΗΝΩΝ",
+        "address": "Μαραθωνομάχων 49, Αθήνα 104 41",
+        "city": "Αθήνα",
+        "region": "Αττική"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.68992928778152, 37.94876576969778]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "4ος Π. Σ. ΑΘΗΝΩΝ",
+        "address": "Μεσσηνίας 48, Αθήνα 115 27",
+        "city": "Αθήνα",
+        "region": "Αττική"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.768647780001377, 37.98835243650042]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "5ος Π. Σ. ΑΘΗΝΩΝ",
+        "address": "Λεωφ. Ελ. Βενιζέλου 270, Καλλιθέα 176 75",
+        "city": "Αθήνα",
+        "region": "Αττική"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.68992928778152, 37.94876576969778]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "6ος Π. Σ. ΑΘΗΝΩΝ",
+        "address": "Ο16, Αχαρνές 136 72",
+        "city": "Αθήνα",
+        "region": "Αττική"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.778108741798828, 38.120027116385636]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "7ος Π. Σ. ΑΘΗΝΩΝ",
+        "address": "Λεωφ. Αλ. Παπαναστασίου 62, Αγ. Δημήτριος 172 35",
+        "city": "Αθήνα",
+        "region": "Αττική"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.73167034085825, 37.94633827152416]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "8ος Π. Σ. ΑΘΗΝΩΝ",
+        "address": "Ελ. Βενιζέλου 15, Ελληνικό 167 77",
+        "city": "Αθήνα",
+        "region": "Αττική"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.742265854935955, 37.8893214182511]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "9ος Π. Σ. ΑΘΗΝΩΝ",
+        "address": "Ο.Α.Κ.Α, Γ. Πιτταρά 1η, Μαρούσι 151 23",
+        "city": "Αθήνα",
+        "region": "Αττική"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.7901640939135, 38.03876188236257]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "10ος Π. Σ. ΑΘΗΝΩΝ",
+        "address": "Λάρνακος 18, Περιστέρι 121 35",
+        "city": "Αθήνα",
+        "region": "Αττική"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.709164583284778, 37.98628218742143]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "12ος Π. Σ. ΑΘΗΝΩΝ",
+        "address": "Λεωφ. Μαραθώνος 15351, Παλλήνη 153 51",
+        "city": "Αθήνα",
+        "region": "Αττική"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.867892985317035, 38.0051236459857]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "1ος Π. Σ. ΘΕΣΣΑΛΟΝΙΚΗΣ",
+        "address": "Ολυμπιάδος 135, Θεσσαλονίκη 546 34",
+        "city": "Θεσσαλονίκη",
+        "region": "Κεντρική Μακεδονία"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.955124132962244, 40.63536758282712]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "2ος Π. Σ. ΘΕΣΣΑΛΟΝΙΚΗΣ",
+        "address": "Μοναστηρίου 114, Θεσσαλονίκη 546 27",
+        "city": "Θεσσαλονίκη",
+        "region": "Κεντρική Μακεδονία"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.91914996295646, 40.64918593376449]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "3ος Π. Σ. ΘΕΣΣΑΛΟΝΙΚΗΣ",
+        "address": "Κρήτης 46, Θεσσαλονίκη 546 46",
+        "city": "Θεσσαλονίκη",
+        "region": "Κεντρική Μακεδονία"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.956855517678456, 40.59990522225403]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "6ος Π. Σ. ΘΕΣΣΑΛΟΝΙΚΗΣ",
+        "address": "Εντός Βι.Πε. οδός Α5, 57022, Σίνδος",
+        "city": "Θεσσαλονίκη",
+        "region": "Κεντρική Μακεδονία"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.813732085178163, 40.684586601539735]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "2η ΕΜΑΚ",
+        "address": "Θεσσαλονίκης - Περαίας, Θέρμη 570 01",
+        "city": "Θεσσαλονίκη",
+        "region": "Κεντρική Μακεδονία"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.01865773503534, 40.539054124114045]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "1ος Π. Σ. ΠΕΙΡΑΙΑ",
+        "address": "Γεωρ. Κονδύλη 10, Καλλιθέα 183 46",
+        "city": "Πειραιάς",
+        "region": "Αττική"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.6833123585896, 37.96097331534127]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "2ος Π. Σ. ΠΕΙΡΑΙΑ",
+        "address": "Κωνσταντινουπόλεως 22, Πειραιάς 185 40",
+        "city": "Πειραιάς",
+        "region": "Αττική"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.650744005431402, 37.94994900322117]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "3ος Π. Σ. ΠΕΙΡΑΙΑ",
+        "address": "Αθανασίου Διάκου 1, Κερατσίνι-Δραπετσώνα 186 48",
+        "city": "Πειραιάς",
+        "region": "Αττική"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.63203600834202, 37.94523747780916]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "4ος Π. Σ. ΠΕΙΡΑΙΑ",
+        "address": "Λεωφ. Δημοκρατίας, Κερατσίνι-Δραπετσώνα 187 58",
+        "city": "Πειραιάς",
+        "region": "Αττική"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.610022473740585, 37.96188027409904]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "1ος Π.Σ. ΠΑΤΡΩΝ",
+        "address": "Ναυαρίνου, Πάτρα 262 22",
+        "city": "Πάτρα",
+        "region": "Δυτική Ελλάδα"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.72894648743277, 38.23439397978226]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Π. Υ. ΒΙ.ΠΕ. ΠΑΤΡΩΝ",
+        "address": "6os Odos, Ditiki Achaia 250 18",
+        "city": "Πάτρα",
+        "region": "Δυτική Ελλάδα"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.639225311224287, 38.11090157798881]
+      }
+    }
+  ]
+}

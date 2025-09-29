@@ -1,0 +1,78 @@
+{
+  "EKAB": {
+    "Emergencies": {
+      "el": "ΙΑΤΡΙΚΑ ΕΠΕΙΓΟΝΤΑ",
+      "en": "Medical Emergencies",
+      "subcategories": [
+        { "el": "ΚΑΡΔΙΑΚΟ ΕΠΕΙΣΟΔΙΟ / ΚΑΡΔΙΑΚΗ ΑΝΑΚΟΠΗ", "en": "Cardiac Arrest / Cardiac Event" },
+        { "el": "ΕΓΚΕΦΑΛΙΚΟ", "en": "Stroke" },
+        { "el": "ΑΝΑΠΝΕΥΣΤΙΚΗ ΔΥΣΧΕΡΕΙΑ", "en": "Respiratory Distress / Arrest" },
+        { "el": "ΑΝΑΦΥΛΑΞΙΑ (ΑΛΛΕΡΓΙΚΗ ΑΝΤΙΔΡΑΣΗ)", "en": "Anaphylaxis (Severe Allergy)" },
+        { "el": "ΥΠΕΡΔΙΑΒΗΤΙΚΗ ΚΡΙΣΗ / ΥΠΟΓΛΥΚΑΙΜΙΑ", "en": "Diabetic Emergency (Hyper/Hypoglycemia)" },
+        { "el": "ΕΠΙΛΗΠΤΙΚΗ ΚΡΙΣΗ", "en": "Seizure" }
+      ]
+    },
+    "TraumaIncidents": {
+      "el": "ΤΡΑΥΜΑ",
+      "en": "Trauma",
+      "subcategories": [
+        { "el": "ΤΡΟΧΑΙΟ ΑΤΥΧΗΜΑ", "en": "Road Traffic Accident" },
+        { "el": "ΠΤΩΣΗ ΑΠΟ ΥΨΟΣ", "en": "Fall from Height" },
+        { "el": "ΒΑΡΙΑ ΚΑΤΑΠΛΑΚΩΣΗ / ΣΥΣΦΙΞΗ", "en": "Crush Injury / Entrapment" },
+        { "el": "ΕΓΚΑΥΜΑΤΑ", "en": "Burn Injuries" },
+        { "el": "ΔΙΑΤΡΗΤΙΚΟ/ΕΙΣΒΟΛΙΚΟ ΤΡΑΥΜΑ", "en": "Penetrating / Impalement Injury" },
+        { "el": "ΑΠΩΛΕΙΑ ΑΙΜΟΡΡΑΓΙΑΣ (ΜΑΖΙΚΗ)", "en": "Severe / Life-threatening Hemorrhage" }
+      ]
+    },
+    "Pediatric": {
+      "el": "ΜΗΤΡΙΚΑ / ΠΑΙΔΙΚΑ ΕΠΕΙΣΟΔΙΑ",
+      "en": "Obstetric & Pediatric",
+      "subcategories": [
+        { "el": "ΤΟΚΕΤΟΣ / ΠΡΟΩΡΟΤΗΤΑ", "en": "Childbirth / Obstetric Emergency" },
+        { "el": "ΠΑΙΔΙΚΗ ΑΝΑΠΝΕΥΣΤΙΚΗ ΑΝΑΣΤΑΤΩΣΗ", "en": "Pediatric Respiratory Emergency" },
+        { "el": "ΠΑΙΔΙΚΟ ΤΡΑΥΜΑ", "en": "Pediatric Trauma" }
+      ]
+    },
+    "Mental": {
+      "el": "ΨΥΧΙΑΤΡΙΚΑ ΕΠΕΙΣΟΔΙΑ",
+      "en": "Psychiatric Emergencies",
+      "subcategories": [
+        { "el": "ΑΥΤΟΚΤΟΝΙΚΕΣ ΣΚΕΨΕΙΣ / ΑΠΕΙΛΕΣ", "en": "Suicidal Ideation / Threats" },
+        { "el": "ΑΓΧΟΣ / ΠΑΡΑΝΟΙΑ / ΨΥΧΩΣΗ", "en": "Severe Agitation / Psychosis" },
+        { "el": "ΒΙΑΙΗ ΣΥΜΠΕΡΙΦΟΡΑ", "en": "Violent Behavior" }
+      ]
+    },
+    "MassCasualties": {
+      "el": "ΜΑΖΙΚΕΣ / ΠΟΛΛΑΠΛΕΣ ΠΕΡΙΠΤΩΣΕΙΣ (MCI)",
+      "en": "Mass Casualty Incidents (MCI)",
+      "subcategories": [
+        { "el": "ΣΥΓΚΡΟΥΣΕΙΣ ΜΕ ΠΟΛΛΟΥΣ ΤΡΑΥΜΑΤΙΕΣ", "en": "Multiple Casualty Crash" },
+        { "el": "ΑΣΤΙΚΗ ΣΥΜΦΟΡΗΣΗ / ΚΑΤΑΣΤΡΟΦΗ", "en": "Major Incident / Disaster Response" }
+      ]
+    },
+    "Transports": {
+      "el": "ΜΕΤΑΦΟΡΕΣ & ΔΙΑΚΟΜΙΔΕΣ",
+      "en": "Transfers & Transports",
+      "subcategories": [
+        { "el": "ΠΡΟΓΡΑΜΜΑΤΙΣΜΕΝΗ ΜΕΤΑΦΟΡΑ", "en": "Planned Non-emergency Transport" },
+        { "el": "ΔΙΑΚΟΜΙΔΗ ΕΚΤΑΚΤΗ ΣΕ ΑΛΛΟ ΝΟΣΟΚΟΜΕΙΟ", "en": "Emergency Transfer to Other Hospital" },
+        { "el": "ΜΕΤΑΦΟΡΑ ΚΡΙΤΙΚΗΣ ΦΡΟΝΤΙΔΑΣ", "en": "Critical Care Transport" }
+      ]
+    },
+    "Poisons": {
+      "el": "ΔΗΛΗΤΗΡΙΑΣΕΙΣ & ΕΚΘΕΣΕΙΣ",
+      "en": "Poisoning & Exposures",
+      "subcategories": [
+        { "el": "ΥΠΟΔΟΣΗ / ΔΗΛΗΤΗΡΙΑΣΗ", "en": "Poisoning / Overdose" },
+        { "el": "ΧΗΜΙΚΗ ΕΚΘΕΣΗ / ΑΝΑΠΝΕΥΣΤΙΚΗ ΒΛΑΒΗ", "en": "Chemical Exposure / Toxic Inhalation" }
+      ]
+    },
+    "Obese": {
+      "el": "ΜΕΤΑΦΟΡΑ ΠΑΧΥΣΑΡΚΟΥ",
+      "en": "Bariatric / Heavy Patient Transport",
+      "subcategories": [
+        { "el": "ΜΕΤΑΦΟΡΑ ΠΑΧΥΣΑΡΚΟΥ", "en": "Bariatric Patient Transfer" }
+      ]
+    }
+  }
+}

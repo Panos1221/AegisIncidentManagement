@@ -1,0 +1,45 @@
+{
+  "type": "FeatureCollection",
+  "name": "Greek_Hospitals",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Γενικό Νοσοκομείο Αθηνών \"Γεώργιος Γεννηματάς\"",
+        "address": "Λεωφόρος Μεσογείων 154, 11527",
+        "city": "Αθήνα",
+        "region": "Αττική"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.78382, 37.99678]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Γενικό Νοσοκομείο Αθηνών \"Λαϊκό\"",
+        "address": "Οδός Αγίου Θωμά 17, 11527",
+        "city": "Αθήνα",
+        "region": "Αττική"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.76523, 37.98404]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Γενικό Νοσοκομείο Αθηνών \"Αλεξάνδρα\"",
+        "address": "Λεωφόρος Βασιλίσσης Σοφίας 80, 11528",
+        "city": "Αθήνα",
+        "region": "Αττική"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.75461, 37.98060]
+      }
+    }
+  ]
+}

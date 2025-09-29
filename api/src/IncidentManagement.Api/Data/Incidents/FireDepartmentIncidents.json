@@ -1,0 +1,62 @@
+{
+  "HellenicFireService": {
+    "Wildfires": {
+      "el": "ΔΑΣΙΚΕΣ ΠΥΡΚΑΓΙΕΣ",
+      "en": "Forest Fires",
+      "subcategories": [
+        { "el": "ΚΑΛΑΜΙΑ - ΒΑΛΤΟΙ", "en": "Reeds - Marshes" },
+        { "el": "ΓΕΩΡΓΙΚΗ ΕΚΤΑΣΗ", "en": "Agricultural Area" },
+        { "el": "ΔΑΣΙΚΗ ΕΚΤΑΣΗ", "en": "Forest Area" },
+        { "el": "ΧΟΡΤΟΛΙΒΑΔΙΚΗ ΕΚΤΑΣΗ", "en": "Grassland Area" },
+        { "el": "ΥΠΟΛΕΙΜΜΑΤΑ ΚΑΛΛΙΕΡΓΕΙΩΝ", "en": "Crop Residues" },
+        { "el": "ΑΛΣΟΣ", "en": "Park" }
+      ]
+    },
+    "Urbanfires": {
+      "el": "ΑΣΤΙΚΕΣ ΠΥΡΚΑΓΙΕΣ",
+      "en": "Urban Fires",
+      "subcategories": [
+        { "el": "ΥΠΑΙΘΡΟΣ", "en": "Countryside" },
+        { "el": "ΚΤΙΡΙΟ ΚΑΤΟΙΚΙΑΣ", "en": "Residential Building" },
+        { "el": "ΜΕΤΑΦΟΡΙΚΑ ΜΕΣΑ", "en": "Vehicles" },
+        { "el": "ΧΩΡΟΣ ΑΠΟΘΗΚΕΥΣΗΣ", "en": "Storage Area" },
+        { "el": "ΧΩΡΟΣ ΕΜΠΟΡΙΟΥ", "en": "Commercial Space" },
+        { "el": "ΧΩΡΟΣ ΣΥΝΑΘΡΟΙΣΗΣ ΚΟΙΝΟΥ", "en": "Public Assembly Place" },
+        { "el": "ΒΙΟΜΗΧΑΝΙΑ – ΒΙΟΤΕΧΝΙΑ", "en": "Industry – Small Industry" },
+        { "el": "ΚΤΙΡΙΟ ΥΓΕΙΑΣ", "en": "Healthcare Building" },
+        { "el": "ΚΤΙΡΙΟ ΥΓΕΙΑΣ ΚΑΙ ΚΟΙΝΩΝΙΚΗΣ ΠΡΟΝΟΙΑΣ", "en": "Health & Welfare Building" },
+        { "el": "ΚΤΙΡΙΟ ΕΚΠΑΙΔΕΥΣΗΣ", "en": "Educational Building" }
+      ]
+    },
+    "AssistanceCalls": {
+      "el": "ΠΑΡΟΧΕΣ ΒΟΗΘΕΙΑΣ",
+      "en": "Assistance Callouts",
+      "subcategories": [
+        { "el": "ΤΡΟΧΑΙΟ", "en": "Traffic Accident" },
+        { "el": "ΔΙΑΣΩΣΗ ΖΩΟΥ", "en": "Animal Rescue" },
+        { "el": "ΑΝΤΛΗΣΗ", "en": "Pumping" },
+        { "el": "ΑΦΑΙΡΕΣΗ ΑΝΤΙΚΕΙΜΕΝΟΥ", "en": "Object Removal" },
+        { "el": "ΚΑΤΑΠΛΑΚΩΣΗ", "en": "Entrapment" },
+        { "el": "ΚΟΠΗ ΔΕΝΔΡΟΥ", "en": "Tree Cutting" },
+        { "el": "ΑΝΕΥΡΕΣΗ", "en": "Search & Rescue" },
+	    { "el": "ΠΛΥΣΗ", "en": "Washing" },	
+        { "el": "ΑΛΛΗ ΠΕΡΙΠΤΩΣΗ", "en": "Other Case" }		
+      ]
+    },
+    "ElevatorCall": {
+      "el": "ΕΓΚΛΩΒΙΣΜΟΣ",
+      "en": "Entrapment (Elevator Call)",
+      "subcategories": [
+        { "el": "ΕΓΚΛΩΒΙΣΜΟΣ", "en": "Entrapment" }
+      ]
+    },
+    "Miscellaneous": {
+      "el": "ΔΡΑΣΤΗΡΙΟΤΗΤΑ",
+      "en": "Activities",
+      "subcategories": [
+        { "el": "ΦΥΛΑΞΗ ΧΩΡΩΝ", "en": "Guarding of Premises" },
+        { "el": "ΠΟΡΕΙΑ", "en": "Demonstration" }
+      ]
+    }	
+  }
+}

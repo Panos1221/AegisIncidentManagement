@@ -1,0 +1,382 @@
+<UserControl x:Class="AegisDispatcher.Controls.MapFiltersPanel"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="300">
+
+    <UserControl.Resources>
+        <!-- Modern Toggle Button Style -->
+        <Style x:Key="ModernToggleButton" TargetType="ToggleButton">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="ToggleButton">
+                        <Border x:Name="Border" 
+                                Background="{TemplateBinding Background}"
+                                BorderBrush="{TemplateBinding BorderBrush}"
+                                BorderThickness="1"
+                                CornerRadius="8"
+                                Padding="12,8">
+                            <Grid>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="Auto"/>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="Auto"/>
+                                </Grid.ColumnDefinitions>
+                                
+                                <!-- Icon -->
+                                <TextBlock x:Name="Icon" 
+                                          Grid.Column="0"
+                                          Text="{TemplateBinding Tag}"
+                                          FontSize="16"
+                                          Margin="0,0,8,0"
+                                          VerticalAlignment="Center"/>
+                                
+                                <!-- Content -->
+                                <StackPanel Grid.Column="1" VerticalAlignment="Center">
+                                    <ContentPresenter HorizontalAlignment="Left" VerticalAlignment="Center"/>
+                                </StackPanel>
+                                
+                                <!-- Toggle Indicator -->
+                                <Border x:Name="ToggleIndicator" 
+                                       Grid.Column="2"
+                                       Width="20" Height="20"
+                                       CornerRadius="10"
+                                       Background="#FF6C757D"
+                                       VerticalAlignment="Center">
+                                    <TextBlock x:Name="ToggleIcon" 
+                                              Text="👁️‍🗨️" 
+                                              FontSize="10"
+                                              HorizontalAlignment="Center"
+                                              VerticalAlignment="Center"
+                                              Foreground="White"/>
+                                </Border>
+                            </Grid>
+                        </Border>
+                        
+                        <ControlTemplate.Triggers>
+                            <!-- Checked State -->
+                            <Trigger Property="IsChecked" Value="True">
+                                <Setter TargetName="Border" Property="Background" Value="#FF3B82F6"/>
+                                <Setter TargetName="Border" Property="BorderBrush" Value="#FF2563EB"/>
+                                <Setter TargetName="ToggleIndicator" Property="Background" Value="#FF10B981"/>
+                                <Setter TargetName="ToggleIcon" Property="Text" Value="👁️"/>
+                            </Trigger>
+                            
+                            <!-- Unchecked State -->
+                            <Trigger Property="IsChecked" Value="False">
+                                <Setter TargetName="Border" Property="Background" Value="#FF374151"/>
+                                <Setter TargetName="Border" Property="BorderBrush" Value="#FF4B5563"/>
+                                <Setter TargetName="ToggleIndicator" Property="Background" Value="#FF6B7280"/>
+                                <Setter TargetName="ToggleIcon" Property="Text" Value="🙈"/>
+                            </Trigger>
+                            
+                            <!-- Hover Effects -->
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter TargetName="Border" Property="BorderBrush" Value="#FF60A5FA"/>
+                            </Trigger>
+                            
+                            <!-- Disabled State -->
+                            <Trigger Property="IsEnabled" Value="False">
+                                <Setter TargetName="Border" Property="Background" Value="#FF1F2937"/>
+                                <Setter TargetName="Border" Property="BorderBrush" Value="#FF374151"/>
+                                <Setter Property="Opacity" Value="0.5"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="FontWeight" Value="Medium"/>
+            <Setter Property="Cursor" Value="Hand"/>
+            <Setter Property="Margin" Value="0,4"/>
+        </Style>
+
+        <!-- Filter Section Header Style -->
+        <Style x:Key="FilterSectionHeader" TargetType="TextBlock">
+            <Setter Property="Foreground" Value="#FFF1F5F9"/>
+            <Setter Property="FontSize" Value="14"/>
+            <Setter Property="FontWeight" Value="SemiBold"/>
+            <Setter Property="Margin" Value="0,16,0,8"/>
+        </Style>
+
+        <!-- Filter Description Style -->
+        <Style x:Key="FilterDescription" TargetType="TextBlock">
+            <Setter Property="Foreground" Value="#FF9CA3AF"/>
+            <Setter Property="FontSize" Value="11"/>
+            <Setter Property="Margin" Value="0,2,0,0"/>
+            <Setter Property="TextWrapping" Value="Wrap"/>
+        </Style>
+    </UserControl.Resources>
+
+    <Border Background="#FF1F2937" 
+            BorderBrush="#FF374151" 
+            BorderThickness="1" 
+            CornerRadius="12"
+            Padding="16">
+        <ScrollViewer VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Disabled">
+            <StackPanel>
+                <!-- Header -->
+                <Grid Margin="0,0,0,16">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="Auto"/>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="Auto"/>
+                    </Grid.ColumnDefinitions>
+                    
+                    <TextBlock Grid.Column="0" 
+                              Text="🔍" 
+                              FontSize="20" 
+                              VerticalAlignment="Center"
+                              Margin="0,0,8,0"/>
+                    
+                    <TextBlock Grid.Column="1" 
+                              Text="Map Filters" 
+                              Foreground="White" 
+                              FontSize="18" 
+                              FontWeight="Bold"
+                              VerticalAlignment="Center"/>
+                    
+                    <Button x:Name="CloseButton" 
+                           Grid.Column="2"
+                           Content="✕" 
+                           Background="Transparent"
+                           BorderThickness="0"
+                           Foreground="#FF9CA3AF"
+                           FontSize="16"
+                           Padding="8"
+                           Cursor="Hand"
+                           Click="CloseButton_Click">
+                        <Button.Style>
+                            <Style TargetType="Button">
+                                <Setter Property="Template">
+                                    <Setter.Value>
+                                        <ControlTemplate TargetType="Button">
+                                            <Border Background="{TemplateBinding Background}" 
+                                                   CornerRadius="6" 
+                                                   Padding="{TemplateBinding Padding}">
+                                                <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                                            </Border>
+                                            <ControlTemplate.Triggers>
+                                                <Trigger Property="IsMouseOver" Value="True">
+                                                    <Setter Property="Background" Value="#FF374151"/>
+                                                    <Setter Property="Foreground" Value="White"/>
+                                                </Trigger>
+                                            </ControlTemplate.Triggers>
+                                        </ControlTemplate>
+                                    </Setter.Value>
+                                </Setter>
+                            </Style>
+                        </Button.Style>
+                    </Button>
+                </Grid>
+
+                <!-- Description -->
+                <TextBlock Text="Toggle map layers to customize your view. Only relevant layers for your agency are shown."
+                          Foreground="#FF9CA3AF"
+                          FontSize="12"
+                          TextWrapping="Wrap"
+                          Margin="0,0,0,16"/>
+
+                <!-- Common Filters -->
+                <TextBlock Text="Common Layers" Style="{StaticResource FilterSectionHeader}"/>
+                
+                <!-- Incidents Filter -->
+                <ToggleButton x:Name="IncidentsToggle" 
+                             Style="{StaticResource ModernToggleButton}"
+                             Tag="🚨"
+                             IsChecked="True"
+                             Click="FilterToggle_Click">
+                    <StackPanel>
+                        <TextBlock Text="Active Incidents" FontWeight="Medium"/>
+                        <TextBlock Text="Show ongoing emergency incidents" Style="{StaticResource FilterDescription}"/>
+                    </StackPanel>
+                </ToggleButton>
+
+                <!-- Vehicles Filter -->
+                <ToggleButton x:Name="VehiclesToggle" 
+                             Style="{StaticResource ModernToggleButton}"
+                             Tag="🚛"
+                             IsChecked="True"
+                             Click="FilterToggle_Click">
+                    <StackPanel>
+                        <TextBlock Text="Vehicles" FontWeight="Medium"/>
+                        <TextBlock Text="Show emergency vehicles with GPS tracking" Style="{StaticResource FilterDescription}"/>
+                    </StackPanel>
+                </ToggleButton>
+
+                <!-- Agency Specific Filters -->
+                <StackPanel x:Name="AgencyFiltersPanel">
+                    <!-- Fire Service Filters -->
+                    <StackPanel x:Name="FireServiceFilters" Visibility="Collapsed">
+                        <TextBlock Text="Fire Service" Style="{StaticResource FilterSectionHeader}"/>
+                        
+                        <ToggleButton x:Name="FireStationsToggle" 
+                                     Style="{StaticResource ModernToggleButton}"
+                                     Tag="🏢"
+                                     IsChecked="True"
+                                     Click="FilterToggle_Click">
+                            <StackPanel>
+                                <TextBlock Text="Fire Stations" FontWeight="Medium"/>
+                                <TextBlock Text="Show fire department stations" Style="{StaticResource FilterDescription}"/>
+                            </StackPanel>
+                        </ToggleButton>
+
+                        <ToggleButton x:Name="FireHydrantsToggle" 
+                                     Style="{StaticResource ModernToggleButton}"
+                                     Tag="🚰"
+                                     IsChecked="True"
+                                     Click="FilterToggle_Click">
+                            <StackPanel>
+                                <TextBlock Text="Fire Hydrants" FontWeight="Medium"/>
+                                <TextBlock Text="Show available fire hydrants" Style="{StaticResource FilterDescription}"/>
+                            </StackPanel>
+                        </ToggleButton>
+
+                        <ToggleButton x:Name="FireStationBoundariesToggle" 
+                                     Style="{StaticResource ModernToggleButton}"
+                                     Tag="🗺️"
+                                     IsChecked="False"
+                                     Click="FilterToggle_Click">
+                            <StackPanel>
+                                <TextBlock Text="Station Districts" FontWeight="Medium"/>
+                                <TextBlock Text="Show fire station coverage areas" Style="{StaticResource FilterDescription}"/>
+                            </StackPanel>
+                        </ToggleButton>
+                    </StackPanel>
+
+                    <!-- Police Filters -->
+                    <StackPanel x:Name="PoliceFilters" Visibility="Collapsed">
+                        <TextBlock Text="Police Service" Style="{StaticResource FilterSectionHeader}"/>
+                        
+                        <ToggleButton x:Name="PoliceStationsToggle" 
+                                     Style="{StaticResource ModernToggleButton}"
+                                     Tag="🏢"
+                                     IsChecked="True"
+                                     Click="FilterToggle_Click">
+                            <StackPanel>
+                                <TextBlock Text="Police Stations" FontWeight="Medium"/>
+                                <TextBlock Text="Show police department stations" Style="{StaticResource FilterDescription}"/>
+                            </StackPanel>
+                        </ToggleButton>
+
+                        <ToggleButton x:Name="PatrolZonesToggle" 
+                                     Style="{StaticResource ModernToggleButton}"
+                                     Tag="🛡️"
+                                     IsChecked="True"
+                                     Click="FilterToggle_Click">
+                            <StackPanel>
+                                <TextBlock Text="Patrol Zones" FontWeight="Medium"/>
+                                <TextBlock Text="Show assigned patrol areas" Style="{StaticResource FilterDescription}"/>
+                            </StackPanel>
+                        </ToggleButton>
+                    </StackPanel>
+
+                    <!-- Coast Guard Filters -->
+                    <StackPanel x:Name="CoastGuardFilters" Visibility="Collapsed">
+                        <TextBlock Text="Coast Guard Service" Style="{StaticResource FilterSectionHeader}"/>
+                        
+                        <ToggleButton x:Name="CoastGuardStationsToggle" 
+                                     Style="{StaticResource ModernToggleButton}"
+                                     Tag="⚓"
+                                     IsChecked="True"
+                                     Click="FilterToggle_Click">
+                            <StackPanel>
+                                <TextBlock Text="Coast Guard Stations" FontWeight="Medium"/>
+                                <TextBlock Text="Show coast guard stations" Style="{StaticResource FilterDescription}"/>
+                            </StackPanel>
+                        </ToggleButton>
+
+                        <ToggleButton x:Name="ShipsToggle" 
+                                     Style="{StaticResource ModernToggleButton}"
+                                     Tag="🚢"
+                                     IsChecked="True"
+                                     Click="FilterToggle_Click">
+                            <StackPanel>
+                                <TextBlock Text="Vessels" FontWeight="Medium"/>
+                                <TextBlock Text="Show tracked maritime vessels" Style="{StaticResource FilterDescription}"/>
+                            </StackPanel>
+                        </ToggleButton>
+
+                        <ToggleButton x:Name="PatrolZonesCoastGuardToggle" 
+                                     Style="{StaticResource ModernToggleButton}"
+                                     Tag="🛡️"
+                                     IsChecked="True"
+                                     Click="FilterToggle_Click">
+                            <StackPanel>
+                                <TextBlock Text="Patrol Zones" FontWeight="Medium"/>
+                                <TextBlock Text="Show maritime patrol areas" Style="{StaticResource FilterDescription}"/>
+                            </StackPanel>
+                        </ToggleButton>
+                    </StackPanel>
+
+                    <!-- EKAB Filters -->
+                    <StackPanel x:Name="EKABFilters" Visibility="Collapsed">
+                        <TextBlock Text="EKAB Service" Style="{StaticResource FilterSectionHeader}"/>
+                        
+                        <ToggleButton x:Name="HospitalsToggle" 
+                                     Style="{StaticResource ModernToggleButton}"
+                                     Tag="🏥"
+                                     IsChecked="True"
+                                     Click="FilterToggle_Click">
+                            <StackPanel>
+                                <TextBlock Text="Hospitals" FontWeight="Medium"/>
+                                <TextBlock Text="Show hospital locations" Style="{StaticResource FilterDescription}"/>
+                            </StackPanel>
+                        </ToggleButton>
+
+                        <ToggleButton x:Name="AmbulancesToggle" 
+                                     Style="{StaticResource ModernToggleButton}"
+                                     Tag="🚑"
+                                     IsChecked="True"
+                                     Click="FilterToggle_Click">
+                            <StackPanel>
+                                <TextBlock Text="Ambulances" FontWeight="Medium"/>
+                                <TextBlock Text="Show ambulance vehicles" Style="{StaticResource FilterDescription}"/>
+                            </StackPanel>
+                        </ToggleButton>
+                    </StackPanel>
+                </StackPanel>
+
+                <!-- Action Buttons -->
+                <Grid Margin="0,24,0,0">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+                    
+                    <Border Grid.Column="0" 
+                            CornerRadius="6" 
+                            Margin="0,0,4,0">
+                        <Button x:Name="ShowAllButton" 
+                               Content="Show All" 
+                               Background="#FF10B981"
+                               BorderBrush="#FF059669"
+                               BorderThickness="1"
+                               Foreground="White"
+                               Padding="12,8"
+                               FontWeight="Medium"
+                               Cursor="Hand"
+                               Click="ShowAllButton_Click"/>
+                    </Border>
+                    
+                    <Border Grid.Column="1" 
+                            CornerRadius="6" 
+                            Margin="4,0,0,0">
+                        <Button x:Name="HideAllButton" 
+                               Content="Hide All" 
+                               Background="#FF6B7280"
+                               BorderBrush="#FF4B5563"
+                               BorderThickness="1"
+                               Foreground="White"
+                               Padding="12,8"
+                               FontWeight="Medium"
+                               Cursor="Hand"
+                               Click="HideAllButton_Click"/>
+                    </Border>
+                </Grid>
+            </StackPanel>
+        </ScrollViewer>
+    </Border>
+</UserControl>

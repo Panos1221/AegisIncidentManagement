@@ -1,0 +1,5363 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΣΧΟΛΗ ΛΙΜΕΝΟΦΥΛΑΚΩΝ",
+        "name_gr": "ΣΧΟΛΗ ΛΙΜΕΝΟΦΥΛΑΚΩΝ",
+        "address": "OΙΚΟΝΟΜΟΥ ΚΑΙ ΞΑΝΘΟΠΟΥΛΙΔΟΥ, ΠΕΙΡΑΙΑΣ",
+        "area": "ΑΤΤΙΚΗ-ΠΕΙΡΑΙΑΣ",
+        "type": "Other",
+        "telephone": null,
+        "email": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6280402,
+          37.9354265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΜΥΑ ΛΣ-ΕΛΑΚΤ",
+        "name_gr": "ΜΥΑ ΛΣ-ΕΛΑΚΤ",
+        "address": "AΓΙΟΣ ΚΟΣΜΑΣ",
+        "area": "ΑΤΤΙΚΗ-ΠΕΙΡΑΙΑΣ",
+        "type": "Other",
+        "telephone": null,
+        "email": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7275258,
+          37.8839719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΥΠΗΡΕΣΙΑ ΔΙΑΣΩΣΤΩΝ",
+        "name_gr": "ΥΠΗΡΕΣΙΑ ΔΙΑΣΩΣΤΩΝ",
+        "address": "ΣΤΡΑΤΙΩΤΙΚΟ ΑΕΡΟΔΡΟΜΙΟ ΕΛΕΥΣΙΝΑΣ",
+        "area": "ΑΤΤΙΚΗ-ΠΕΙΡΑΙΑΣ",
+        "type": "Other",
+        "telephone": null,
+        "email": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.549634,
+          38.0647567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "YEM/ΜΑΛΣ",
+        "name_gr": "YEM/ΜΑΛΣ",
+        "address": "AΕΡΟΠΟΡΙΚΗ ΒΑΣΗ ΔΕΚΕΛΕΙΑΣ",
+        "area": "ΑΤΤΙΚΗ-ΠΕΙΡΑΙΑΣ",
+        "type": "Other",
+        "telephone": null,
+        "email": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7773708,
+          38.1004855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "YΕΜ/ΜΕΛΣ",
+        "name_gr": "YΕΜ/ΜΕΛΣ",
+        "address": "KΟΤΡΩΝΙ ΜΑΡΑΘΩΝΑ",
+        "area": "ΑΤΤΙΚΗ-ΠΕΙΡΑΙΑΣ",
+        "type": "Other",
+        "telephone": null,
+        "email": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.9521841,
+          38.1401301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΕΠΙΣΤΕΥΑΣΤΙΚΗ ΒΑΣΗ ΕΛΕΥΣΙΝΑΣ",
+        "name_gr": "ΕΠΙΣΤΕΥΑΣΤΙΚΗ ΒΑΣΗ ΕΛΕΥΣΙΝΑΣ",
+        "address": "ΩΚΕΑΝΙΔΩΝ ΘΕΣΗ ΚΑΛΥΜΠΑΚΙ, ΕΛΕΥΣΙΝΑ",
+        "area": "ΑΤΤΙΚΗ-ΠΕΙΡΑΙΑΣ",
+        "type": "Other",
+        "telephone": "2105544940",
+        "email": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.552008,
+          38.039249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΥΠΗΡΕΣΙΑ ΕΣΩΤΕΡΙΚΩΝ ΥΠΟΘΕΣΕΩΝ",
+        "name_gr": "ΥΠΗΡΕΣΙΑ ΕΣΩΤΕΡΙΚΩΝ ΥΠΟΘΕΣΕΩΝ",
+        "address": "YΨΗΛΑΝΤΟΥ 109, ΠΕΙΡΑΙΑΣ",
+        "area": "ΑΤΤΙΚΗ-ΠΕΙΡΑΙΑΣ",
+        "type": "Other",
+        "telephone": null,
+        "email": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6481583,
+          37.942723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΥΕΥ / ΚΛΙΜΑΚΙΟ ΒΟΡΕΙΟΥ ΕΛΛΑΔΟΣ",
+        "name_gr": "ΥΕΥ / ΚΛΙΜΑΚΙΟ ΒΟΡΕΙΟΥ ΕΛΛΑΔΟΣ",
+        "address": "EΘΝ. ΑΝΤΙΣΤΑΣΕΩΣ 15, ΚΑΛΑΜΑΡΙΑ",
+        "area": "ΜΑΚΕΔΟΝΙΑ",
+        "type": "Other",
+        "telephone": null,
+        "email": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9588254,
+          40.5881922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ITHAKI",
+        "name_gr": "ΙΘΑΚΗΣ",
+        "address": "VATHI ITHAKIS, ZIP 28300",
+        "area": "ΙΟΝΙΑ ΝΗΣΙΑ",
+        "type": "Port Authority",
+        "telephone": "2674032909",
+        "email": "ithaki@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.717975,
+          38.364787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΑΛΟΝΝHΣΟΥ",
+        "name_gr": "ΑΛΟΝΝHΣΟΥ",
+        "address": "ΑΛΟΝΝΗΣΟΣ, Τ.Κ.37005",
+        "area": "ΘΕΣΣΑΛΙΑ",
+        "type": "Λιμενικός Σταθμός",
+        "telephone": "2424065595",
+        "email": "alonnisos@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.864744,
+          39.144276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "5η ΠΕΔΙΛΣ (Πάτρα)",
+        "name_gr": "5η ΠΕΔΙΛΣ (Πάτρα)",
+        "address": "ΑΚΤΗ ΔΥΜΑΙΩΝ 19, Τ.Κ. 26222",
+        "area": "ΠΕΛΟΠΟΝΝΗΣΟΣ",
+        "type": "Regional Command",
+        "telephone": "2610331563",
+        "email": "pedils5@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.7245068,
+          38.2311755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΨΑΡΩΝ",
+        "name_gr": "ΨΑΡΩΝ",
+        "address": "ΨΑΡΑ, T.Κ.82104",
+        "area": "ΒΑ ΑΙΓΑΙΟ",
+        "type": "Λιμενικός Σταθμός",
+        "telephone": "2274061336",
+        "email": "psara@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.563896,
+          38.539304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "OLD MONEMVASIA A΄",
+        "name_gr": "ΠΑΛΑΙΑΣ ΜΟΝΕΜΒΑΣΙΑΣ Α'",
+        "address": "Eleftherias 03, ZIP 23070",
+        "area": "ΠΕΛΟΠΟΝΝΗΣΟΣ",
+        "type": "Λιμενικό Τμήμα",
+        "telephone": "2732061266",
+        "email": "monemvasia at hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.03726,
+          36.68757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΕΛΟΥΝΤΑΣ",
+        "name_gr": "ΕΛΟΥΝΤΑΣ",
+        "address": "AKTI ELOUNDOS ELOUNDA LASSITHIOU,  72053",
+        "area": "ΚΡΗΤΗ",
+        "type": "Λιμενικό Τμήμα",
+        "telephone": "2841042566, 2841306844",
+        "email": "elounda at hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.7246095,
+          35.2614712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "9η ΠΕΔΙΛΣ (Μυτιλήνη)",
+        "name_gr": "9η ΠΕΔΙΛΣ (Μυτιλήνη)",
+        "address": "ASIA MINOR 2, MYTILINI, ZIP 81100",
+        "area": "ΒΑ ΑΙΓΑΙΟ",
+        "type": "Regional Command",
+        "telephone": "2251350334",
+        "email": "pedils9 at hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.557275,
+          39.106738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "6η ΠΕΔΙΛΣ (Σύρος)",
+        "name_gr": "6η ΠΕΔΙΛΣ (Σύρος)",
+        "address": "ΕΠΑΜΕΙΝΩΝΔΑ ΠΑΠΑΔΑΜ 2 ΕΡΜΟΥΠΟΛΗ ΣΥΡΟΣ, Τ.Κ.84100",
+        "area": "ΚΥΚΛΑΔΕΣ",
+        "type": "Regional Command",
+        "telephone": "2281079398",
+        "email": "pedils6@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.9401777,
+          37.4437974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΥΠΗΡΕΣΙΑ ΜΟΥΣΙΚΗΣ (ΥΜ)",
+        "name_gr": "ΥΠΗΡΕΣΙΑ ΜΟΥΣΙΚΗΣ (ΥΜ)",
+        "address": "Marathonos 8, Peiraias P.C 18540",
+        "area": "ΑΤΤΙΚΗ-ΠΕΙΡΑΙΑΣ",
+        "type": "Υπηρεσίες Αρχηγείου",
+        "telephone": "210 4190925",
+        "email": "mousiki at hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.65499763,
+          37.94894266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΑΕΝ ΚΥΜΗΣ Π",
+        "name_gr": "ΑΕΝ ΚΥΜΗΣ Π",
+        "address": "ΠΑΡΑΛΙΑ ΚΥΜΗΣ, Τ.Κ.34003",
+        "area": "ΣΤΕΡΕΑ",
+        "type": "ΑΕΝ",
+        "telephone": "2222022602",
+        "email": "aenkimis@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.121546,
+          38.630461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "VTS LAVRIOU",
+        "name_gr": "VTS ΛΑΥΡΙΟΥ",
+        "address": "Neo Limani Lavriou, 19500",
+        "area": "ΑΤΤΙΚΗ-ΠΕΙΡΑΙΑΣ",
+        "type": "VTS",
+        "telephone": "22920-69283 / VHF 71, 74",
+        "email": "lavrio.rts at hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.065367,
+          37.712383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "VTS PIRAEUS",
+        "name_gr": "VTS ΠΕΙΡΑΙΑ",
+        "address": "Akti Vasileiadi, Gate E1-E2, 18510",
+        "area": "ΑΤΤΙΚΗ-ΠΕΙΡΑΙΑΣ",
+        "type": "VTS",
+        "telephone": "2131374777 / VHF 13, 14, 15",
+        "email": "vts.piraeus at hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.626013,
+          37.942455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ZAKINTHOS",
+        "name_gr": "ΖΑΚΥΝΘΟΥ",
+        "address": "JETTY OF AGHIOS DIONISIOS, ZIP 29100",
+        "area": "ΙΟΝΙΑ ΝΗΣΙΑ",
+        "type": "Port Authority",
+        "telephone": "2695028117",
+        "email": "zakynthos@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.899588,
+          37.777749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SIMIS",
+        "name_gr": "ΣΥΜΗΣ",
+        "address": "SIMI, ZIP 85600",
+        "area": "ΔΩΔΕΚΑΝΗΣΑ",
+        "type": "Port Authority",
+        "telephone": "2246071205",
+        "email": "symi@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.838072,
+          36.617484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PAROS",
+        "name_gr": "ΠΑΡΟΥ",
+        "address": "PAROIKIA PAROS, ZIP 84400",
+        "area": "ΚΥΚΛΑΔΕΣ",
+        "type": "Port Authority",
+        "telephone": "2284021240",
+        "email": "paros@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.148981,
+          37.086117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "NAXOS",
+        "name_gr": "ΝΑΞΟΥ",
+        "address": "CHORA NAXOS, ZIP 84300",
+        "area": "ΚΥΚΛΑΔΕΣ",
+        "type": "Port Authority",
+        "telephone": "2285022300",
+        "email": "naxos@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.374778,
+          37.10724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MILOS",
+        "name_gr": "ΜΗΛΟΥ",
+        "address": "ADAMANTAS MILOS, ZIP 84800",
+        "area": "ΚΥΚΛΑΔΕΣ",
+        "type": "Port Authority",
+        "telephone": "2287023360",
+        "email": "milos@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.444905,
+          36.724127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "IOS",
+        "name_gr": "ΙΟΥ",
+        "address": "IOS, ZIP 84001",
+        "area": "ΚΥΚΛΑΔΕΣ",
+        "type": "Port Authority",
+        "telephone": "2286091264",
+        "email": "ios@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.272986,
+          36.723425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ANDROS",
+        "name_gr": "ΑΝΔΡΟΥ",
+        "address": "CHORA ANDROS, ZIP 84500",
+        "area": "ΚΥΚΛΑΔΕΣ",
+        "type": "Port Authority",
+        "telephone": "2282022250",
+        "email": "andros@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.938537,
+          37.846754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "KILLINI",
+        "name_gr": "ΚΥΛΛΗΝΗΣ",
+        "address": "PORT OF KILLINI, ZIP 27068",
+        "area": "ΠΕΛΟΠΟΝΝΗΣΟΣ",
+        "type": "Port Authority",
+        "telephone": "2623092211",
+        "email": "killini@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.146494,
+          37.936369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΓΑΪΟΥ ΠΑΞΩΝ",
+        "name_gr": "ΓΑΪΟΥ ΠΑΞΩΝ",
+        "address": "ΓΑΙΟΣ ΠΑΞΩΝ T.Κ.49082",
+        "area": "ΙΟΝΙΑ ΝΗΣΙΑ",
+        "type": "Λιμενικός Σταθμός",
+        "telephone": "2662032533",
+        "email": "paxoi@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.185395,
+          39.199142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΛΕΥΚΙΜΗΣ",
+        "name_gr": "ΛΕΥΚΙΜΗΣ",
+        "address": "ΛΕΥΚΙΜΜΗ, T.Κ.49080",
+        "area": "ΙΟΝΙΑ ΝΗΣΙΑ",
+        "type": "Λιμενικός Σταθμός",
+        "telephone": "2662023277",
+        "email": "lefkimmi@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.096408,
+          39.414237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΟΘΩΝΩΝ",
+        "name_gr": "ΟΘΩΝΩΝ",
+        "address": "ΟΘΩΝΟΙ T.Κ.49100",
+        "area": "ΙΟΝΙΑ ΝΗΣΙΑ",
+        "type": "Λιμενικός Σταθμός",
+        "telephone": "2663072280",
+        "email": "othonoi@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.405467,
+          39.841458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΦΙΣΚΑΡΔΟΥ ΚΕΦ/ΝΙΑΣ",
+        "name_gr": "ΦΙΣΚΑΡΔΟΥ ΚΕΦ/ΝΙΑΣ",
+        "address": "ΦΙΣΚΑΡΔΟ T.Κ.28084",
+        "area": "ΙΟΝΙΑ ΝΗΣΙΑ",
+        "type": "Λιμενικός Σταθμός",
+        "telephone": "2674041400",
+        "email": "fiskardo@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.57644,
+          38.462334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΝΥΔΡΙΟΥ Α'",
+        "name_gr": "ΝΥΔΡΙΟΥ Α'",
+        "address": "ΝΥΔΡΙ ΛΕΥΚΑΔΑΣ, T.Κ.31084",
+        "area": "ΙΟΝΙΑ ΝΗΣΙΑ",
+        "type": "Λιμενικό Τμήμα",
+        "telephone": "2645092509",
+        "email": "nidri@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.710797,
+          38.707168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΠΑΛΑΙΟΚΑΣΤΡΙΤΣΑΣ Α'",
+        "name_gr": "ΠΑΛΑΙΟΚΑΣΤΡΙΤΣΑΣ Α'",
+        "address": "ΠΑΛΑΙΟΚΑΣΤΡΙΤΣΑ, Τ.Κ.49083",
+        "area": "ΙΟΝΙΑ ΝΗΣΙΑ",
+        "type": "Λιμενικό Τμήμα",
+        "telephone": "2663041297",
+        "email": "palaiokastritsa@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.707355,
+          39.672218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΠΟΡΟΥ ΚΕΦ/ΝΙΑΣ Α'",
+        "name_gr": "ΠΟΡΟΥ ΚΕΦ/ΝΙΑΣ Α'",
+        "address": "ΠΟΡΟΣ (ΚΕΦΑΛΛΗΝΙΑΣ) T.Κ.28086",
+        "area": "ΙΟΝΙΑ ΝΗΣΙΑ",
+        "type": "Λιμενικό Τμήμα",
+        "telephone": "2674072460",
+        "email": "kefa.poros@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.782212,
+          38.146273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΣΑΜΗΣ Β'",
+        "name_gr": "ΣΑΜΗΣ Β'",
+        "address": "ΣΑΜΗ ΚΕΦΑΛΛΗΝΙΑΣ,T.Κ.28080",
+        "area": "ΙΟΝΙΑ ΝΗΣΙΑ",
+        "type": "Λιμενικό Τμήμα",
+        "telephone": "2674022031",
+        "email": "sami@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.649845,
+          38.254002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MIKONOS",
+        "name_gr": "ΜΥΚΟΝΟΥ",
+        "address": "TOURLOS, NEW PORT OF MYKONOS, ZIP 84600",
+        "area": "ΚΥΚΛΑΔΕΣ",
+        "type": "Port Authority",
+        "telephone": "2289022218",
+        "email": "mykonos@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.327601,
+          37.447171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΚΕΡΑΜΩΤΗΣ Β'",
+        "name_gr": "ΚΕΡΑΜΩΤΗΣ Β'",
+        "address": "ΚΕΡΑΜΩΤΗ ΚΑΒΑΛΑΣ, T.Κ.64011",
+        "area": "ΜΑΚΕΔΟΝΙΑ",
+        "type": "Λιμενικό Τμήμα",
+        "telephone": "2591051204",
+        "email": "keramoti@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.703547,
+          40.859099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΑΓΙΑΣ ΚΥΡΙΑΚΗΣ ΤΡΙΚΕΡΩΝ ΜΑΓΝΗΣΙΑΣ Β'",
+        "name_gr": "ΑΓΙΑΣ ΚΥΡΙΑΚΗΣ ΤΡΙΚΕΡΩΝ ΜΑΓΝΗΣΙΑΣ Β'",
+        "address": "ΑΓΙΑ ΚΥΡΙΑΚΗ ΤΡΙΚΕΡΩΝ ΜΑΓΝΗΣΙΑΣ Τ.Κ.37009",
+        "area": "ΘΕΣΣΑΛΙΑ",
+        "type": "Λιμενικό Τμήμα",
+        "telephone": "2423091400",
+        "email": "agia.kiriaki@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.069851,
+          39.092422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΑΓΙΟΚΑΜΠΟΥ ΛΑΡΙΣΑΣ Α'",
+        "name_gr": "ΑΓΙΟΚΑΜΠΟΥ ΛΑΡΙΣΑΣ Α'",
+        "address": "ΚΟΙΝ. ΚΑΤΑΣΤΗΜΑ ΣΩΤΗΡΙΤΣΑΣ Τ.Κ.40003",
+        "area": "ΘΕΣΣΑΛΙΑ",
+        "type": "Λιμενικό Τμήμα",
+        "telephone": "2494052222",
+        "email": "agiokampos@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.808234,
+          39.740015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "VTS ANTIRRIOU",
+        "name_gr": "VTS ΑΝΤΙΡΡΙΟΥ",
+        "address": "Limenas Antirriou, 30300",
+        "area": "ΠΕΛΟΠΟΝΝΗΣΟΣ",
+        "type": "VTS",
+        "telephone": "26340-32370 / VHF 14, 13",
+        "email": "patra.rts at hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.768603,
+          38.332678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΣΚΟΠΕΛΟΥ Α'",
+        "name_gr": "ΣΚΟΠΕΛΟΥ Α'",
+        "address": "ΣΚΟΠΕΛΟΣ T.Κ.37003",
+        "area": "ΘΕΣΣΑΛΙΑ",
+        "type": "Λιμενικό Τμήμα",
+        "telephone": "2424022180",
+        "email": "skopelos@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.72806,
+          39.122467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΑΕΝ ΙΟΝΙΩΝ ΝΗΣΩΝ Π",
+        "name_gr": "ΑΕΝ ΙΟΝΙΩΝ ΝΗΣΩΝ Π",
+        "address": "ΠΛΑΤΕΙΑ ΜΕΙΤΛΑΝΤ ΑΡΓΟΣΤΟΛΙ, Τ.Κ.28100",
+        "area": "ΙΟΝΙΑ ΝΗΣΙΑ",
+        "type": "ΑΕΝ",
+        "telephone": "2671028608, 2671028827",
+        "email": "aenionia@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.48613,
+          38.184823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "1η ΠΕΔΙΛΣ (Πειραιάς)",
+        "name_gr": "1η ΠΕΔΙΛΣ (Πειραιάς)",
+        "address": "Akti Vassiliadi, Gate Ε 1 - Ε 2, 185 10, Piraeus",
+        "area": "ΑΤΤΙΚΗ-ΠΕΙΡΑΙΑΣ",
+        "type": "Regional Command",
+        "telephone": "2131371739",
+        "email": "pedils1 at hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.62675849,
+          37.94300212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΑΓΙΩΝ ΘΕΟΔΩΡΩΝ Α'",
+        "name_gr": "ΑΓΙΩΝ ΘΕΟΔΩΡΩΝ Α'",
+        "address": "ΑΓΙΟΙ ΘΕΟΔΩΡΟΙ, Τ.Κ.20003",
+        "area": "ΠΕΛΟΠΟΝΝΗΣΟΣ",
+        "type": "Λιμενικό Τμήμα",
+        "telephone": "2741048080",
+        "email": "ag.theodoroi@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.144557,
+          37.927565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΑΙΓΙΟΥ Γ'",
+        "name_gr": "ΑΙΓΙΟΥ Γ'",
+        "address": "ΨΑΡΡΩΝ 2 ΠΑΡΑΛΙΑ ΑΙΓΙΟΥ, Τ.Κ.25100",
+        "area": "ΠΕΛΟΠΟΝΝΗΣΟΣ",
+        "type": "Λιμενικό Τμήμα",
+        "telephone": "2691028888",
+        "email": "aigio@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.078274,
+          38.253613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΕΡΜΙΟΝΗΣ Β'",
+        "name_gr": "ΕΡΜΙΟΝΗΣ Β'",
+        "address": "ΕΡΜΙΟΝΗ ΑΡΓΟΛΙΔΑΣ, T.Κ.21051",
+        "area": "ΠΕΛΟΠΟΝΝΗΣΟΣ",
+        "type": "Λιμενικό Τμήμα",
+        "telephone": "2754031243",
+        "email": "ermioni@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.249122,
+          37.385365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΙΣΘΜΙΑΣ Β'",
+        "name_gr": "ΙΣΘΜΙΑΣ Β'",
+        "address": "ΙΣΘΜΙΑ T.Κ.20100",
+        "area": "ΠΕΛΟΠΟΝΝΗΣΟΣ",
+        "type": "Λιμενικό Τμήμα",
+        "telephone": "2741037555",
+        "email": "isthmia@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.007898,
+          37.918421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΚΙΑΤΟΥ Δ'",
+        "name_gr": "ΚΙΑΤΟΥ Δ'",
+        "address": "ΑΡΑΤΟΥ 2, T.Κ.22200",
+        "area": "ΠΕΛΟΠΟΝΝΗΣΟΣ",
+        "type": "Λιμενικό Τμήμα",
+        "telephone": "2742022212",
+        "email": "kiato@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.750894,
+          38.012857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΚΟΡΩΝΗΣ Α'",
+        "name_gr": "ΚΟΡΩΝΗΣ Α'",
+        "address": "ΚΟΡΩΝΗ ΜΕΣΣΗΝΙΑΣ, T.Κ.24004",
+        "area": "ΠΕΛΟΠΟΝΝΗΣΟΣ",
+        "type": "Λιμενικό Τμήμα",
+        "telephone": "2725022377",
+        "email": "koroni@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.956409,
+          36.797307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PILOS",
+        "name_gr": "ΠΥΛΟΥ",
+        "address": "PILOS ZIP 24001",
+        "area": "ΠΕΛΟΠΟΝΝΗΣΟΣ",
+        "type": "Port Authority",
+        "telephone": "2723022225",
+        "email": "pylo@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.69509,
+          36.914472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "NEAPOLI VOION",
+        "name_gr": "ΝΕΑΠΟΛΗΣ  ΒΟΙΩΝ",
+        "address": "AKTI VOION 160, ZIP 23053",
+        "area": "ΠΕΛΟΠΟΝΝΗΣΟΣ",
+        "type": "Port Authority",
+        "telephone": "2734022228",
+        "email": "neapoli@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.0593402,
+          36.5096957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "KORINTHOS",
+        "name_gr": "ΚΟΡΙΝΘΟΥ",
+        "address": "APOSTOLOU PAVRLOU 2, KORINTHOS, ZIP 20131",
+        "area": "ΠΕΛΟΠΟΝΝΗΣΟΣ",
+        "type": "Port Authority",
+        "telephone": "2741028888",
+        "email": "korinthos@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.932106,
+          37.942868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GITHION",
+        "name_gr": "ΓΥΘΕΙΟΥ",
+        "address": "PR. TZANI TZANETAKI, ZIP 23200",
+        "area": "ΠΕΛΟΠΟΝΝΗΣΟΣ",
+        "type": "Port Authority",
+        "telephone": "2733022262",
+        "email": "githeio@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.571727,
+          36.753739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SKIATHOS",
+        "name_gr": "ΣΚΙΑΘΟΥ",
+        "address": "SKIATHOS, ZIP 37002",
+        "area": "ΘΕΣΣΑΛΙΑ",
+        "type": "Port Authority",
+        "telephone": "2427022017",
+        "email": "skiathos@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.49057,
+          39.162459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LEFKADA",
+        "name_gr": "ΛΕΥΚΑΔΑΣ",
+        "address": "D. GOLEMI 5-7 LEFKADA, ZIP 31100",
+        "area": "ΙΟΝΙΑ ΝΗΣΙΑ",
+        "type": "Port Authority",
+        "telephone": "2645022322",
+        "email": "lefkada@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.708891,
+          38.832172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΚΥΠΑΡΙΣΣΙΑΣ Α'",
+        "name_gr": "ΚΥΠΑΡΙΣΣΙΑΣ Α'",
+        "address": "Γ. ΚΑΡΑΤΣΑΜΗ, T.Κ.24500",
+        "area": "ΠΕΛΟΠΟΝΝΗΣΟΣ",
+        "type": "Λιμενικό Τμήμα",
+        "telephone": "2761022128",
+        "email": "kiparissia@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.665014,
+          37.253406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΛΕΩΝΙΔΙΟΥ Δ'",
+        "name_gr": "ΛΕΩΝΙΔΙΟΥ Δ'",
+        "address": "ΛΕΩΝΙΔΙΟ, T.Κ.22300",
+        "area": "ΠΕΛΟΠΟΝΝΗΣΟΣ",
+        "type": "Λιμενικό Τμήμα",
+        "telephone": "2757022387",
+        "email": "leonidio@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.89329,
+          37.146425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΠΑΛΑΙΑΣ ΕΠΙΔΑΥΡΟΥ Γ'",
+        "name_gr": "ΠΑΛΑΙΑΣ ΕΠΙΔΑΥΡΟΥ Γ'",
+        "address": "ΠΑΛΑΙΑ ΕΠΙΔΑΥΡΟΣ, Τ.Κ.21059",
+        "area": "ΠΕΛΟΠΟΝΝΗΣΟΣ",
+        "type": "Λιμενικό Τμήμα",
+        "telephone": "2753041216",
+        "email": "epidavros@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.157477,
+          37.63796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΠΑΡΑΛΙΟΥ ΑΣΤΡΟΥΣ Γ'",
+        "name_gr": "ΠΑΡΑΛΙΟΥ ΑΣΤΡΟΥΣ Γ'",
+        "address": "ΠΑΡΑΛΙΟΝ ΑΣΤΡΟΣ T.Κ.22001",
+        "area": "ΠΕΛΟΠΟΝΝΗΣΟΣ",
+        "type": "Λιμενικό Τμήμα",
+        "telephone": "2755051445",
+        "email": "astros@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.765304,
+          37.415236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΡΙΟΥ Α'",
+        "name_gr": "ΡΙΟΥ Α'",
+        "address": "ΡΙΟ ΑΧΑΪΑΣ, Τ.Κ.26504",
+        "area": "ΠΕΛΟΠΟΝΝΗΣΟΣ",
+        "type": "Λιμενικό Τμήμα",
+        "telephone": "2610991203",
+        "email": "rio@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.785024,
+          38.309304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΠΑΤΡΑΣ Β' Λ/Τ",
+        "name_gr": "ΠΑΤΡΑΣ Β' Λ/Τ",
+        "address": "ΚΤΙΡΙΟ ΥΠΗΡ. ΛΙΜΕΝΑ ΠΑΤΡΩΝ, Τ.Κ.26110",
+        "area": "ΠΕΛΟΠΟΝΝΗΣΟΣ",
+        "type": "Λιμενικό Τμήμα",
+        "telephone": "2613615434",
+        "email": "patra.blt@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.729332,
+          38.246093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΑΝΤΙΚΥΡΑΣ Α'",
+        "name_gr": "ΑΝΤΙΚΥΡΑΣ Α'",
+        "address": "NIREOS 1 DISTOMOU BEACH, 32003",
+        "area": "ΣΤΕΡΕΑ",
+        "type": "Λιμενικό Τμήμα",
+        "telephone": "2267041205",
+        "email": "antikyra@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.633115,
+          38.377089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΑΜΟΡΓΟΥ ΚΑΤΑΠΟΛΩΝ",
+        "name_gr": "ΑΜΟΡΓΟΥ ΚΑΤΑΠΟΛΩΝ",
+        "address": "ΚΑΤΑΠΟΛΑ ΑΜΟΡΓΟΣ, Τ.Κ.84008",
+        "area": "ΚΥΚΛΑΔΕΣ",
+        "type": "Λιμενικός Σταθμός",
+        "telephone": "2285071259",
+        "email": "amorgos@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.865104,
+          36.83081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΚΙΜΩΛΟΥ",
+        "name_gr": "ΚΙΜΩΛΟΥ",
+        "address": "ΚΙΜΩΛΟΣ, T.Κ.84004",
+        "area": "ΚΥΚΛΑΔΕΣ",
+        "type": "Λιμενικός Σταθμός",
+        "telephone": "2287051071",
+        "email": "kimolos@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.578925,
+          36.786535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΚΥΘΝΟΥ",
+        "name_gr": "ΚΥΘΝΟΥ",
+        "address": "ΚΥΘΝΟΣ, T.Κ.84006",
+        "area": "ΚΥΚΛΑΔΕΣ",
+        "type": "Λιμενικός Σταθμός",
+        "telephone": "2281032290",
+        "email": "kythnos@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.39745,
+          37.390113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΣΕΡΙΦΟΥ",
+        "name_gr": "ΣΕΡΙΦΟΥ",
+        "address": "ΣΕΡΙΦΟΣ, T.Κ.84005",
+        "area": "ΚΥΚΛΑΔΕΣ",
+        "type": "Λιμενικός Σταθμός",
+        "telephone": "2281051470",
+        "email": "serifos@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.514497,
+          37.142258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΣΙΦΝΟΥ",
+        "name_gr": "ΣΙΦΝΟΥ",
+        "address": "ΚΑΜΑΡΕΣ ΣΙΦΝΟΥ, T.Κ.84003",
+        "area": "ΚΥΚΛΑΔΕΣ",
+        "type": "Λιμενικός Σταθμός",
+        "telephone": "2284033617",
+        "email": "sifnos@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.674466,
+          36.98904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΦΟΛΕΓΑΝΔΡΟΥ",
+        "name_gr": "ΦΟΛΕΓΑΝΔΡΟΥ",
+        "address": "ΦΟΛΕΓΑΝΔΡΟΣ, T.Κ.84011",
+        "area": "ΚΥΚΛΑΔΕΣ",
+        "type": "Λιμενικός Σταθμός",
+        "telephone": "2286041530",
+        "email": "folegandros@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.948932,
+          36.615757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΚΕΑΣ Β'",
+        "name_gr": "ΚΕΑΣ Β'",
+        "address": "ΚΕΑ, Τ.Κ.84002",
+        "area": "ΚΥΚΛΑΔΕΣ",
+        "type": "Λιμενικό Τμήμα",
+        "telephone": "2288021344",
+        "email": "kea@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.311745,
+          37.659028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "VTS KERKYRAS",
+        "name_gr": "VTS KΕΡΚΥΡΑΣ",
+        "address": "Neo Limani, 49100",
+        "area": "ΙΟΝΙΑ ΝΗΣΙΑ",
+        "type": "VTS",
+        "telephone": "26610-81155 / VHF 13, 14",
+        "email": "vts.kerkyras at hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.905513,
+          39.62708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΔΙΕΥΘΥΝΤΗΣ ΚΛΑΔΟΥ Α' ΑΣΦΑΛΕΙΑΣ & ΑΣΤΥΝΟΜΕΥΣΗΣ",
+        "name_gr": "ΔΙΕΥΘΥΝΤΗΣ ΚΛΑΔΟΥ Α' ΑΣΦΑΛΕΙΑΣ & ΑΣΤΥΝΟΜΕΥΣΗΣ",
+        "address": "Πύλη Ε1 - Ε2 Ακτή Βασιλειάδη - Τ.Κ. 185 10, Πειραιάς",
+        "area": "ΑΤΤΙΚΗ-ΠΕΙΡΑΙΑΣ",
+        "type": "Υπηρεσίες Αρχηγείου",
+        "telephone": "2131374725",
+        "email": "dka at hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.626732,
+          37.942605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "KYTHIRON B'",
+        "name_gr": "ΚΥΘΗΡΩΝ Β'",
+        "address": "KYTHIRON B., 80200",
+        "area": "ΑΤΤΙΚΗ-ΠΕΙΡΑΙΑΣ",
+        "type": "Λιμενικό Τμήμα",
+        "telephone": "2736033280",
+        "email": "kythira at hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.07605399,
+          36.2618338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GAVRIOU A' L/T",
+        "name_gr": "ΓΑΥΡΙΟΥ Α' Λ/Τ",
+        "address": "GAVRIO ANDROS, ZIP 84501",
+        "area": "ΚΥΚΛΑΔΕΣ",
+        "type": "Λιμενικό Τμήμα",
+        "telephone": "2282071213",
+        "email": "gavrio at hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.736026,
+          37.883211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΜΑΝΤΟΥΔΙΟΥ ΕΥΒΟΙΑΣ",
+        "name_gr": "ΜΑΝΤΟΥΔΙΟΥ ΕΥΒΟΙΑΣ",
+        "address": "ΜΑΝΤΟΥΔΙ, T.Κ.34004",
+        "area": "ΣΤΕΡΕΑ",
+        "type": "Λιμενικός Σταθμός",
+        "telephone": "2227022020",
+        "email": "mantoudi@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.479452,
+          38.798837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΑΓΙΟΥ ΚΩΝΣΤΑΝΤΙΝΟΥ Β'",
+        "name_gr": "ΑΓΙΟΥ ΚΩΝΣΤΑΝΤΙΝΟΥ Β'",
+        "address": "ΚΑΡΑΙΣΚΑΚΗ 4 ΑΓΙΟΣ ΚΩΝ/ΝΟΣ ΛΟΚΡΙΔΑΣ, Τ.Κ.35006",
+        "area": "ΣΤΕΡΕΑ",
+        "type": "Λιμενικό Τμήμα",
+        "telephone": "2235031759",
+        "email": "agios.konstantinos@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.859233,
+          38.756473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΑΛΙΒΕΡΙΟΥ Δ'",
+        "name_gr": "ΑΛΙΒΕΡΙΟΥ Δ'",
+        "address": "ΚΑΡΑΒΟΣ  ΑΛΙΒΕΡΙΟΥ, Τ.Κ.34500",
+        "area": "ΣΤΕΡΕΑ",
+        "type": "Λιμενικό Τμήμα",
+        "telephone": "2223022318",
+        "email": "aliveri@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.04304,
+          38.394115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΑΜΦΙΛΟΧΙΑΣ Α'",
+        "name_gr": "ΑΜΦΙΛΟΧΙΑΣ Α'",
+        "address": "Β. ΚΑΡΑΠΑΝΟΥ 86, Τ.Κ.30500",
+        "area": "ΣΤΕΡΕΑ",
+        "type": "Λιμενικό Τμήμα",
+        "telephone": "2642022340",
+        "email": "amfiloxia@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.165699,
+          38.863716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΓΑΛΑΞΙΔΙΟΥ Γ'",
+        "name_gr": "ΓΑΛΑΞΙΔΙΟΥ Γ'",
+        "address": "11 Πάροδος, T.Κ.33052",
+        "area": "ΣΤΕΡΕΑ",
+        "type": "Λιμενικό Τμήμα",
+        "telephone": "2265041390",
+        "email": "galaxeidi@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.383679,
+          38.378907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "KALAMATA",
+        "name_gr": "ΚΑΛΑΜΑΤΑΣ",
+        "address": "TELONEIOU SQUARE, ZIP 24100",
+        "area": "ΠΕΛΟΠΟΝΝΗΣΟΣ",
+        "type": "Central Port Authority",
+        "telephone": "2721022218",
+        "email": "kalamata@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.110962,
+          37.026245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "STILIDA",
+        "name_gr": "ΣΤΥΛΙΔΑΣ",
+        "address": "STILIDA, ZIP 35300",
+        "area": "ΣΤΕΡΕΑ",
+        "type": "Port Authority",
+        "telephone": "2238022329",
+        "email": "stylida@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.623585,
+          38.910766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "KIMI",
+        "name_gr": "ΚΥΜΗΣ",
+        "address": "KIMI, ZIP 34003",
+        "area": "ΣΤΕΡΕΑ",
+        "type": "Port Authority",
+        "telephone": "2222022606",
+        "email": "kimi@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.124109,
+          38.630752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PORTOCHELIOU",
+        "name_gr": "ΠΟΡΤΟΧΕΛΙΟΥ Α' Λ/Τ",
+        "address": "PORTO HELI  ZIP 21300",
+        "area": "ΠΕΛΟΠΟΝΝΗΣΟΣ",
+        "type": "Λιμενικό Τμήμα",
+        "telephone": "2754053333",
+        "email": "portoheli at hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.1438,
+          37.32371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ITEA",
+        "name_gr": "ΙΤΕΑΣ",
+        "address": "AKTI POSEIDONOS - IROON 1, ZIP 33200",
+        "area": "ΣΤΕΡΕΑ",
+        "type": "Port Authority",
+        "telephone": "2265032319",
+        "email": "itea@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.4237,
+          38.431458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TINOS",
+        "name_gr": "ΤΗΝΟΥ",
+        "address": "LEOF. STAVROU - KIONION 10 TINOS, ZIP 84200",
+        "area": "ΚΥΚΛΑΔΕΣ",
+        "type": "Port Authority",
+        "telephone": "2283022220",
+        "email": "tinos@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.156572,
+          37.539674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SKYROS",
+        "name_gr": "ΣΚΥΡΟΥ",
+        "address": "CHORA SKYROU, ZIP 34007",
+        "area": "ΣΤΕΡΕΑ",
+        "type": "Λιμενικός Σταθμός",
+        "telephone": "2222093475",
+        "email": "skyros at hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.537637,
+          38.842184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΓΛΥΦΑΣ Α'",
+        "name_gr": "ΓΛΥΦΑΣ Α'",
+        "address": "ΓΛΥΦΑ (ΦΘΙΩΤΙΔΑ) T.Κ.35013",
+        "area": "ΣΤΕΡΕΑ",
+        "type": "Λιμενικό Τμήμα",
+        "telephone": "2238061288",
+        "email": "glyfa@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.965015,
+          38.952212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΠΛΑΤΥΓΙΑΛΙΟΥ Β'",
+        "name_gr": "ΠΛΑΤΥΓΙΑΛΙΟΥ Β'",
+        "address": "ΠΛΑΤΥΓΙΑΛΙ, T.Κ.30006",
+        "area": "ΣΤΕΡΕΑ",
+        "type": "Λιμενικό Τμήμα",
+        "telephone": "2631022436",
+        "email": "platigiali@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.106163,
+          38.479122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΘΙΣΒΗΣ Β'",
+        "name_gr": "ΘΙΣΒΗΣ Β'",
+        "address": "Θίσβη Βοιωτίας - Τ.Κ. 32010",
+        "area": "ΣΤΕΡΕΑ",
+        "type": "Λιμενικό Τμήμα",
+        "telephone": "22640 22466",
+        "email": "thisvi@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.969621,
+          38.257749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΝΕΩΝ ΣΤΥΡΩΝ ΕΥΒΟΙΑΣ Α'",
+        "name_gr": "ΝΕΩΝ ΣΤΥΡΩΝ ΕΥΒΟΙΑΣ Α'",
+        "address": "ΝΕΑ ΣΤΥΡΑ T.Κ.34015",
+        "area": "ΣΤΕΡΕΑ",
+        "type": "Λιμενικό Τμήμα",
+        "telephone": "2224041266",
+        "email": "neastyra@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.207607,
+          38.179834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shipping Directorate",
+        "name_gr": "ΔΙΕΥΘΥΝΣΗ ΠΟΝΤΟΠΟΡΟΥ ΝΑΥΤΙΛΙΑΣ (ΔΠΝ)",
+        "address": "Akti Vassiliadi, Gate Ε 1 - Ε 2, 185 10, Piraeus",
+        "area": "ΑΤΤΙΚΗ-ΠΕΙΡΑΙΑΣ",
+        "type": "Υπηρεσίες Αρχηγείου",
+        "telephone": "2131371216",
+        "email": "dpn at hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.626732,
+          37.942605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΣΚΑΛΑΣ ΑΤΑΛΑΝΤΗΣ Γ'",
+        "name_gr": "ΣΚΑΛΑΣ ΑΤΑΛΑΝΤΗΣ Γ'",
+        "address": "ΣΚΑΛΑ ΑΤΑΛΑΝΤΗΣ T.Κ.35200",
+        "area": "ΣΤΕΡΕΑ",
+        "type": "Λιμενικό Τμήμα",
+        "telephone": "2233031108",
+        "email": "atalanti@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.073985,
+          38.671257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΝΕΑΣ ΜΗΧΑΝΙΩΝΑΣ Α'",
+        "name_gr": "ΝΕΑΣ ΜΗΧΑΝΙΩΝΑΣ Α'",
+        "address": "ΝΕΑ ΜΗΧΑΝΙΩΝΑ, Τ.Κ.57004",
+        "area": "ΜΑΚΕΔΟΝΙΑ",
+        "type": "Λιμενικό Τμήμα",
+        "telephone": "2392036096",
+        "email": "mixaniona@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.857822,
+          40.4642679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CHALKIDA",
+        "name_gr": "ΧΑΛΚΙΔΑΣ",
+        "address": "K. KARAMANLI 2, ZIP 34100",
+        "area": "ΣΤΕΡΕΑ",
+        "type": "Central Port Authority",
+        "telephone": "2221028888",
+        "email": "halkida@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.590844,
+          38.461961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΝΕΩΝ ΜΟΥΔΑΝΙΩΝ Β'",
+        "name_gr": "ΝΕΩΝ ΜΟΥΔΑΝΙΩΝ Β'",
+        "address": "ΝΕΑ ΜΟΥΔΑΝΙΑ  T.Κ.63200",
+        "area": "ΜΑΚΕΔΟΝΙΑ",
+        "type": "Λιμενικό Τμήμα",
+        "telephone": "2373021172",
+        "email": "moudania@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.277138,
+          40.239172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΟΥΡΑΝΟΥΠΟΛΗΣ Α'",
+        "name_gr": "ΟΥΡΑΝΟΥΠΟΛΗΣ Α'",
+        "address": "ΟΥΡΑΝΟΥΠΟΛΗ ΙΕΡΙΣΣΟΣ, Τ.Κ.63075",
+        "area": "ΜΑΚΕΔΟΝΙΑ",
+        "type": "Λιμενικό Τμήμα",
+        "telephone": "2377071248",
+        "email": "ouranoupoli@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.979761,
+          40.325478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΠΛΑΤΑΜΩΝΑ ΠΙΕΡΙΑΣ Δ'",
+        "name_gr": "ΠΛΑΤΑΜΩΝΑ ΠΙΕΡΙΑΣ Δ'",
+        "address": "ΠΛΑΤΑΜΩΝΑΣ T.Κ.60065",
+        "area": "ΜΑΚΕΔΟΝΙΑ",
+        "type": "Λιμενικό Τμήμα",
+        "telephone": "2352041366",
+        "email": "platamonas@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.625028,
+          39.992422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΣΚΑΛΑΣ ΚΑΤΕΡΙΝΗΣ Γ'",
+        "name_gr": "ΣΚΑΛΑΣ ΚΑΤΕΡΙΝΗΣ Γ'",
+        "address": "ΠΑΡΑΛΙΑ ΚΑΤΕΡΙΝΗΣ, Τ.Κ. 60100",
+        "area": "ΜΑΚΕΔΟΝΙΑ",
+        "type": "Λιμενικό Τμήμα",
+        "telephone": "2351061209",
+        "email": "katerini@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.594451,
+          40.260327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΣΤΑΥΡΟΥ Β'",
+        "name_gr": "ΣΤΑΥΡΟΥ Β'",
+        "address": "ΣΤΑΥΡΟΣ (ΘΕΣΣΑΛΟΝΙΚΗ) T.Κ.57014",
+        "area": "ΜΑΚΕΔΟΝΙΑ",
+        "type": "Λιμενικό Τμήμα",
+        "telephone": "2397061280",
+        "email": "stavros@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.700822,
+          40.665616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΑΕΝ ΜΑΚΕΔΟΝΙΑΣ Π/Μ",
+        "name_gr": "ΑΕΝ ΜΑΚΕΔΟΝΙΑΣ Π/Μ",
+        "address": "ΝΕΑ ΜΗΧΑΝΙΩΝΑ, Τ.Κ.57004",
+        "area": "ΜΑΚΕΔΟΝΙΑ",
+        "type": "ΑΕΝ",
+        "telephone": "2392031222",
+        "email": "aenmakedonias@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.847777,
+          40.470772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΔΣΕΝ/ ΜΑΚΕΔΟΝΙΑΣ/ ΣΠΜ",
+        "name_gr": "ΔΣΕΝ/ ΜΑΚΕΔΟΝΙΑΣ/ ΣΠΜ",
+        "address": "ΝΕΑ ΜΗΧΑΝΙΩΝΑ, Τ.Κ.57004",
+        "area": "ΜΑΚΕΔΟΝΙΑ",
+        "type": "ΑΕΝ",
+        "telephone": "2392034200",
+        "email": "sspm_mak@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.847777,
+          40.470772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΧΩΡΑΣ ΣΦΑΚΙΩΝ",
+        "name_gr": "ΧΩΡΑΣ ΣΦΑΚΙΩΝ",
+        "address": "ΧΩΡΑ ΣΦΑΚΙΩΝ, Τ.Κ.73011",
+        "area": "ΚΡΗΤΗ",
+        "type": "Λιμενικός Σταθμός",
+        "telephone": "2825091292",
+        "email": "xsfakion@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.156309,
+          35.201039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΧΙΟΥΣΤΟΝ",
+        "name_gr": "ΧΙΟΥΣΤΟΝ",
+        "address": "Consulate of Greece, Maritime Office, 4544 Post Oak Place, Suite 252, Houston, Texas 77027",
+        "area": "-",
+        "type": "Προξενικό Λιμεναρχείο",
+        "telephone": "001 7136299100, 001 832 324 1592",
+        "email": "hma.houston at hcg.gr,  enahouston at sbcglobal.net"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.369803,
+          29.760427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΧΑΝΙΩΝ Α΄Λ/Τ",
+        "name_gr": "ΧΑΝΙΩΝ Α΄Λ/Τ",
+        "address": "TOMPAZI 21, ZIP 73100",
+        "area": "ΚΡΗΤΗ",
+        "type": "Λιμενικό Τμήμα",
+        "telephone": "2821098888",
+        "email": "chania.lt at hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.018992,
+          35.51876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΑΓΙΑΣ ΓΑΛΗΝΗΣ",
+        "name_gr": "ΑΓΙΑΣ ΓΑΛΗΝΗΣ",
+        "address": "ΑΓΙΑ ΓΑΛΗΝΗ, Τ.Κ.74056",
+        "area": "ΚΡΗΤΗ",
+        "type": "Λιμενικός Σταθμός",
+        "telephone": "2832091206",
+        "email": "agia.galini@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.687846,
+          35.095803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΚAΛΩN ΛΙΜΙΩΝΩΝ",
+        "name_gr": "ΚAΛΩN ΛΙΜΙΩΝΩΝ",
+        "address": "ΚΑΛΟΙ ΛΙΜΕΝΕΣ, Τ.Κ.70009",
+        "area": "ΚΡΗΤΗ",
+        "type": "Λιμενικός Σταθμός",
+        "telephone": "2892097500",
+        "email": "kaloi.limenes@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.801673,
+          34.93211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΚΑΣΤΕΛΙΟΥ ΚΙΣΣΑΜΟΥ",
+        "name_gr": "ΚΑΣΤΕΛΙΟΥ ΚΙΣΣΑΜΟΥ",
+        "address": "ΚΑΣΤΕΛΙ ΚΙΣΣΑΜΟΥ, Τ.Κ.73400",
+        "area": "ΚΡΗΤΗ",
+        "type": "Λιμενικός Σταθμός",
+        "telephone": "2822022024",
+        "email": "kissamos@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.636568,
+          35.517721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΚΟΚΚΙΝΟΥ ΠΥΡΓΟΥ ΤΥΜΠΑΚΙΟΥ",
+        "name_gr": "ΚΟΚΚΙΝΟΥ ΠΥΡΓΟΥ ΤΥΜΠΑΚΙΟΥ",
+        "address": "ΚΟΚΚΙΝΟΣ ΠΥΡΓΟΣ ΤΥΜΠΑΚΙΟΥ, Τ.Κ.70200",
+        "area": "ΚΡΗΤΗ",
+        "type": "Λιμενικός Σταθμός",
+        "telephone": "2892052983",
+        "email": "kokkinos.pyrgos@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.739264,
+          35.083001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΠΑΛΑΙΟΧΩΡΑΣ ΣΕΛΙΝΟΥ",
+        "name_gr": "ΠΑΛΑΙΟΧΩΡΑΣ ΣΕΛΙΝΟΥ",
+        "address": "ΠΑΛΑΙΟΧΩΡΑ ΧΑΝΙΩΝ, Τ.Κ.73001",
+        "area": "ΚΡΗΤΗ",
+        "type": "Λιμενικός Σταθμός",
+        "telephone": "2823041214",
+        "email": "palaioxora@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.682202,
+          35.230415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΛΙΝΟΠΕΡΑΜΑΤΩΝ Α'",
+        "name_gr": "ΛΙΝΟΠΕΡΑΜΑΤΩΝ Α'",
+        "address": "ΛΙΝΟΠΕΡΑΜΑΤΑ ΗΡΑΚΛΕΙΟΥ, Τ.Κ.71414",
+        "area": "ΚΡΗΤΗ",
+        "type": "Λιμενικό Τμήμα",
+        "telephone": "2810841530",
+        "email": "linoperamata@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.04242,
+          35.354249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΟΙΝΟΥΣΣΩΝ",
+        "name_gr": "ΟΙΝΟΥΣΣΩΝ",
+        "address": "ΟΙΝΟΥΣΕΣ ΧΙΟΥ, T.Κ.82101",
+        "area": "ΒΑ ΑΙΓΑΙΟ",
+        "type": "Λιμενικός Σταθμός",
+        "telephone": "2271055394",
+        "email": "oinousses@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.218381,
+          38.514405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "IERAPETRA",
+        "name_gr": "ΙΕΡΑΠΕΤΡΑΣ",
+        "address": "KIRVA 29 IERAPETRA, ZIP 72200",
+        "area": "ΚΡΗΤΗ",
+        "type": "Port Authority",
+        "telephone": "2842089996",
+        "email": "ierapetra@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.738778,
+          35.006795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΕΡΕΤΡΙΑΣ Β'",
+        "name_gr": "ΕΡΕΤΡΙΑΣ Β'",
+        "address": "ERATONYMOU 26, 34008, ERETRIA",
+        "area": "ΣΤΕΡΕΑ",
+        "type": "Λιμενικό Τμήμα",
+        "telephone": "2229062201",
+        "email": "eretria@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.792975,
+          38.390676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "IERISSOS",
+        "name_gr": "ΙΕΡΙΣΣΟΥ",
+        "address": "ARCHAION STAGEIRON 56, 63075",
+        "area": "ΜΑΚΕΔΟΝΙΑ",
+        "type": "Port Authority",
+        "telephone": "2377022666",
+        "email": "ierissos at hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.87505,
+          40.39748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΛΑΡΥΜΝΑΣ Γ'",
+        "name_gr": "ΛΑΡΥΜΝΑΣ Γ'",
+        "address": "ΛΑΡΥΜΝΑ T.Κ.35012",
+        "area": "ΣΤΕΡΕΑ",
+        "type": "Λιμενικό Τμήμα",
+        "telephone": "2233041322",
+        "email": "larimna@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.287731,
+          38.564854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "NAFPAKTOS A΄",
+        "name_gr": "ΝΑΥΠΑΚΤΟΥ Α'",
+        "address": "PARODOS KOZONI, 30300",
+        "area": "ΣΤΕΡΕΑ",
+        "type": "Λιμενικό Τμήμα",
+        "telephone": "2634027909",
+        "email": "nafpaktos  at hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.83049865,
+          38.39491011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "7η ΠΕΔΙΛΣ (Ηράκλειο)",
+        "name_gr": "7η ΠΕΔΙΛΣ (Ηράκλειο)",
+        "address": "Λ.ΙΚΑΡΟΥ 47 & ΣΤ. ΣΠΑΝΑΚΗ 2, Τ.Κ.71307",
+        "area": "ΚΡΗΤΗ",
+        "type": "Regional Command",
+        "telephone": "2810236170",
+        "email": "pedils7@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1475144,
+          35.3388686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΧΕΡΣΟΝΗΣΟΥ Β'",
+        "name_gr": "ΧΕΡΣΟΝΗΣΟΥ Β'",
+        "address": "ΛΙΜΑΝΙ ΧΕΡΣΟΝΗΣΟΥ, Τ.Κ.70014",
+        "area": "ΚΡΗΤΗ",
+        "type": "Λιμενικό Τμήμα",
+        "telephone": "2897023111",
+        "email": "hersonisos@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.392312,
+          35.322811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΑΕΝ ΚΡΗΤΗΣ Π/Μ",
+        "name_gr": "ΑΕΝ ΚΡΗΤΗΣ Π/Μ",
+        "address": "ΒΛΗΤΕΣ ΣΟΥΔΑΣ, Τ.Κ.73200",
+        "area": "ΚΡΗΤΗ",
+        "type": "ΑΕΝ",
+        "telephone": "2821089356",
+        "email": "aenkritis@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.063331,
+          35.501356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "4η ΠΕΔΙΛΣ (Βόλος)",
+        "name_gr": "4η ΠΕΔΙΛΣ (Βόλος)",
+        "address": "Κεντρική Προβλήτα Λιμένα Βόλου Κτήριο ΙΑΣΩΝ - Ισόγειο,  Τ.Κ. 38001 Βόλος , Τ.Θ. 1342",
+        "area": "ΘΕΣΣΑΛΙΑ",
+        "type": "Regional Command",
+        "telephone": "2421038626",
+        "email": "pedils4@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9489949,
+          39.3629365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΑΣΤΥΠΑΛΑΙΑΣ",
+        "name_gr": "ΑΣΤΥΠΑΛΑΙΑΣ",
+        "address": "ΑΣΤΥΠΑΛΑΙΑ, Τ.Κ.85900",
+        "area": "ΔΩΔΕΚΑΝΗΣΑ",
+        "type": "Λιμενικός Σταθμός",
+        "telephone": "2243061208",
+        "email": "astypalaia@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.354547,
+          36.547155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΔΙΑΦΑΝΙΟΥ",
+        "name_gr": "ΔΙΑΦΑΝΙΟΥ",
+        "address": "ΔΙΑΦΑΝΙ ΚΑΡΠΑΘΟΥ, Τ.Κ.85700",
+        "area": "ΔΩΔΕΚΑΝΗΣΑ",
+        "type": "Λιμενικός Σταθμός",
+        "telephone": "2245051227",
+        "email": "diafani@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.209965,
+          35.75591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΝΙΣΥΡΟΥ",
+        "name_gr": "ΝΙΣΥΡΟΥ",
+        "address": "ΝΙΣΥΡΟΣ, Τ.Κ.85303",
+        "area": "ΔΩΔΕΚΑΝΗΣΑ",
+        "type": "Λιμενικός Σταθμός",
+        "telephone": "2242031222",
+        "email": "nisyros@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.138566,
+          36.613885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΚΑΡΔΑΜΑΙΝΑΣ",
+        "name_gr": "ΚΑΡΔΑΜΑΙΝΑΣ",
+        "address": "ΚΑΡΔΑΜΑΙΝΑ ΚΩ, Τ.Κ.85302",
+        "area": "ΔΩΔΕΚΑΝΗΣΑ",
+        "type": "Λιμενικός Σταθμός",
+        "telephone": "2242091553",
+        "email": "kardamena@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.143597,
+          36.781385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΚΑΣΟΥ",
+        "name_gr": "ΚΑΣΟΥ",
+        "address": "Ν.ΚΑΣΟΣ, Τ.Κ.85800",
+        "area": "ΔΩΔΕΚΑΝΗΣΑ",
+        "type": "Λιμενικός Σταθμός",
+        "telephone": "2245041288",
+        "email": "kasos@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.922892,
+          35.416778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΛΕΙΨΩΝ",
+        "name_gr": "ΛΕΙΨΩΝ",
+        "address": "ΛΕΙΨΟΙ, Τ.Κ.85001",
+        "area": "ΔΩΔΕΚΑΝΗΣΑ",
+        "type": "Λιμενικός Σταθμός",
+        "telephone": "2247041133",
+        "email": "leipsoi@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.76651,
+          37.295747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΛΙΒΑΔΙΩΝ ΤΗΛΟΥ",
+        "name_gr": "ΛΙΒΑΔΙΩΝ ΤΗΛΟΥ",
+        "address": "ΤΗΛΟΣ, Τ.Κ.85002",
+        "area": "ΔΩΔΕΚΑΝΗΣΑ",
+        "type": "Λιμενικός Σταθμός",
+        "telephone": "2246044350",
+        "email": "tilos@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.385648,
+          36.417284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΜΕΓΙΣΤΗΣ (ΚΑΣΤΕΛΛΟΡΙΖΟ)",
+        "name_gr": "ΜΕΓΙΣΤΗΣ (ΚΑΣΤΕΛΛΟΡΙΖΟ)",
+        "address": "ΜΕΓΙΣΤΗ, Τ.Κ.85111",
+        "area": "ΔΩΔΕΚΑΝΗΣΑ",
+        "type": "Λιμενικός Σταθμός",
+        "telephone": "2246049010",
+        "email": "megisti@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.592949,
+          36.151465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΧΑΛΚΗΣ",
+        "name_gr": "ΧΑΛΚΗΣ",
+        "address": "ΧΑΛΚΗ, Τ.Κ.85110",
+        "area": "ΔΩΔΕΚΑΝΗΣΑ",
+        "type": "Λιμενικός Σταθμός",
+        "telephone": "2246045220",
+        "email": "halki@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.612142,
+          36.222281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΛΙΝΔΟΥ Α'",
+        "name_gr": "ΛΙΝΔΟΥ Α'",
+        "address": "ΛΙΝΔΟΣ ΡΟΔΟΥ, Τ.Κ.85107",
+        "area": "ΔΩΔΕΚΑΝΗΣΑ",
+        "type": "Λιμενικό Τμήμα",
+        "telephone": "2244031201",
+        "email": "lindos@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.0859608,
+          36.094587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΕΠΟΠΤΗΣ ΕΚΣΕΔ - ΚΕΠΙΧ",
+        "name_gr": "ΕΠΟΠΤΗΣ ΕΚΣΕΔ - ΚΕΠΙΧ",
+        "address": "Πύλη Ε1 - Ε2 Ακτή Βασιλειάδη - Τ.Κ. 185 10, Πειραιάς",
+        "area": "ΑΤΤΙΚΗ-ΠΕΙΡΑΙΑΣ",
+        "type": "Υπηρεσίες Αρχηγείου",
+        "telephone": "2131374718",
+        "email": "epek at hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.626732,
+          37.942605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΥΠΟΥΡΓΕΙΟ ΝΑΥΤΙΛΙΑΣ ΑΙΓΑΙΟΥ",
+        "name_gr": "ΥΠΟΥΡΓΕΙΟ ΝΑΥΤΙΛΙΑΣ ΑΙΓΑΙΟΥ",
+        "address": "ΑΚΤΗ ΒΑΣΙΛΕΙΑΔΗ 1 ΠΕΙΡΑΙΑΣ, Τ.Κ.18510",
+        "area": "ΑΤΤΙΚΗ-ΠΕΙΡΑΙΑΣ",
+        "type": "Ministry",
+        "telephone": "2131371700",
+        "email": "contact@yna.gov.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.62627,
+          37.943007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΒΟΥΛΙΑΓΜΕΝΗΣ Β'",
+        "name_gr": "ΒΟΥΛΙΑΓΜΕΝΗΣ Β'",
+        "address": "ΒΟΥΛΙΑΓΜΕΝΗ, Τ.Κ.16671",
+        "area": "ΑΤΤΙΚΗ-ΠΕΙΡΑΙΑΣ",
+        "type": "Λιμενικό Τμήμα",
+        "telephone": "2108962368",
+        "email": "vouliagmeni@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.775573,
+          37.812736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "HYDRA",
+        "name_gr": "ΥΔΡΑΣ",
+        "address": "HYDRA, ZIP 18040",
+        "area": "ΑΤΤΙΚΗ-ΠΕΙΡΑΙΑΣ",
+        "type": "Port Authority",
+        "telephone": "2298052279",
+        "email": "ydra@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.466682,
+          37.34992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SPETSES",
+        "name_gr": "ΣΠΕΤΣΩΝ",
+        "address": "SPETSES ZIP 18050",
+        "area": "ΑΤΤΙΚΗ-ΠΕΙΡΑΙΑΣ",
+        "type": "Port Authority",
+        "telephone": "2298072245",
+        "email": "spetses@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.15507,
+          37.268717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SARONIKOS",
+        "name_gr": "ΣΑΡΩΝΙΚΟΥ",
+        "address": "PORT OF GLUFADA, ZIP 16610",
+        "area": "ΑΤΤΙΚΗ-ΠΕΙΡΑΙΑΣ",
+        "type": "Port Authority",
+        "telephone": "2108945258",
+        "email": "glyfada@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.733646,
+          37.871893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "AEGINA",
+        "name_gr": "ΑΙΓΙΝΑΣ",
+        "address": "AIAKOY 2, ZIP 18010",
+        "area": "ΑΤΤΙΚΗ-ΠΕΙΡΑΙΑΣ",
+        "type": "Port Authority",
+        "telephone": "2297025734",
+        "email": "aigina@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.428957,
+          37.745823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PATMOS",
+        "name_gr": "ΠΑΤΜΟΥ",
+        "address": "SKALA PATMOS, ZIP 85500",
+        "area": "ΔΩΔΕΚΑΝΗΣΑ",
+        "type": "Port Authority",
+        "telephone": "2247031231",
+        "email": "patmos@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.544833,
+          37.323424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LEROS",
+        "name_gr": "ΛΕΡΟΥ",
+        "address": "N. IOANNIDOU - EES, ZIP 85400",
+        "area": "ΔΩΔΕΚΑΝΗΣΑ",
+        "type": "Port Authority",
+        "telephone": "2247022224",
+        "email": "leros@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.848827,
+          37.127785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "KOS",
+        "name_gr": "ΚΩ",
+        "address": "AKTI KOUNOTURIOTI 25, ZIP 85300",
+        "area": "ΔΩΔΕΚΑΝΗΣΑ",
+        "type": "Port Authority",
+        "telephone": "2242026594",
+        "email": "kos@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.2864287,
+          36.8948227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "KALIMNOS",
+        "name_gr": "ΚΑΛΥΜΝΟΥ",
+        "address": "PORT OF KALIMNOS ZIP 85200",
+        "area": "ΔΩΔΕΚΑΝΗΣΑ",
+        "type": "Port Authority",
+        "telephone": "2243024444",
+        "email": "kalymnos@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.984895,
+          36.946772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "IGOUMENITSAS",
+        "name_gr": "ΗΓΟΥΜΕΝΙΤΣΑΣ",
+        "address": "IGOUMENITSA, ZIP 46100",
+        "area": "ΗΠΕΙΡΟΣ",
+        "type": "Central Port Authority",
+        "telephone": "2665099400",
+        "email": "hgoumenitsa@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.259782,
+          39.488538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΖΕΑΣ Ε'",
+        "name_gr": "ΖΕΑΣ Ε'",
+        "address": "ΜΑΡΙΝΑ ΖΕΑΣ, Τ.Κ.18536",
+        "area": "ΑΤΤΙΚΗ-ΠΕΙΡΑΙΑΣ",
+        "type": "Λιμενικό Τμήμα",
+        "telephone": "2131302200",
+        "email": "zea@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.648855,
+          37.934093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΚΕΡΑΤΣΙΝΙΟΥ Β'",
+        "name_gr": "ΚΕΡΑΤΣΙΝΙΟΥ Β'",
+        "address": "ΑΓΙΟΣ ΓΕΩΡΓΙΟΣ ΚΕΡΑΤΣΙΝΙ, Τ.Κ.18755",
+        "area": "ΑΤΤΙΚΗ-ΠΕΙΡΑΙΑΣ",
+        "type": "Λιμενικό Τμήμα",
+        "telephone": "2104324779",
+        "email": "keratsini@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.614058,
+          37.95906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΜΕΘΑΝΩΝ Α'",
+        "name_gr": "ΜΕΘΑΝΩΝ Α'",
+        "address": "ΠΕΤΡΟΥ ΠΑΛΗ 2, T.Κ.18030",
+        "area": "ΑΤΤΙΚΗ-ΠΕΙΡΑΙΑΣ",
+        "type": "Λιμενικό Τμήμα",
+        "telephone": "2298092279",
+        "email": "methana@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.389558,
+          37.579485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΝΑΥΠΗΓΕΙΩΝ ΕΛΕΥΣΙΝΑΣ Β'",
+        "name_gr": "ΝΑΥΠΗΓΕΙΩΝ ΕΛΕΥΣΙΝΑΣ Β'",
+        "address": "27ο χλμ ΠΕΟ ΑΘΗΝΩΝ-ΚΟΡΙΝΘΟΥ, ΕΛΕΥΣΙΝΑ, Τ.Κ.19200",
+        "area": "ΑΤΤΙΚΗ-ΠΕΙΡΑΙΑΣ",
+        "type": "Λιμενικό Τμήμα",
+        "telephone": "2105535196",
+        "email": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.495245,
+          38.035179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΠΑΛΑΙΑΣ ΦΩΚΑΙΑΣ Α'",
+        "name_gr": "ΠΑΛΑΙΑΣ ΦΩΚΑΙΑΣ Α'",
+        "address": "ΠΑΛΑΙΑ ΦΩΚΑΙΑ T.Κ.19013",
+        "area": "ΑΤΤΙΚΗ-ΠΕΙΡΑΙΑΣ",
+        "type": "Λιμενικό Τμήμα",
+        "telephone": "2291036208",
+        "email": "p.fokaia@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.945687,
+          37.717287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΠΑΧΗΣ ΜΕΓΑΡΩΝ Γ'",
+        "name_gr": "ΠΑΧΗΣ ΜΕΓΑΡΩΝ Γ'",
+        "address": "ΠΕΡΑΜΑ ΜΕΓΑΡΩΝ, T.Κ.19100",
+        "area": "ΑΤΤΙΚΗ-ΠΕΙΡΑΙΑΣ",
+        "type": "Λιμενικό Τμήμα",
+        "telephone": "2296080003",
+        "email": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.361652,
+          37.973795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΠΕΡΑΜΑΤΟΣ Δ'",
+        "name_gr": "ΠΕΡΑΜΑΤΟΣ Δ'",
+        "address": "ΛΕΩΦΟΡΟΣ ΔΗΜΟΚΡΑΤΙΑΣ 2 ΠΕΡΑΜΑ, Τ.Κ.18863",
+        "area": "ΑΤΤΙΚΗ-ΠΕΙΡΑΙΑΣ",
+        "type": "Λιμενικό Τμήμα",
+        "telephone": "2104414676",
+        "email": "perama@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.556798,
+          37.964289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΣΑΛΑΜΙΝΑΣ Γ'",
+        "name_gr": "ΣΑΛΑΜΙΝΑΣ Γ'",
+        "address": "ΣΑΛΑΜΙΝΟΜΑΧΩΝ 2 ΠΑΛΟΥΚΙΑ, Τ.Κ.18901",
+        "area": "ΑΤΤΙΚΗ-ΠΕΙΡΑΙΑΣ",
+        "type": "Λιμενικό Τμήμα",
+        "telephone": "2104677277",
+        "email": "salamina@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.52914,
+          37.96577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΣΚΑΡΑΜΑΓΚΑ Α'",
+        "name_gr": "ΣΚΑΡΑΜΑΓΚΑ Α'",
+        "address": "ΛΕΩΦ. ΠΑΛΑΣΚΑ ΟΔΥΣΣΕΑ 3 ΣΚΑΡΑΜΑΓΚΑΣ, Τ.Κ.12462",
+        "area": "ΑΤΤΙΚΗ-ΠΕΙΡΑΙΑΣ",
+        "type": "Λιμενικό Τμήμα",
+        "telephone": "2105574340",
+        "email": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.600236,
+          38.006662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΤΖΕΛΕΠΗ (Πειραιά) Α'",
+        "name_gr": "ΤΖΕΛΕΠΗ (Πειραιά) Α'",
+        "address": "ΠΕΙΡΑΙΑΣ, Τ.Κ.18510",
+        "area": "ΑΤΤΙΚΗ-ΠΕΙΡΑΙΑΣ",
+        "type": "Λιμενικό Τμήμα",
+        "telephone": "2104172675",
+        "email": "tzelepi@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.640384,
+          37.946263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΦΛΟΙΣΒΟΥ - ΤΡΟΚΑΝΤΕΡΟ Α'",
+        "name_gr": "ΦΛΟΙΣΒΟΥ - ΤΡΟΚΑΝΤΕΡΟ Α'",
+        "address": "ΜΑΡΙΝΑ ΦΛΟΙΣΒΟΥ, Τ.Κ.17561",
+        "area": "ΑΤΤΙΚΗ-ΠΕΙΡΑΙΑΣ",
+        "type": "Λιμενικό Τμήμα",
+        "telephone": "2109829759",
+        "email": "flisvos@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.685841,
+          37.931651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΑΕΝ ΑΣΠΡΟΠΥΡΓΟΥ Π/Μ",
+        "name_gr": "ΑΕΝ ΑΣΠΡΟΠΥΡΓΟΥ Π/Μ",
+        "address": "ΠΑΡΑΛΙΑ ΑΣΠΡΟΠΥΡΓΟΥ, Τ.Κ.19300",
+        "area": "ΑΤΤΙΚΗ-ΠΕΙΡΑΙΑΣ",
+        "type": "ΑΕΝ",
+        "telephone": "2105574171",
+        "email": "aenasprop@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.586768,
+          38.03872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΑΕΝ ΥΔΡΑΣ Π",
+        "name_gr": "ΑΕΝ ΥΔΡΑΣ Π",
+        "address": "ΥΔΡΑ Τ.Κ.18040",
+        "area": "ΑΤΤΙΚΗ-ΠΕΙΡΑΙΑΣ",
+        "type": "ΑΕΝ",
+        "telephone": "2298052208",
+        "email": "aenydra@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.466543,
+          37.352662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΩΡΩΠΟΥ Α'",
+        "name_gr": "ΩΡΩΠΟΥ Α'",
+        "address": "KYPROU 1, 19015 OROPOS",
+        "area": "ΑΤΤΙΚΗ-ΠΕΙΡΑΙΑΣ",
+        "type": "Λιμενικό Τμήμα",
+        "telephone": "2295038271",
+        "email": "oropos@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.796663,
+          38.321536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PIRAEUS",
+        "name_gr": "ΠΕΙΡΑΙΑ",
+        "address": "AKTIA MIAOULI 50, ZIP 18536",
+        "area": "ΑΤΤΙΚΗ-ΠΕΙΡΑΙΑΣ",
+        "type": "Central Port Authority",
+        "telephone": "2132147723",
+        "email": "klp.simatorio at hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.64039,
+          37.939542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΣΑΓΙΑΔΑΣ",
+        "name_gr": "ΣΑΓΙΑΔΑΣ",
+        "address": "ΣΑΓΙΑΔΑ, T.Κ.46300",
+        "area": "ΗΠΕΙΡΟΣ",
+        "type": "Λιμενικός Σταθμός",
+        "telephone": "2664051915",
+        "email": "sagiada@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.180816,
+          39.625697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΠΑΡΓΑΣ Β'",
+        "name_gr": "ΠΑΡΓΑΣ Β'",
+        "address": "ΓΡ. ΛΑΜΠΡΑΚΗ 10, T.Κ.48060",
+        "area": "ΗΠΕΙΡΟΣ",
+        "type": "Λιμενικό Τμήμα",
+        "telephone": "2684031227",
+        "email": "parga@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.401518,
+          39.284067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΣΥΒΟΤΩΝ ΘΕΣΠΡΩΤΙΑΣ Α'",
+        "name_gr": "ΣΥΒΟΤΩΝ ΘΕΣΠΡΩΤΙΑΣ Α'",
+        "address": "ΣΥΒΟΤΑ, T.Κ.46100",
+        "area": "ΗΠΕΙΡΟΣ",
+        "type": "Λιμενικό Τμήμα",
+        "telephone": "2665093100",
+        "email": "syvota@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.23934,
+          39.40917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΑΕΝ ΗΠΕΙΡΟΥ Π",
+        "name_gr": "ΑΕΝ ΗΠΕΙΡΟΥ Π",
+        "address": "ΒΑΘΥ ΠΡΕΒΕΖΑΣ, Τ.Κ.48100",
+        "area": "ΗΠΕΙΡΟΣ",
+        "type": "ΑΕΝ",
+        "telephone": "2682022095",
+        "email": "aenipi@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.756531,
+          38.970533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "AMALIAPOLIS C '",
+        "name_gr": "ΑΜΑΛΙΑΠΟΛΗΣ Γ'",
+        "address": "AMALIAPOLI MAGNESIA, 37100",
+        "area": "ΘΕΣΣΑΛΙΑ",
+        "type": "Λιμενικό Τμήμα",
+        "telephone": "2422091016",
+        "email": "amaliapoli at hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.88714008,
+          39.17018659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΑΓΙΟΥ ΕΥΣΤΡΑΤΙΟΥ",
+        "name_gr": "ΑΓΙΟΥ ΕΥΣΤΡΑΤΙΟΥ",
+        "address": "ΑΓ. ΕΥΣΤΡΑΤΙΟΣ, Τ.Κ.81500",
+        "area": "ΒΑ ΑΙΓΑΙΟ",
+        "type": "Λιμενικός Σταθμός",
+        "telephone": "2254093393",
+        "email": "agios.eustratios@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.987947,
+          39.540117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΑΓΙΟΥ ΚΥΡΗΚΟΥ",
+        "name_gr": "ΑΓΙΟΥ ΚΥΡΗΚΟΥ",
+        "address": "ΑΓΙΟΣ ΚΗΡΥΚΟΣ ΙΚΑΡΙΑΣ, Τ.Κ.83300",
+        "area": "ΒΑ ΑΙΓΑΙΟ",
+        "type": "Λιμενικός Σταθμός",
+        "telephone": "2275022207",
+        "email": "agios.khrykos@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.294816,
+          37.612919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΕΥΔΗΛΟΥ ΙΚΑΡΙΑΣ",
+        "name_gr": "ΕΥΔΗΛΟΥ ΙΚΑΡΙΑΣ",
+        "address": "ΕΥΔΗΛΟΣ ΙΚΑΡΙΑΣ, T.Κ.83302",
+        "area": "ΒΑ ΑΙΓΑΙΟ",
+        "type": "Λιμενικός Σταθμός",
+        "telephone": "2275031007",
+        "email": "lseydilou@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.178848,
+          37.632385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΚΑΡΔΑΜΥΛΩΝ",
+        "name_gr": "ΚΑΡΔΑΜΥΛΩΝ",
+        "address": "ΚΑΡΔΑΜΥΛΑ ΧΙΟΥ, T.Κ.82300",
+        "area": "ΒΑ ΑΙΓΑΙΟ",
+        "type": "Λιμενικός Σταθμός",
+        "telephone": "2272023577",
+        "email": "kardamila@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.108824,
+          38.54389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΚΑΡΛΟΒΑΣΙΟΥ",
+        "name_gr": "ΚΑΡΛΟΒΑΣΙΟΥ",
+        "address": "ΚΑΡΛΟΒΑΣΙ ΣΑΜΟΥ, T.Κ.83200",
+        "area": "ΒΑ ΑΙΓΑΙΟ",
+        "type": "Λιμενικός Σταθμός",
+        "telephone": "2273030888",
+        "email": "karlovasi@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6810377,
+          37.794381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΜΕΣΤΩΝ ΧΙΟΥ",
+        "name_gr": "ΜΕΣΤΩΝ ΧΙΟΥ",
+        "address": "ΜΕΣΤΑ ΧΙΟΥ, T.Κ.82102",
+        "area": "ΒΑ ΑΙΓΑΙΟ",
+        "type": "Λιμενικός Σταθμός",
+        "telephone": "2271076239",
+        "email": "mesta@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.931283,
+          38.287464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΜΟΥΔΡΟΥ",
+        "name_gr": "ΜΟΥΔΡΟΥ",
+        "address": "ΜΟΥΔΡΟΣ, T.Κ.81401",
+        "area": "ΒΑ ΑΙΓΑΙΟ",
+        "type": "Λιμενικός Σταθμός",
+        "telephone": "2254071240",
+        "email": "moudros@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.266247,
+          39.87164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LAVRIOU",
+        "name_gr": "ΛΑΥΡΙΟΥ",
+        "address": "PORT OF LAVRIO, ZIP 19500",
+        "area": "ΑΤΤΙΚΗ-ΠΕΙΡΑΙΑΣ",
+        "type": "Central Port Authority",
+        "telephone": "2292320401",
+        "email": "lavrio@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.061653,
+          37.713585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ELEFSINAS",
+        "name_gr": "ΕΛΕΥΣΙΝΑΣ",
+        "address": "KANELLOPOYLOU 10, ZIP 19200",
+        "area": "ΑΤΤΙΚΗ-ΠΕΙΡΑΙΑΣ",
+        "type": "Central Port Authority",
+        "telephone": "2105565520",
+        "email": "elefsina@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.541033,
+          38.035479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MIRINA",
+        "name_gr": "ΜΥΡΙΝΑΣ",
+        "address": "MIRINA LIMNOS, ZIP 81400",
+        "area": "ΒΑ ΑΙΓΑΙΟ",
+        "type": "Port Authority",
+        "telephone": "2254022225",
+        "email": "myrina@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.058034,
+          39.874705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PREVEZA",
+        "name_gr": "ΠΡΕΒΕΖΑΣ",
+        "address": "SPILIADOU 6, ZIP 48100",
+        "area": "ΗΠΕΙΡΟΣ",
+        "type": "Port Authority",
+        "telephone": "2682022226",
+        "email": "preveza@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.754599,
+          38.959359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "KARISTOS",
+        "name_gr": "ΚΑΡΥΣΤΟΥ",
+        "address": "TH. KOTSIKA 02, KARISTOS, ZIP 34001",
+        "area": "ΣΤΕΡΕΑ",
+        "type": "Port Authority",
+        "telephone": "2224022227",
+        "email": "karystos at hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.4185,
+          38.01354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΜΗΘΥΜΝΑΣ",
+        "name_gr": "ΜΗΘΥΜΝΑΣ",
+        "address": "MITHYMNA, ZIP 81108",
+        "area": "ΒΑ ΑΙΓΑΙΟ",
+        "type": "Λιμενικός Σταθμός",
+        "telephone": "2253071307",
+        "email": "mithimna at hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.16767,
+          39.36957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΠΕΡΑΜΑΤΟΣ ΚΟΛΠΟΥ ΓΕΡΑΣ",
+        "name_gr": "ΠΕΡΑΜΑΤΟΣ ΚΟΛΠΟΥ ΓΕΡΑΣ",
+        "address": "ΠΕΡΑΜΑ (ΓΕΡΑΣ ΛΕΣΒΟΥ), T.Κ.81111",
+        "area": "ΒΑ ΑΙΓΑΙΟ",
+        "type": "Λιμενικός Σταθμός",
+        "telephone": "2251051555",
+        "email": "gera@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.507091,
+          39.0427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΠΛΩΜΑΡΙΟΥ",
+        "name_gr": "ΠΛΩΜΑΡΙΟΥ",
+        "address": "ΠΛΩΜΑΡΙ ΛΕΣΒΟΥ, T.Κ.81200",
+        "area": "ΒΑ ΑΙΓΑΙΟ",
+        "type": "Λιμενικός Σταθμός",
+        "telephone": "2252032296",
+        "email": "plomari@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.368274,
+          38.974807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΑΡΧΗΓΟΣ Λ.Σ. - ΕΛ.ΑΚΤ.",
+        "name_gr": "ΑΡΧΗΓΟΣ Λ.Σ. - ΕΛ.ΑΚΤ.",
+        "address": "Πύλη Ε1 - Ε2 Ακτή Βασιλειάδη - Τ.Κ. 185 10, Πειραιάς",
+        "area": "-",
+        "type": "Υπηρεσίες Αρχηγείου",
+        "telephone": "2131371716",
+        "email": "als at hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.626732,
+          37.942605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΦΟΥΡΝΩΝ ΚΟΡΣΕΩΝ",
+        "name_gr": "ΦΟΥΡΝΩΝ ΚΟΡΣΕΩΝ",
+        "address": "ΦΟΥΡΝΟΙ ΙΚΑΡΙΑΣ, T.Κ.83400",
+        "area": "ΒΑ ΑΙΓΑΙΟ",
+        "type": "Λιμενικός Σταθμός",
+        "telephone": "2275051207",
+        "email": "fournoi@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.479264,
+          37.578884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΠΥΘΑΓΟΡΕΙΟΥ Α'",
+        "name_gr": "ΠΥΘΑΓΟΡΕΙΟΥ Α'",
+        "address": "ΠΥΘΑΓΟΡΕΙΟ, T.Κ.81303",
+        "area": "ΒΑ ΑΙΓΑΙΟ",
+        "type": "Λιμενικό Τμήμα",
+        "telephone": "2273061225",
+        "email": "pythagorio@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.942653,
+          37.689887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΣΚΑΛΑΣ ΚΑΛΛΟΝΗΣ Α'",
+        "name_gr": "ΣΚΑΛΑΣ ΚΑΛΛΟΝΗΣ Α'",
+        "address": "ΣΚΑΛΑ ΚΑΛΛΟΝΗΣ ΛΕΣΒΟΥ, 81107",
+        "area": "ΒΑ ΑΙΓΑΙΟ",
+        "type": "Λιμενικό Τμήμα",
+        "telephone": "2253028888",
+        "email": "skala.kallonis@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.21069,
+          39.205728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΑΕΝ ΟΙΝΟΥΣΣΩΝ Π",
+        "name_gr": "ΑΕΝ ΟΙΝΟΥΣΣΩΝ Π",
+        "address": "ΟΙΝΟΥΣΣΕΣ ΧΙΟΥ, Τ.Κ.82101",
+        "area": "ΒΑ ΑΙΓΑΙΟ",
+        "type": "ΑΕΝ",
+        "telephone": "2271055209",
+        "email": "aenoinousson@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.218381,
+          38.514405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΑΕΝ ΧΙΟΥ Μ",
+        "name_gr": "ΑΕΝ ΧΙΟΥ Μ",
+        "address": "ΔΗΜΟΚΡΑΤΙΑΣ 26 ΧΙΟΣ, Τ.Κ.82100",
+        "area": "ΒΑ ΑΙΓΑΙΟ",
+        "type": "ΑΕΝ",
+        "telephone": "2271044431",
+        "email": "aenchiou@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.132384,
+          38.373633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "RAFINA",
+        "name_gr": "ΡΑΦΗΝΑΣ",
+        "address": "AKTI PAPANDREOU ANDREA 1, RAFINA, ZIP 19009",
+        "area": "ΑΤΤΙΚΗ-ΠΕΙΡΑΙΑΣ",
+        "type": "Central Port Authority",
+        "telephone": "2294321201, 2294321202",
+        "email": "rafina@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.008613,
+          38.021964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "KAVALA",
+        "name_gr": "ΚΑΒΑΛΑΣ",
+        "address": "AVEROF 1, ZIP 65110",
+        "area": "ΜΑΚΕΔΟΝΙΑ",
+        "type": "Central Port Authority",
+        "telephone": "2513505400",
+        "email": "kavala@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.409131,
+          40.935492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΠΕΡΘ",
+        "name_gr": "ΠΕΡΘ",
+        "address": "Dianella, Perth WA 6059",
+        "area": "-",
+        "type": "Προξενικό Λιμεναρχείο",
+        "telephone": "0061 498563165",
+        "email": "hma.perth at hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.857047,
+          -31.953513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΣΑΜΟΘΡΑΚΗΣ Α'",
+        "name_gr": "ΣΑΜΟΘΡΑΚΗΣ Α'",
+        "address": "ΚΑΜΑΡΙΩΤΙΣΣΑ ΣΑΜΟΘΡΑΚΗΣ, T.Κ.68002",
+        "area": "ΘΡΑΚΗ",
+        "type": "Λιμενικό Τμήμα",
+        "telephone": "2551041305",
+        "email": "samothraki@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.472427,
+          40.476327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "AGHIOS NIKOLAOS",
+        "name_gr": "ΑΓΙΟΥ ΝΙΚΟΛΑΟΥ",
+        "address": "PORT OF AGIOS NIKOLAOS, AGIOS NIKOLAOS CRETE, ZIP 72100",
+        "area": "ΚΡΗΤΗ",
+        "type": "Port Authority",
+        "telephone": "2841090108",
+        "email": "agios.nikolaos@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.720909,
+          35.192823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MITILINIS",
+        "name_gr": "ΜΥΤΙΛΗΝΗΣ",
+        "address": "P. KOUNTOURIOTI 75, ZIP 81100",
+        "area": "ΒΑ ΑΙΓΑΙΟ",
+        "type": "Central Port Authority",
+        "telephone": "2251040827",
+        "email": "mitilini at hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.555982,
+          39.10376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΣΑΝΤΟΣ",
+        "name_gr": "ΣΑΝΤΟΣ",
+        "address": "Consulado da Grecia em Santos Rua, Joao Pessoa 69, 16ο Andar",
+        "area": "-",
+        "type": "Προξενικό Λιμεναρχείο",
+        "telephone": "0055 1332194751",
+        "email": "hma.santos at hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.328887,
+          -23.967882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΣΙΓΚΑΠΟΥΡΗ",
+        "name_gr": "ΣΙΓΚΑΠΟΥΡΗ",
+        "address": "10 Anson Road 46-14 International Plaza, 079903 Singapore",
+        "area": "-",
+        "type": "Προξενικό Λιμεναρχείο",
+        "telephone": "0065 62212364",
+        "email": "hma.singapore at hcg.gr,   embmargr at singnet.com.sg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.819836,
+          1.352083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΤΟΚΥΟ",
+        "name_gr": "ΤΟΚΥΟ",
+        "address": "3-16-30 Nishi - Azabu Minato - Ku Tokyo 106, 0031 Japan",
+        "area": "-",
+        "type": "Προξενικό Λιμεναρχείο",
+        "telephone": "0081 334089635",
+        "email": "hma.tokyo at hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.650311,
+          35.676192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΑΜΜΟΧΩΣΤΟΣ",
+        "name_gr": "ΑΜΜΟΧΩΣΤΟΣ",
+        "address": "Λεχάρ 7, Τ.Κ. 3081, T.Θ. 51002, Λεμεσός",
+        "area": "-",
+        "type": "Προξενικό Λιμεναρχείο",
+        "telephone": "00357-25576326",
+        "email": "hma.ammochostou @ hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.919245,
+          35.114912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Επισκευαστική Βάση Ελευσίνας",
+        "name_gr": "Επισκευαστική Βάση Ελευσίνας",
+        "address": "Ωκεανιδών θέση Καλυμπάκι - Τ.Κ. 19200",
+        "area": "ΑΤΤΙΚΗ-ΠΕΙΡΑΙΑΣ",
+        "type": "Υπηρεσίες Αρχηγείου",
+        "telephone": "210 5544940",
+        "email": "ebls at hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.556211,
+          38.037136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Control Management of Ship Security and Port Facilities Directorate",
+        "name_gr": "ΔΙΕΥΘΥΝΣΗ ΕΛΕΓΧΟΥ ΔΙΑΧΕΙΡΙΣΗΣ ΑΣΦΑΛΕΙΑΣ ΠΛΟΙΩΝ & ΛΙΜ. ΕΓΚΑΤΑΣΤΑΣΕΩΝ (ΔΕΔΑΠΛΕ)",
+        "address": "Akti Vassiliadi, Gate Ε 1 - Ε 2, 185 10, Piraeus",
+        "area": "ΑΤΤΙΚΗ-ΠΕΙΡΑΙΑΣ",
+        "type": "Υπηρεσίες Αρχηγείου",
+        "telephone": "2131371800",
+        "email": "dedaple at hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.626732,
+          37.942605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΜΑΣΣΑΛΙΑ",
+        "name_gr": "ΜΑΣΣΑΛΙΑ",
+        "address": "29 Grand Rue, 13002, Marseilles, France",
+        "area": "-",
+        "type": "Προξενικό Λιμεναρχείο",
+        "telephone": "0033491903397",
+        "email": "hma.massalia at hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.36978,
+          43.296482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΛΟΝΔΙΝΟ",
+        "name_gr": "ΛΟΝΔΙΝΟ",
+        "address": "Embassy of Greece in London, Maritime Affairs Dpt, 1a Holland Park W11 3TP, London",
+        "area": "-",
+        "type": "Προξενικό Λιμεναρχείο",
+        "telephone": "00442077270507, 0044 2077270509",
+        "email": "hma.london at hcg.gr, maritime at greekembassy.org.uk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.127758,
+          51.507351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΑΜΒΟΥΡΓΟ",
+        "name_gr": "ΑΜΒΟΥΡΓΟ",
+        "address": "Hansastrasse 21 20149, Hamburg",
+        "area": "-",
+        "type": "Προξενικό Λιμεναρχείο",
+        "telephone": "0049402506666",
+        "email": "hma.hamburg at hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.949613,
+          53.629004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΝΟΒΟΡΟΣΣΙΣΚ",
+        "name_gr": "ΝΟΒΟΡΟΣΣΙΣΚ",
+        "address": "KRASNODARKY KRAY GOR. NOVOROSSIYSK YL. MIRA 13 , 353900 RUSSIA",
+        "area": "-",
+        "type": "Προξενικό Λιμεναρχείο",
+        "telephone": "0079186483899 0079384850386",
+        "email": "hma.novo at hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.777012,
+          44.718046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΝΕΑ ΥΟΡΚΗ",
+        "name_gr": "ΝΕΑ ΥΟΡΚΗ",
+        "address": "29 Broadway (suite 2300) New York, 10006 NY, USA",
+        "area": "-",
+        "type": "Προξενικό Λιμεναρχείο",
+        "telephone": "001-212-4255764, 001-6464036164",
+        "email": "hma.newyork at hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.005973,
+          40.712775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΠΟΡΤ ΣΑΪΔ",
+        "name_gr": "ΠΟΡΤ ΣΑΪΔ",
+        "address": "Consulate of Greece Maritime Affairs 26 El Gomhouria st. PORT SAID-EGYPT",
+        "area": "-",
+        "type": "Προξενικό Λιμεναρχείο",
+        "telephone": "002066 3222650",
+        "email": "hma.portsaid at hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.301866,
+          31.265289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΡΟΤΤΕΡΝΤΑΜ",
+        "name_gr": "ΡΟΤΤΕΡΝΤΑΜ",
+        "address": "Van Oldenbarneveltplaats 360, 3012AM, Rotterdam",
+        "area": "-",
+        "type": "Προξενικό Λιμεναρχείο",
+        "telephone": "0031 104362832, 0031 104362873",
+        "email": "hma.rotterdam at hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.477733,
+          51.92442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΣΑΓΚΑΗ",
+        "name_gr": "ΣΑΓΚΑΗ",
+        "address": "Suite 2207, Litong Plaza 1350 North Sichuan Road Hongkou District, 200080, Shanghai",
+        "area": "-",
+        "type": "Προξενικό Λιμεναρχείο",
+        "telephone": "0086 2166989950",
+        "email": "hma.shanghai at hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.473701,
+          31.230416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Β' ΥΠΑΡΧΗΓΟΣ Λ.Σ. - ΕΛ.ΑΚΤ.",
+        "name_gr": "Β' ΥΠΑΡΧΗΓΟΣ Λ.Σ. - ΕΛ.ΑΚΤ.",
+        "address": "Πύλη Ε1 - Ε2 Ακτή Βασιλειάδη - Τ.Κ. 185 10, Πειραιάς",
+        "area": "-",
+        "type": "Υπηρεσίες Αρχηγείου",
+        "telephone": "2131371707",
+        "email": "byls at hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.626732,
+          37.942605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CHIOU",
+        "name_gr": "ΧΙΟΥ",
+        "address": "CHIOS, ZIP 82100",
+        "area": "ΒΑ ΑΙΓΑΙΟ",
+        "type": "Central Port Authority",
+        "telephone": "2271044433",
+        "email": "chios@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.138282,
+          38.372796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΥΠΗΡΕΣΙΑ ΟΛΟΚΛΗΡΩΜΕΝΗΣ ΘΑΛΑΣΣΙΑΣ ΕΠΙΤΗΡΗΣΗΣ (ΥΟΘΕ)",
+        "name_gr": "ΥΠΗΡΕΣΙΑ ΟΛΟΚΛΗΡΩΜΕΝΗΣ ΘΑΛΑΣΣΙΑΣ ΕΠΙΤΗΡΗΣΗΣ (ΥΟΘΕ)",
+        "address": "Πύλη Ε1 - Ε2 Ακτή Βασιλειάδη - Τ.Κ. 185 10, Πειραιάς",
+        "area": "-",
+        "type": "Υπηρεσίες Αρχηγείου",
+        "telephone": "2131374582",
+        "email": "imsb at hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.626624,
+          37.942782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Επισκευαστική Βάση Θεσσαλονίκης",
+        "name_gr": "Επισκευαστική Βάση Θεσσαλονίκης",
+        "address": "Εντός Λιμένος - Τ.Κ. 54110",
+        "area": "ΜΑΚΕΔΟΝΙΑ",
+        "type": "Υπηρεσίες Αρχηγείου",
+        "telephone": "2313 325867",
+        "email": "ebth at hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.923044,
+          40.634854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sector B – General Directorate of Shipping",
+        "name_gr": "ΔΙΕΥΘΥΝΤΗΣ ΚΛΑΔΟΥ Β' ΝΑΥΤΙΛΙΑΣ",
+        "address": "Akti Vassiliadi, Gate Ε 1 - Ε 2, 185 10, Piraeus",
+        "area": "ΑΤΤΙΚΗ-ΠΕΙΡΑΙΑΣ",
+        "type": "Υπηρεσίες Αρχηγείου",
+        "telephone": "2131371445",
+        "email": "dkb at hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.626732,
+          37.942605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΥΠΗΡΕΣΙΑ ΥΓΕΙΟΝΟΜΙΚΟΥ (ΥΥ)",
+        "name_gr": "ΥΠΗΡΕΣΙΑ ΥΓΕΙΟΝΟΜΙΚΟΥ (ΥΥ)",
+        "address": "Πύλη Ε1 - Ε2 Ακτή Βασιλειάδη - Τ.Κ. 185 10, Πειραιάς",
+        "area": "-",
+        "type": "Υπηρεσίες Αρχηγείου",
+        "telephone": "2131371258",
+        "email": "yg at hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.626732,
+          37.942605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΣΧΟΛΗ ΔΟΚΙΜΩΝ ΣΗΜΑΙΟΦΟΡΩΝ Λ.Σ.",
+        "name_gr": "ΣΧΟΛΗ ΔΟΚΙΜΩΝ ΣΗΜΑΙΟΦΟΡΩΝ Λ.Σ.",
+        "address": "Σ.Ν.Δ. Παλατάκι Πειραιάς - Τ.Κ. 18538",
+        "area": "ΑΤΤΙΚΗ-ΠΕΙΡΑΙΑΣ",
+        "type": "Υπηρεσίες Αρχηγείου",
+        "telephone": "210 4581000",
+        "email": "dsl at snd.edu.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.627976,
+          37.934587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΑΕΝ ΣΥΡΟΥ Π",
+        "name_gr": "ΑΕΝ ΣΥΡΟΥ Π",
+        "address": "Epameinonda Papadam 1 - Ermoupolis, Syros, ZIP 84100",
+        "area": "ΚΥΚΛΑΔΕΣ",
+        "type": "ΑΕΝ",
+        "telephone": "2281082450",
+        "email": "aensyrou at hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.94588358,
+          37.44241585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΥΠΗΡΕΣΙΑ ΕΝΑΕΡΙΩΝ ΜΕΣΩΝ (ΥΕΜ) - ΜΟΙΡΑ ΕΛΙΚΟΠΤΕΡΩΝ Λ.Σ.",
+        "name_gr": "ΥΠΗΡΕΣΙΑ ΕΝΑΕΡΙΩΝ ΜΕΣΩΝ (ΥΕΜ) - ΜΟΙΡΑ ΕΛΙΚΟΠΤΕΡΩΝ Λ.Σ.",
+        "address": "ΔΕΝ ΚΟΤΡΩΝΙ ΜΑΡΑΘΩΝΑΣ",
+        "area": "ΑΤΤΙΚΗ-ΠΕΙΡΑΙΑΣ",
+        "type": "Υπηρεσίες Αρχηγείου",
+        "telephone": "210 8231393",
+        "email": "yem.mels at hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.977437,
+          38.159838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΥΠΗΡΕΣΙΑ ΕΝΑΕΡΙΩΝ ΜΕΣΩΝ (ΥΕΜ) - ΜΟΙΡΑ ΑΕΡΟΠΛΑΝΩΝ Λ.Σ",
+        "name_gr": "ΥΠΗΡΕΣΙΑ ΕΝΑΕΡΙΩΝ ΜΕΣΩΝ (ΥΕΜ) - ΜΟΙΡΑ ΑΕΡΟΠΛΑΝΩΝ Λ.Σ",
+        "address": "Α/Δ ΤΑΤΟΪΟΥ - Τ.1.Α. 1010 ΤΑΤΟΪ",
+        "area": "ΑΤΤΙΚΗ-ΠΕΙΡΑΙΑΣ",
+        "type": "Υπηρεσίες Αρχηγείου",
+        "telephone": "210 2402222 - 210 2403299",
+        "email": "yem.mals at hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.761916,
+          38.0757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΜΟΝΑΔΑ ΥΠΟΒΡΥΧΙΩΝ ΑΠΟΣΤΟΛΩΝ (ΜΥΑ)",
+        "name_gr": "ΜΟΝΑΔΑ ΥΠΟΒΡΥΧΙΩΝ ΑΠΟΣΤΟΛΩΝ (ΜΥΑ)",
+        "address": "Παραλία Αγ. Κοσμά Ελληνικό - Τ.Κ. 16777",
+        "area": "ΑΤΤΙΚΗ-ΠΕΙΡΑΙΑΣ",
+        "type": "Υπηρεσίες Αρχηγείου",
+        "telephone": "210 9819548 - 9852133",
+        "email": "mya at hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.720395,
+          37.890838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΥΠΗΡΕΣΙΑ ΣΥΝΔΕΣΜΩΝ - ΔΙΑΣΩΣΤΩΝ (ΥΣΥΔ)",
+        "name_gr": "ΥΠΗΡΕΣΙΑ ΣΥΝΔΕΣΜΩΝ - ΔΙΑΣΩΣΤΩΝ (ΥΣΥΔ)",
+        "address": "Στρατιωτικό Αεροδρόμιο Ελευσίνας - Τ.Κ. 192 00",
+        "area": "ΑΤΤΙΚΗ-ΠΕΙΡΑΙΑΣ",
+        "type": "Υπηρεσίες Αρχηγείου",
+        "telephone": "210 5505439",
+        "email": "ysyd at hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.55797,
+          38.067329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΕΝΙΑΙΟ ΚΕΝΤΡΟ ΣΥΝΤΟΝΙΣΜΟΥ ΕΡΕΥΝΑΣ & ΔΙΑΣΩΣΗΣ (ΕΚΣΕΔ)",
+        "name_gr": "ΕΝΙΑΙΟ ΚΕΝΤΡΟ ΣΥΝΤΟΝΙΣΜΟΥ ΕΡΕΥΝΑΣ & ΔΙΑΣΩΣΗΣ (ΕΚΣΕΔ)",
+        "address": "Πύλη Ε1 - Ε2 Ακτή Βασιλειάδη - Τ.Κ. 185 10, Πειραιάς",
+        "area": "ΑΤΤΙΚΗ-ΠΕΙΡΑΙΑΣ",
+        "type": "Υπηρεσίες Αρχηγείου",
+        "telephone": "213137-1703, 1704, 1126, 1325, 210 4112500, 210 4220772, 210 4101116 - 7 - 8 - 9",
+        "email": "jrccpgr at hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.626732,
+          37.942605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΚΕΝΤΡΟ ΕΠΙΧΕΙΡΗΣΕΩΝ Λ.Σ.-ΕΛ.ΑΚΤ. (ΚΕΠΙΧ/Λ.Σ.-ΕΛ.ΑΚΤ.)",
+        "name_gr": "ΚΕΝΤΡΟ ΕΠΙΧΕΙΡΗΣΕΩΝ Λ.Σ.-ΕΛ.ΑΚΤ. (ΚΕΠΙΧ/Λ.Σ.-ΕΛ.ΑΚΤ.)",
+        "address": "Πύλη Ε1 - Ε2 Ακτή Βασιλειάδη - Τ.Κ. 185 10, Πειραιάς",
+        "area": "ΑΤΤΙΚΗ-ΠΕΙΡΑΙΑΣ",
+        "type": "Υπηρεσίες Αρχηγείου",
+        "telephone": "2131371627, 210 4082621 - 622 - 688, 210 4633067 - 463, 210 4177621, 210 4175771",
+        "email": "kepix at hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.626732,
+          37.942605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΑΕΝ ΚΑΛΥΜΝΟΥ Π",
+        "name_gr": "ΑΕΝ ΚΑΛΥΜΝΟΥ Π",
+        "address": "ΕΝΟΡΙΑ ΚΑΛΑΜΙΩΤΙΣΣΑΣ, ΤΚ 85200",
+        "area": "ΔΩΔΕΚΑΝΗΣΑ",
+        "type": "ΑΕΝ",
+        "telephone": "22430 - 59505",
+        "email": "aenkalymnou@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.9785018,
+          36.9527785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fisheries Control Directorate",
+        "name_gr": "ΔΙΕΥΘΥΝΣΗ EΛΕΓΧΟΥ ΑΛΙΕΙΑΣ (ΔΕΛΑΛ)",
+        "address": "Akti Vassiliadi, Gate Ε 1 - Ε 2, 185 10, Piraeus",
+        "area": "ΑΤΤΙΚΗ-ΠΕΙΡΑΙΑΣ",
+        "type": "Υπηρεσίες Αρχηγείου",
+        "telephone": "2131374377",
+        "email": "delal at hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.626732,
+          37.942605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ALEXANDROUPOLI",
+        "name_gr": "ΑΛΕΞΑΝΔΡΟΥΠΟΛΗΣ",
+        "address": "EMPORIOU 7 - ARKADIOUPOLEOS, ZIP 68100",
+        "area": "ΘΡΑΚΗ",
+        "type": "Central Port Authority",
+        "telephone": "2551356200",
+        "email": "alexandroupoli@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.879174,
+          40.846063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΣΧΟΛΗ ΔΟΚΙΜΩΝ ΛΙΜΕΝΟΦΥΛΑΚΩΝ",
+        "name_gr": "ΣΧΟΛΗ ΔΟΚΙΜΩΝ ΛΙΜΕΝΟΦΥΛΑΚΩΝ",
+        "address": "Τέρμα Οικονόμου & Ξανθοπουλίδου, Πειραιάς - Τ.Κ. 18510",
+        "area": "ΑΤΤΙΚΗ-ΠΕΙΡΑΙΑΣ",
+        "type": "Υπηρεσίες Αρχηγείου",
+        "telephone": "210 4518270 - 210 4510491",
+        "email": "sxolilf at hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.628176,
+          37.935847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΝΕΟΥ ΜΑΡΜΑΡΑ Γ'",
+        "name_gr": "ΝΕΟΥ ΜΑΡΜΑΡΑ Γ'",
+        "address": "ΝΕΟΣ ΜΑΡΜΑΡΑΣ, Τ.Κ.63081",
+        "area": "ΜΑΚΕΔΟΝΙΑ",
+        "type": "Λιμενικό Τμήμα",
+        "telephone": "2375071943",
+        "email": "marmaras@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.786623,
+          40.093201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΛΙΜΝΗΣ ΕΥΒΟΙΑΣ",
+        "name_gr": "ΛΙΜΝΗΣ ΕΥΒΟΙΑΣ",
+        "address": "Λίμνη Ευβοίας - Τ.Κ. 34005",
+        "area": "ΣΤΕΡΕΑ",
+        "type": "Λιμενικός Σταθμός",
+        "telephone": "2227031496",
+        "email": "limni@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.322519,
+          38.763274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΩΡΕΩΝ ΕΥΒΟΙΑΣ Α'",
+        "name_gr": "ΩΡΕΩΝ ΕΥΒΟΙΑΣ Α'",
+        "address": "Λιμένας Ωρεών Ευβοίας - Τ.Κ. 34012",
+        "area": "ΣΤΕΡΕΑ",
+        "type": "Λιμενικό Τμήμα",
+        "telephone": "22260 41710",
+        "email": "oreoi@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.092765,
+          38.950725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "THESSALONIKI",
+        "name_gr": "ΘΕΣΣΑΛΟΝΙΚΗΣ",
+        "address": "PORT OF THESSALONIKI, ZIP 54110",
+        "area": "ΜΑΚΕΔΟΝΙΑ",
+        "type": "Central Port Authority",
+        "telephone": "2313325800",
+        "email": "thessaloniki@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.936036,
+          40.633051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PATRAS",
+        "name_gr": "ΠΑΤΡΑΣ",
+        "address": "SERVICES BUILDING OF PATRAS PORT, ZIP 26110",
+        "area": "ΠΕΛΟΠΟΝΝΗΣΟΣ",
+        "type": "Central Port Authority",
+        "telephone": "2613615400",
+        "email": "patra@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.72969,
+          38.246349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CHANIA",
+        "name_gr": "ΧΑΝΙΩΝ",
+        "address": "SOUDA PORT, ZIP 73200",
+        "area": "ΚΡΗΤΗ",
+        "type": "Central Port Authority",
+        "telephone": "2821089240",
+        "email": "chania@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.074895,
+          35.488298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΔΙΕΥΘΥΝΣΗ ΑΣΦΑΛΕΙΑΣ & ΠΡΟΣΤΑΣΙΑΣ ΘΑΛΑΣΣΙΩΝ ΣΥΝΟΡΩΝ (ΔΑΠΘΑΣ)",
+        "name_gr": "ΔΙΕΥΘΥΝΣΗ ΑΣΦΑΛΕΙΑΣ & ΠΡΟΣΤΑΣΙΑΣ ΘΑΛΑΣΣΙΩΝ ΣΥΝΟΡΩΝ (ΔΑΠΘΑΣ)",
+        "address": "Πύλη Ε1 - Ε2 Ακτή Βασιλειάδη - Τ.Κ. 185 10, Πειραιάς",
+        "area": "ΑΤΤΙΚΗ-ΠΕΙΡΑΙΑΣ",
+        "type": "Υπηρεσίες Αρχηγείου",
+        "telephone": "2131371284, 1285, 4435",
+        "email": "dapthas at hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.626732,
+          37.942605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CORFU",
+        "name_gr": "ΚΕΡΚΥΡΑΣ",
+        "address": "NEW PORF OF CORFU, ZIP 49100",
+        "area": "ΙΟΝΙΑ ΝΗΣΙΑ",
+        "type": "Central Port Authority",
+        "telephone": "2661365200",
+        "email": "kerkyra@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.90536,
+          39.626919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MOUNT ATHOS",
+        "name_gr": "ΑΓΙΟΥ ΟΡΟΥΣ",
+        "address": "DAFNI MOUNT ATHOS, ZIP 63087",
+        "area": "ΜΑΚΕΔΟΝΙΑ",
+        "type": "Port Authority",
+        "telephone": "23770 23300",
+        "email": "agiooros@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.22197,
+          40.214402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SIGRIOU",
+        "name_gr": "ΣΙΓΡΙΟΥ",
+        "address": "SIGRI LESVOU, 81103",
+        "area": "ΒΑ ΑΙΓΑΙΟ",
+        "type": "Λιμενικός Σταθμός",
+        "telephone": "2253054433",
+        "email": "sigri at hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.85437,
+          39.21319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΑΝΑΚΡΙΤΙΚΑ ΣΥΜΒΟΥΛΙΑ ΝΑΥΤΙΚΩΝ ΑΤΥΧΗΜΑΤΩΝ (ΑΣΝΑ)",
+        "name_gr": "ΑΝΑΚΡΙΤΙΚΑ ΣΥΜΒΟΥΛΙΑ ΝΑΥΤΙΚΩΝ ΑΤΥΧΗΜΑΤΩΝ (ΑΣΝΑ)",
+        "address": "Πύλη Ε1 - Ε2 Ακτή Βασιλειάδη - Τ.Κ. 185 10, Πειραιάς",
+        "area": "ΑΤΤΙΚΗ-ΠΕΙΡΑΙΑΣ",
+        "type": "Υπηρεσίες Αρχηγείου",
+        "telephone": "210 4174829, 210 4174846",
+        "email": "asna at hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.626732,
+          37.942605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΠΕΙΘΑΡΧΙΚΑ ΣΥΜΒΟΥΛΙΑ ΕΜΠΟΡΙΚΟΥ ΝΑΥΤΙΚΟΥ (ΠΣΕΝ)",
+        "name_gr": "ΠΕΙΘΑΡΧΙΚΑ ΣΥΜΒΟΥΛΙΑ ΕΜΠΟΡΙΚΟΥ ΝΑΥΤΙΚΟΥ (ΠΣΕΝ)",
+        "address": "Πύλη Ε1 - Ε2 Ακτή Βασιλειάδη - Τ.Κ. 185 10, Πειραιάς",
+        "area": "ΑΤΤΙΚΗ-ΠΕΙΡΑΙΑΣ",
+        "type": "Υπηρεσίες Αρχηγείου",
+        "telephone": "2131371535, 210 4521064",
+        "email": "psen at hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.626732,
+          37.942605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Operations Directorate",
+        "name_gr": "ΔΙΕΥΘΥΝΣΗ ΕΠΙΧΕΙΡΗΣΕΩΝ (ΔΕΠΙΧ)",
+        "address": "Akti Vassiliadi, Gate Ε 1 - Ε 2, 185 10, Piraeus",
+        "area": "ΑΤΤΙΚΗ-ΠΕΙΡΑΙΑΣ",
+        "type": "Υπηρεσίες Αρχηγείου",
+        "telephone": "2131371508",
+        "email": "depix.gr at hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.626732,
+          37.942605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Operational Means Directorate",
+        "name_gr": "ΔΙΕΥΘΥΝΣΗ ΕΠΙΧΕΙΡΗΣΙΑΚΩΝ ΜΕΣΩΝ (ΔΕΜ)",
+        "address": "Akti Vassiliadi, Gate Ε 1 - Ε 2, 185 10, Piraeus",
+        "area": "ΑΤΤΙΚΗ-ΠΕΙΡΑΙΑΣ",
+        "type": "Υπηρεσίες Αρχηγείου",
+        "telephone": "2131371093, 4103",
+        "email": "dem.grammateia at hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.626732,
+          37.942605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΑΥΤΟΤΕΛΕΣ ΓΡΑΦΕΙΟ ΕΘΙΜΟΤΥΠΙΑΣ",
+        "name_gr": "ΑΥΤΟΤΕΛΕΣ ΓΡΑΦΕΙΟ ΕΘΙΜΟΤΥΠΙΑΣ",
+        "address": "Πύλη Ε1 - Ε2 Ακτή Βασιλειάδη - Τ.Κ. 185 10, Πειραιάς",
+        "area": "ΑΤΤΙΚΗ-ΠΕΙΡΑΙΑΣ",
+        "type": "Υπηρεσίες Αρχηγείου",
+        "telephone": "2131371312 - 1507",
+        "email": "dp.ethimotipia at hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.626732,
+          37.942605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΑΥΤΟΤΕΛΕΣ ΓΡΑΦΕΙΟ ΑΘΛΗΤΙΣΜΟΥ",
+        "name_gr": "ΑΥΤΟΤΕΛΕΣ ΓΡΑΦΕΙΟ ΑΘΛΗΤΙΣΜΟΥ",
+        "address": "Πύλη Ε1 - Ε2 Ακτή Βασιλειάδη - Τ.Κ. 185 10, Πειραιάς",
+        "area": "ΑΤΤΙΚΗ-ΠΕΙΡΑΙΑΣ",
+        "type": "Υπηρεσίες Αρχηγείου",
+        "telephone": "210 9829382  ",
+        "email": "athlitismos at hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.626732,
+          37.942605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Personnel Management Directorate",
+        "name_gr": "ΔΙΕΥΘΥΝΣΗ ΠΡΟΣΩΠΙΚΟΥ (ΔΠ)",
+        "address": "Akti Vassiliadi, Gate Ε 1 - Ε 2, 185 10, Piraeus",
+        "area": "ΑΤΤΙΚΗ-ΠΕΙΡΑΙΑΣ",
+        "type": "Υπηρεσίες Αρχηγείου",
+        "telephone": "2131371261, 4312, 4367",
+        "email": "dp @ hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.626732,
+          37.942605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΓΕΝΙΚΟΣ ΔΙΕΥΘΥΝΤΗΣ ΟΙΚΟΝΟΜΙΚΩΝ ΥΠΗΡΕΣΙΩΝ (ΓΔΟΥ)",
+        "name_gr": "ΓΕΝΙΚΟΣ ΔΙΕΥΘΥΝΤΗΣ ΟΙΚΟΝΟΜΙΚΩΝ ΥΠΗΡΕΣΙΩΝ (ΓΔΟΥ)",
+        "address": "Πύλη Ε1 - Ε2 Ακτή Βασιλειάδη - Τ.Κ. 185 10, Πειραιάς",
+        "area": "ΑΤΤΙΚΗ-ΠΕΙΡΑΙΑΣ",
+        "type": "Υπηρεσίες Αρχηγείου",
+        "telephone": "2131374711",
+        "email": "gdoy at yna.gov.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.626732,
+          37.942605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΔΙΕΥΘΥΝΣΗ ΠΡΟΫΠΟΛΟΓΙΣΜΟΥ & ΟΙΚΟΝΟΜΙΚΗΣ ΠΛΗΡΟΦΟΡΗΣΗΣ (ΔΙΠΡΟΠ)",
+        "name_gr": "ΔΙΕΥΘΥΝΣΗ ΠΡΟΫΠΟΛΟΓΙΣΜΟΥ & ΟΙΚΟΝΟΜΙΚΗΣ ΠΛΗΡΟΦΟΡΗΣΗΣ (ΔΙΠΡΟΠ)",
+        "address": "Πύλη Ε1 - Ε2 Ακτή Βασιλειάδη - Τ.Κ. 185 10, Πειραιάς",
+        "area": "ΑΤΤΙΚΗ-ΠΕΙΡΑΙΑΣ",
+        "type": "Υπηρεσίες Αρχηγείου",
+        "telephone": "2131374630",
+        "email": "diprop.gram at yna.gov.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.626732,
+          37.942605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΔΙΕΥΘΥΝΣΗ ΟΙΚΟΝΟΜΙΚΗΣ ΔΙΑΧΕΙΡΙΣΗΣ (ΔΟΔ)",
+        "name_gr": "ΔΙΕΥΘΥΝΣΗ ΟΙΚΟΝΟΜΙΚΗΣ ΔΙΑΧΕΙΡΙΣΗΣ (ΔΟΔ)",
+        "address": "Πύλη Ε1 - Ε2 Ακτή Βασιλειάδη - Τ.Κ. 185 10, Πειραιάς",
+        "area": "ΑΤΤΙΚΗ-ΠΕΙΡΑΙΑΣ",
+        "type": "Υπηρεσίες Αρχηγείου",
+        "telephone": "2131374869, 4921",
+        "email": "dod at yna.gov.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.626732,
+          37.942605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΔΙΕΥΘΥΝΣΗ ΠΡΟΜΗΘΕΙΩΝ & ΕΠΟΠΤΕΙΑΣ ΑΠΟΘΗΚΩΝ (ΔΙΠΕΑ)",
+        "name_gr": "ΔΙΕΥΘΥΝΣΗ ΠΡΟΜΗΘΕΙΩΝ & ΕΠΟΠΤΕΙΑΣ ΑΠΟΘΗΚΩΝ (ΔΙΠΕΑ)",
+        "address": "Πύλη Ε1 - Ε2 Ακτή Βασιλειάδη - Τ.Κ. 185 10, Πειραιάς",
+        "area": "ΑΤΤΙΚΗ-ΠΕΙΡΑΙΑΣ",
+        "type": "Υπηρεσίες Αρχηγείου",
+        "telephone": "2131371190, 4592",
+        "email": "dipea at yna.gov.gr "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.626732,
+          37.942605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Α' ΥΠΑΡΧΗΓΟΣ Λ.Σ. - ΕΛ.ΑΚΤ.",
+        "name_gr": "Α' ΥΠΑΡΧΗΓΟΣ Λ.Σ. - ΕΛ.ΑΚΤ.",
+        "address": "Πύλη Ε1 - Ε2 Ακτή Βασιλειάδη - Τ.Κ. 185 10, Πειραιάς",
+        "area": "-",
+        "type": "Υπηρεσίες Αρχηγείου",
+        "telephone": "2131371701",
+        "email": "ayls at hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.626732,
+          37.942605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΓΕΝΙΚΗ ΕΠΙΘΕΩΡΗΣΗ Λ.Σ. - ΕΛ.ΑΚΤ. (ΓΕΛΣ)",
+        "name_gr": "ΓΕΝΙΚΗ ΕΠΙΘΕΩΡΗΣΗ Λ.Σ. - ΕΛ.ΑΚΤ. (ΓΕΛΣ)",
+        "address": "Πύλη Ε1 - Ε2 Ακτή Βασιλειάδη - Τ.Κ. 185 10, Πειραιάς",
+        "area": "-",
+        "type": "Υπηρεσίες Αρχηγείου",
+        "telephone": "2131374110",
+        "email": "gels at hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.626732,
+          37.942605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "E-Governance and Communications Directorate",
+        "name_gr": "ΔΙΕΥΘΥΝΣΗ ΗΛΕΚΤΡΟΝΙΚΗΣ ΔΙΑΚΥΒΕΡΝΗΣΗΣ & ΕΠΙΚΟΙΝΩΝΙΩΝ (ΔΗΔΕΠ)",
+        "address": "Akti Vassiliadi, Gate Ε 1 - Ε 2, 185 10, Piraeus",
+        "area": "ΑΤΤΙΚΗ-ΠΕΙΡΑΙΑΣ",
+        "type": "Υπηρεσίες Αρχηγείου",
+        "telephone": "2131371116-1066",
+        "email": "didep at hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.626732,
+          37.942605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Personnel Training Directorate",
+        "name_gr": "ΔΙΕΥΘΥΝΣΗ ΕΚΠΑΙΔΕΥΣΗΣ ΠΡΟΣΩΠΙΚΟΥ Λ.Σ.-ΕΛ.ΑΚΤ (ΔΕΚΠ)",
+        "address": "Akti Vassiliadi, Gate Ε 1 - Ε 2, 185 10, Piraeus",
+        "area": "ΑΤΤΙΚΗ-ΠΕΙΡΑΙΑΣ",
+        "type": "Υπηρεσίες Αρχηγείου",
+        "telephone": "2131371075",
+        "email": "dekp at hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.626732,
+          37.942605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ship Inspection Directorate",
+        "name_gr": "ΔΙΕΥΘΥΝΣΗ ΕΠΙΘΕΩΡΗΣΗΣ ΠΛΟΙΩΝ (ΔΕΠ)",
+        "address": "Akti Vassiliadi, Gate Ε 1 - Ε 2, 185 10, Piraeus",
+        "area": "ΑΤΤΙΚΗ-ΠΕΙΡΑΙΑΣ",
+        "type": "Υπηρεσίες Αρχηγείου",
+        "telephone": "2131371800",
+        "email": "dep at hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.626732,
+          37.942605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Regulations and Control of Organizations Directorate",
+        "name_gr": "ΔΙΕΥΘΥΝΣΗ ΚΑΝΟΝΙΣΜΩΝ & ΕΛΕΓΧΟΥ ΟΡΓΑΝΙΣΜΩΝ (ΔΚΕΟ)",
+        "address": "Akti Vassiliadi, Gate Ε 1 - Ε 2, 185 10, Piraeus",
+        "area": "ΑΤΤΙΚΗ-ΠΕΙΡΑΙΑΣ",
+        "type": "Υπηρεσίες Αρχηγείου",
+        "telephone": "2131371800",
+        "email": "dkeo at hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.626732,
+          37.942605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ships' Design and Construction Directorate",
+        "name_gr": "ΔΙΕΥΘΥΝΣΗ ΜΕΛΕΤΩΝ & ΚΑΤΑΣΚΕΥΩΝ ΠΛΟΙΩΝ (ΔΙΜΕΚΑΠ)",
+        "address": "Akti Vassiliadi, Gate Ε 1 - Ε 2, 185 10, Piraeus",
+        "area": "ΑΤΤΙΚΗ-ΠΕΙΡΑΙΑΣ",
+        "type": "Υπηρεσίες Αρχηγείου",
+        "telephone": "2131371800",
+        "email": "dmk at yen.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.626732,
+          37.942605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sector D - Administration and E-Government",
+        "name_gr": "ΔΙΕΥΘΥΝΤΗΣ ΚΛΑΔΟΥ Δ' ΔΙΟΙΚΗΣΗΣ & ΗΛΕΚΤΡΟΝΙΚΗΣ ΔΙΑΚΥΒΕΡΝΗΣΗΣ",
+        "address": "Akti Vassiliadi, Gate Ε 1 - Ε 2, 185 10, Piraeus",
+        "area": "ΑΤΤΙΚΗ-ΠΕΙΡΑΙΑΣ",
+        "type": "Υπηρεσίες Αρχηγείου",
+        "telephone": "2131374709",
+        "email": "dkd at hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.626732,
+          37.942605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sector C – Ship Control",
+        "name_gr": "ΔΙΕΥΘΥΝΤΗΣ ΚΛΑΔΟΥ Γ' ΕΛΕΓΧΟΥ ΠΛΟΙΩΝ",
+        "address": "Akti Vassiliadi, Gate Ε 1 - Ε 2, 185 10, Piraeus",
+        "area": "ΑΤΤΙΚΗ-ΠΕΙΡΑΙΑΣ",
+        "type": "Υπηρεσίες Αρχηγείου",
+        "telephone": "2131371959, 1964",
+        "email": "dkc at hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.626732,
+          37.942605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Port Police Directorate",
+        "name_gr": "ΔΙΕΥΘΥΝΣΗ ΛΙΜΕΝΙΚΗΣ ΑΣΤΥΝΟΜΙΑΣ (ΔΛΑ)",
+        "address": "Akti Vassiliadi, Gate Ε 1 - Ε 2, 185 10, Piraeus",
+        "area": "ΑΤΤΙΚΗ-ΠΕΙΡΑΙΑΣ",
+        "type": "Υπηρεσίες Αρχηγείου",
+        "telephone": "2131371142, 1463",
+        "email": "dla at hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.626732,
+          37.942605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Navy Training Directorate",
+        "name_gr": "ΔΙΕΥΘΥΝΣΗ EΚΠΑΙΔΕΥΣΗΣ ΝΑΥΤΙΚΩΝ (ΔΕΚΝ)",
+        "address": "Akti Vassiliadi, Gate Ε 1 - Ε 2, 185 10, Piraeus",
+        "area": "ΑΤΤΙΚΗ-ΠΕΙΡΑΙΑΣ",
+        "type": "Υπηρεσίες Αρχηγείου",
+        "telephone": "2131371259, 1427",
+        "email": "dekn at hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.626732,
+          37.942605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Marine Transport Directorate",
+        "name_gr": "ΔΙΕΥΘΥΝΣΗ ΘΑΛΑΣΣΙΩΝ ΣΥΓΚΟΙΝΩΝΙΩΝ (ΔΘΣ)",
+        "address": "Akti Vassiliadi, Gate Ε 1 - Ε 2, 185 10, Piraeus",
+        "area": "ΑΤΤΙΚΗ-ΠΕΙΡΑΙΑΣ",
+        "type": "Υπηρεσίες Αρχηγείου",
+        "telephone": "2131371318, 1167, 1400",
+        "email": "dths at hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.626732,
+          37.942605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Marine Environment Protection Directorate",
+        "name_gr": "ΔΙΕΥΘΥΝΣΗ ΠΡΟΣΤΑΣΙΑΣ ΘΑΛΑΣΣΙΟΥ ΠΕΡΙΒΑΛΛΟΝΤΟΣ (ΔΙΠΘΑΠ)",
+        "address": "Akti Vassiliadi, Gate Ε 1 - Ε 2, 185 10, Piraeus",
+        "area": "ΑΤΤΙΚΗ-ΠΕΙΡΑΙΑΣ",
+        "type": "Υπηρεσίες Αρχηγείου",
+        "telephone": "2131371565",
+        "email": "dipthap at hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.626732,
+          37.942605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Navigation Safety Directorate",
+        "name_gr": "ΔΙΕΥΘΥΝΣΗ ΑΣΦΑΛΕΙΑΣ ΝΑΥΣΙΠΛΟΪΑΣ (ΔΑΝ)",
+        "address": "Akti Vassiliadi, Gate Ε 1 - Ε 2, 185 10, Piraeus",
+        "area": "ΑΤΤΙΚΗ-ΠΕΙΡΑΙΑΣ",
+        "type": "Υπηρεσίες Αρχηγείου",
+        "telephone": "2131371326, 4457",
+        "email": "dan at hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.626732,
+          37.942605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Naval Work Directorate",
+        "name_gr": "ΔΙΕΥΘΥΝΣΗ ΝΑΥΤΙΚΗΣ ΕΡΓΑΣΙΑΣ (ΔΝΕΡ)",
+        "address": "Akti Vassiliadi, Gate Ε 1 - Ε 2, 185 10, Piraeus",
+        "area": "ΑΤΤΙΚΗ-ΠΕΙΡΑΙΑΣ",
+        "type": "Υπηρεσίες Αρχηγείου",
+        "telephone": "2131371136, 1294",
+        "email": "dner at hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.626732,
+          37.942605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Drugs and Trafficking Prosecution Directorate",
+        "name_gr": "ΔΙΕΥΘΥΝΣΗ ΔΙΩΞΗΣ ΝΑΡΚΩΤΙΚΩΝ & ΛΑΘΡΕΜΠΟΡΙΟΥ (ΔΙΔΙΝΑΛ)",
+        "address": "Akti Vassiliadi, Gate Ε 1 - Ε 2, 185 10, Piraeus",
+        "area": "ΑΤΤΙΚΗ-ΠΕΙΡΑΙΑΣ",
+        "type": "Υπηρεσίες Αρχηγείου",
+        "telephone": "2131371152",
+        "email": "didinal.a at hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.626732,
+          37.942605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "RODOS",
+        "name_gr": "ΡΟΔΟΥ",
+        "address": "ELEFTHERIA SQUARE 1, ZIP 85100",
+        "area": "ΔΩΔΕΚΑΝΗΣΑ",
+        "type": "Central Port Authority",
+        "telephone": "2241028666",
+        "email": "rodos@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.224638,
+          36.450111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "HERAKLEION",
+        "name_gr": "ΗΡΑΚΛΕΙΟΥ",
+        "address": "PORT OF HERAKLION, ZIP 71110",
+        "area": "ΚΡΗΤΗ",
+        "type": "Central Port Authority",
+        "telephone": "2813406910",
+        "email": "iraklio@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.137727,
+          35.343183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "VOLOS",
+        "name_gr": "ΒΟΛΟΥ",
+        "address": "VOLOS CENTRAL JETTY, ZIP 38001",
+        "area": "ΘΕΣΣΑΛΙΑ",
+        "type": "Central Port Authority",
+        "telephone": "2421353800",
+        "email": "volos@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.944516,
+          39.358959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PORTO LAGOS",
+        "name_gr": "ΠΟΡΤΟ ΛΑΓΟΥΣ",
+        "address": "PORTO LAGOS XANTHI ZIP 67063",
+        "area": "ΘΡΑΚΗ",
+        "type": "Port Authority",
+        "telephone": "25410 96666",
+        "email": "lagos@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.119376,
+          41.006589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SAMOS",
+        "name_gr": "ΣΑΜΟY",
+        "address": "THEMISTOKLEOUS SOFOULI 1, ZIP 83100",
+        "area": "ΒΑ ΑΙΓΑΙΟ",
+        "type": "Port Authority",
+        "telephone": "2273027318",
+        "email": "samo@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.970846,
+          37.758191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "POROS",
+        "name_gr": "ΠΟΡΟΥ",
+        "address": "PUBLIC MARKET OF POROS, ZIP 18020",
+        "area": "ΑΤΤΙΚΗ-ΠΕΙΡΑΙΑΣ",
+        "type": "Port Authority",
+        "telephone": "2298022274",
+        "email": "poros@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.453521,
+          37.500374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "KARPATHOS",
+        "name_gr": "ΚΑΡΠΑΘΟΥ",
+        "address": "PIGADIA KARPATHOS, ZIP 85700",
+        "area": "ΔΩΔΕΚΑΝΗΣΑ",
+        "type": "Port Authority",
+        "telephone": "2245022227",
+        "email": "karpathos@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.215602,
+          35.509547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SITEIA",
+        "name_gr": "ΣΗΤΕΙΑΣ",
+        "address": "PORT OF SITEIA KOKKINA, ZIP 73200",
+        "area": "ΚΡΗΤΗ",
+        "type": "Port Authority",
+        "telephone": "2843022310",
+        "email": "sitia@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.111758,
+          35.212959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MESOLOGGI",
+        "name_gr": "ΜΕΣΟΛΟΓΓΙΟΥ",
+        "address": "MESOLOGGI, ZIP 30200",
+        "area": "ΣΤΕΡΕΑ",
+        "type": "Port Authority",
+        "telephone": "2631051211",
+        "email": "mesologi@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.422199,
+          38.363594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "AIDIPSOS",
+        "name_gr": "ΑΙΔΗΨΟΥ",
+        "address": "PORT OF AIDIPSOS, ZIP 34300",
+        "area": "ΣΤΕΡΕΑ",
+        "type": "Port Authority",
+        "telephone": "2226022464",
+        "email": "aidipsos@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.041612,
+          38.858088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "KATAKOLO",
+        "name_gr": "ΚΑΤΑΚΟΛΟΥ",
+        "address": "KATAKOLO ZIP 27067",
+        "area": "ΠΕΛΟΠΟΝΝΗΣΟΣ",
+        "type": "Port Authority",
+        "telephone": "2621041206",
+        "email": "katakolo@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.316692,
+          37.648788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "KEFALLINIAS",
+        "name_gr": "ΚΕΦΑΛΛΗΝΙΑΣ",
+        "address": "IOANNI METAKSA 9, ARGOSTOLI, ZIP 28100",
+        "area": "ΙΟΝΙΑ ΝΗΣΙΑ",
+        "type": "Port Authority",
+        "telephone": "2671022224",
+        "email": "kefalonia@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.487882,
+          38.183828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SIROS",
+        "name_gr": "ΣΥΡΟΥ",
+        "address": "SQUARE OF LAIKI KIRIARXIA, SYROS, ZIP 84100",
+        "area": "ΚΥΚΛΑΔΕΣ",
+        "type": "Port Authority",
+        "telephone": "2281088888",
+        "email": "syros@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.940631,
+          37.440652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "THIRAS",
+        "name_gr": "ΘΗΡΑΣ",
+        "address": "THIRA, ZIP 84700",
+        "area": "ΚΥΚΛΑΔΕΣ",
+        "type": "Port Authority",
+        "telephone": "2286022239",
+        "email": "thira@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.433186,
+          36.414177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "8η ΠΕΔΙΛΣ (Ρόδος)",
+        "name_gr": "8η ΠΕΔΙΛΣ (Ρόδος)",
+        "address": "PLATEIA ELEUTHERIAS 1, RODOS, ZIP 85131",
+        "area": "ΔΩΔΕΚΑΝΗΣΑ",
+        "type": "Regional Command",
+        "telephone": "2241075611",
+        "email": "pedils8 at hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.2246863,
+          36.45018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "2η ΠΕΔΙΛΣ (Καβάλα)",
+        "name_gr": "2η ΠΕΔΙΛΣ (Καβάλα)",
+        "address": "ΑΜΕΡΙΚΑΝΙΚΟΥ ΕΡΥΘΡΟΥ ΣΤΑΥΡΟΥ 251 ΚΑΒΑΛΑ, Τ.Κ.65201",
+        "area": "ΜΑΚΕΔΟΝΙΑ",
+        "type": "Regional Command",
+        "telephone": "2510220392",
+        "email": "pedils2 at hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.4375,
+          40.94779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ΘΑΣΟΥ Α'",
+        "name_gr": "ΘΑΣΟΥ Α'",
+        "address": "AUGUST CORNER THEOLOGITI & THEAGENOUS, THASSOS - PC 64004",
+        "area": "ΜΑΚΕΔΟΝΙΑ",
+        "type": "Λιμενικό Τμήμα",
+        "telephone": "2593022106",
+        "email": "thassos@hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.71044,
+          40.78018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "3η ΠΕΔΙΛΣ (Ηγουμενίτσα)",
+        "name_gr": "3η ΠΕΔΙΛΣ (Ηγουμενίτσα)",
+        "address": "ΠΑΛΙΟΣ ΛΙΜΕΝΑΣ ΗΓΟΥΜΕΝΙΤΣΑΣ, Τ.Κ.46100",
+        "area": "ΗΠΕΙΡΟΣ",
+        "type": "Regional Command",
+        "telephone": "2665029431",
+        "email": "pedils3 at hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.259605,
+          39.4887367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "NAFPLIO",
+        "name_gr": "ΝΑΥΠΛΙΟΥ",
+        "address": "MEGALOU ALEXANDROU 14, ZIP 21100",
+        "area": "ΠΕΛΟΠΟΝΝΗΣΟΣ",
+        "type": "Port Authority",
+        "telephone": "2752027022",
+        "email": "nafplio at hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.80496,
+          37.57456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MARKOPOULO MESOGAIAS A'",
+        "name_gr": "ΜΑΡΚΟΠΟΥΛΟ ΜΕΣΟΓΑΙΑΣ Α΄",
+        "address": "PORT OF AGIOS NIKOLAOS, 19023",
+        "area": "ΑΤΤΙΚΗ-ΠΕΙΡΑΙΑΣ",
+        "type": "Λιμενικό Τμήμα",
+        "telephone": "2299071205",
+        "email": "markopoulo at hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.015261,
+          37.886675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "RETHIMNO",
+        "name_gr": "ΡΕΘΥΜΝΟΥ",
+        "address": "Sophocles Venizelou, DELFINI Building , Rethymno -  74133",
+        "area": "ΚΡΗΤΗ",
+        "type": "Port Authority",
+        "telephone": "2831022276",
+        "email": "rethimno at hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.48361214,
+          35.36699218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "VTS IGOUMENITSAS",
+        "name_gr": "VTS ΗΓΟΥΜΕΝΙΤΣΑΣ",
+        "address": "Limenas Exoterikou, 46100",
+        "area": "ΗΠΕΙΡΟΣ",
+        "type": "VTS",
+        "telephone": "26650-99412 / VHF 14, 13",
+        "email": "vts.igoumenitsa at hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.258767,
+          39.4888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "VTS PATRAS",
+        "name_gr": "VTS ΠΑΤΡΑΣ",
+        "address": "Notios (Neos) Limenas Patron, 26110",
+        "area": "ΠΕΛΟΠΟΝΝΗΣΟΣ",
+        "type": "VTS",
+        "telephone": "2610-341330 / VHF 13, 14",
+        "email": "vts.patras at hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.721056,
+          38.226617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "VTS RAFINAS",
+        "name_gr": "VTS ΡΑΦΗΝΑΣ",
+        "address": "Limani Rafinas, 19009",
+        "area": "ΑΤΤΙΚΗ-ΠΕΙΡΑΙΑΣ",
+        "type": "VTS",
+        "telephone": "22943-21251 / VHF 11, 74",
+        "email": "vts.rafinas at hcg.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.009494,
+          38.025279
+        ]
+      }
+    }
+  ]
+}

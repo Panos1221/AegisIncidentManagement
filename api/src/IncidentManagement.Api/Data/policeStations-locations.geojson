@@ -1,0 +1,266 @@
+{
+	"type": "FeatureCollection",
+	"name": "at_da",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"gid": 14,
+				"id": 14,
+				"name": "Α.Τ. ΑΓ.ΠΑΝΤΕΛΕΗΜΟΝΑ",
+				"address": "Μ. Βόδα 85, 10440",
+				"sinoikia": "ΠΛ.ΑΤΤΙΚΗΣ",
+				"diam": "6o"
+			},
+			"geometry": {
+				"type": "MultiPoint",
+				"coordinates": [
+					[
+						23.7253442,
+						37.9960941
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"gid": 1,
+				"id": 1,
+				"name": "Α.Τ. ΑΜΠΕΛΟΚΗΠΩΝ",
+				"address": "Σεβαστουπόλεως 14, 11526",
+				"sinoikia": "ΑΜΠΕΛΟΚΗΠΟΙ",
+				"diam": "7o"
+			},
+			"geometry": {
+				"type": "MultiPoint",
+				"coordinates": [
+					[
+						23.7635192,
+						37.9869483
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"gid": 2,
+				"id": 2,
+				"name": "ΑΡΧΗΓΕΙΟ ΕΛΛ.ΑΣΤΥΝΟΜΙΑΣ",
+				"address": "Π. Κανελλοπούλου 4, 10177",
+				"sinoikia": "ΓΟΥΔΗ",
+				"diam": "7o"
+			},
+			"geometry": {
+				"type": "MultiPoint",
+				"coordinates": [
+					[
+						23.7771528,
+						37.9905803
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"gid": 3,
+				"id": 3,
+				"name": "Γ.Α.Δ.Α.",
+				"address": "Λ. Αλεξάνδρας 173, 11522",
+				"sinoikia": "ΚΟΥΝΤΟΥΡΙΩΤΙΚΑ",
+				"diam": "7o"
+			},
+			"geometry": {
+				"type": "MultiPoint",
+				"coordinates": [
+					[
+						23.7562861,
+						37.9878504
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"gid": 4,
+				"id": 4,
+				"name": "Α.Τ. ΚΥΨΕΛΗΣ",
+				"address": "Θήρας 17, 11257",
+				"sinoikia": "ΚΥΨΕΛΗ",
+				"diam": "6o"
+			},
+			"geometry": {
+				"type": "MultiPoint",
+				"coordinates": [
+					[
+						23.7342884,
+						38.001331
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"gid": 5,
+				"id": 5,
+				"name": "Α.Τ. ΚΟΛΩΝΟΥ",
+				"address": "Λαοδάμαντος 1-3, 10444",
+				"sinoikia": "ΣΕΠΟΛΙΑ",
+				"diam": "4o"
+			},
+			"geometry": {
+				"type": "MultiPoint",
+				"coordinates": [
+					[
+						23.7175881,
+						38.0002473
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"gid": 6,
+				"id": 6,
+				"name": "Α.Τ. ΠΑΤΗΣΙΩΝ",
+				"address": "Αγ. Λαύρας 17, 11141",
+				"sinoikia": "ΑΝΩ ΠΑΤΗΣΙΑ",
+				"diam": "5o"
+			},
+			"geometry": {
+				"type": "MultiPoint",
+				"coordinates": [
+					[
+						23.7393672,
+						38.0171147
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"gid": 8,
+				"id": 8,
+				"name": "Α.Τ. ΟΜΟΝΟΙΑΣ",
+				"address": "Βερανζέρου 24, 10432",
+				"sinoikia": "ΑΓ.ΚΩΝ/ΝΟΣ-ΠΛ.ΒΑΘΗΣ",
+				"diam": "1o"
+			},
+			"geometry": {
+				"type": "MultiPoint",
+				"coordinates": [
+					[
+						23.7277731,
+						37.9857456
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"gid": 9,
+				"id": 9,
+				"name": "ΤΡΟΧΑΙΑ ΑΘΗΝΩΝ",
+				"address": "Θ. Δηληγιάννη 24-26, 10438",
+				"sinoikia": "ΑΓ.ΚΩΝ/ΝΟΣ-ΠΛ.ΒΑΘΗΣ",
+				"diam": "1o"
+			},
+			"geometry": {
+				"type": "MultiPoint",
+				"coordinates": [
+					[
+						23.720269,
+						37.9878216
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"gid": 10,
+				"id": 10,
+				"name": "Α.Τ. ΕΞΑΡΧΕΙΩΝ",
+				"address": "Καλλιδρομίου 12, 11472",
+				"sinoikia": "ΜΟΥΣΕΙΟ-ΕΞΑΡΧΕΙΑ",
+				"diam": "1o"
+			},
+			"geometry": {
+				"type": "MultiPoint",
+				"coordinates": [
+					[
+						23.7395203,
+						37.9852702
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"gid": 11,
+				"id": 11,
+				"name": "Α.Τ.  ΑΚΡΟΠΟΛΕΩΣ",
+				"address": "Βεΐκου 43-45, 11742",
+				"sinoikia": "ΚΟΥΚΑΚΙ-ΜΑΚΡΥΓΙΑΝΝΗ",
+				"diam": "1o"
+			},
+			"geometry": {
+				"type": "MultiPoint",
+				"coordinates": [
+					[
+						23.7259634,
+						37.9660348
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"gid": 12,
+				"id": 12,
+				"name": "Α.Τ. ΣΥΝΤΑΓΜΑΤΟΣ",
+				"address": "Μιμνέρμου 6-8, 10674",
+				"sinoikia": "ΠΑΓΚΡΑΤΙ",
+				"diam": "2o"
+			},
+			"geometry": {
+				"type": "MultiPoint",
+				"coordinates": [
+					[
+						23.7420196,
+						37.9721481
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"gid": 13,
+				"id": 13,
+				"name": "Α.Τ. ΠΑΓΚΡΑΤΙΟΥ",
+				"address": "Πρατίνου 49, 11634",
+				"sinoikia": "ΠΑΓΚΡΑΤΙ",
+				"diam": "2o"
+			},
+			"geometry": {
+				"type": "MultiPoint",
+				"coordinates": [
+					[
+						23.748185,
+						37.9707388
+					]
+				]
+			}
+		}
+	]
+}

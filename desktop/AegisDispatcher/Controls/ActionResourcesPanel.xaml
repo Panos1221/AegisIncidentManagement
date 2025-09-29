@@ -1,0 +1,262 @@
+<UserControl x:Class="AegisDispatcher.Controls.ActionResourcesPanel"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="250">
+
+    <UserControl.Resources>
+        <!-- Station Header Style -->
+        <Style x:Key="StationHeader" TargetType="Border">
+            <Setter Property="Background" Value="#FF1E1E1E"/>
+            <Setter Property="BorderBrush" Value="#FF3F3F46"/>
+            <Setter Property="BorderThickness" Value="1"/>
+            <Setter Property="CornerRadius" Value="3"/>
+            <Setter Property="Margin" Value="0,2"/>
+            <Setter Property="Padding" Value="8,6"/>
+            <Setter Property="Cursor" Value="Hand"/>
+            <Style.Triggers>
+                <Trigger Property="IsMouseOver" Value="True">
+                    <Setter Property="Background" Value="#FF2D2D30"/>
+                    <Setter Property="BorderBrush" Value="#FF007ACC"/>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+
+        <!-- Resource Card Style -->
+        <Style x:Key="ResourceCard" TargetType="Border">
+            <Setter Property="Background" Value="#FF3C3C3C"/>
+            <Setter Property="BorderBrush" Value="#FF626262"/>
+            <Setter Property="BorderThickness" Value="1"/>
+            <Setter Property="CornerRadius" Value="4"/>
+            <Setter Property="Margin" Value="2"/>
+            <Setter Property="Padding" Value="6"/>
+            <Setter Property="Cursor" Value="Hand"/>
+            <Setter Property="MinHeight" Value="60"/>
+            <Style.Triggers>
+                <Trigger Property="IsMouseOver" Value="True">
+                    <Setter Property="Background" Value="#FF484848"/>
+                    <Setter Property="BorderBrush" Value="#FF007ACC"/>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+
+        <!-- Search Box Style -->
+        <Style x:Key="SearchBox" TargetType="TextBox">
+            <Setter Property="Background" Value="#FF3C3C3C"/>
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="BorderBrush" Value="#FF626262"/>
+            <Setter Property="BorderThickness" Value="1"/>
+            <Setter Property="Padding" Value="8,6"/>
+            <Setter Property="FontSize" Value="11"/>
+            <Style.Triggers>
+                <Trigger Property="IsFocused" Value="True">
+                    <Setter Property="BorderBrush" Value="#FF007ACC"/>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+
+        <!-- Text Styles -->
+        <Style x:Key="StationName" TargetType="TextBlock">
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="FontWeight" Value="SemiBold"/>
+            <Setter Property="FontSize" Value="12"/>
+        </Style>
+
+        <Style x:Key="ResourceCount" TargetType="TextBlock">
+            <Setter Property="Foreground" Value="#FF007ACC"/>
+            <Setter Property="FontSize" Value="10"/>
+        </Style>
+
+        <Style x:Key="ResourceTitle" TargetType="TextBlock">
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="FontWeight" Value="SemiBold"/>
+            <Setter Property="FontSize" Value="10"/>
+            <Setter Property="TextTrimming" Value="CharacterEllipsis"/>
+        </Style>
+
+        <Style x:Key="ResourceDetail" TargetType="TextBlock">
+            <Setter Property="Foreground" Value="#FFCCCCCC"/>
+            <Setter Property="FontSize" Value="9"/>
+            <Setter Property="TextTrimming" Value="CharacterEllipsis"/>
+        </Style>
+
+        <!-- Status Badge -->
+        <Style x:Key="StatusIndicator" TargetType="Ellipse">
+            <Setter Property="Width" Value="6"/>
+            <Setter Property="Height" Value="6"/>
+            <Setter Property="Margin" Value="0,0,4,0"/>
+        </Style>
+
+        <!-- Expand/Collapse Button -->
+        <Style x:Key="ExpandButton" TargetType="Button">
+            <Setter Property="Background" Value="Transparent"/>
+            <Setter Property="BorderThickness" Value="0"/>
+            <Setter Property="Foreground" Value="#FFCCCCCC"/>
+            <Setter Property="FontSize" Value="12"/>
+            <Setter Property="Width" Value="20"/>
+            <Setter Property="Height" Value="20"/>
+            <Setter Property="Cursor" Value="Hand"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border Background="{TemplateBinding Background}" CornerRadius="2">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Foreground" Value="#FF007ACC"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </UserControl.Resources>
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <!-- View Toggle Buttons -->
+        <Border Grid.Row="0" Margin="5,5,5,0" Background="#FF2D2D30" CornerRadius="3">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+
+                <Button x:Name="AvailableResourcesBtn" Grid.Column="0" Content="Available Resources"
+                        Background="#FF007ACC" Foreground="White" BorderThickness="0"
+                        Padding="8,6" FontSize="10" FontWeight="SemiBold" Cursor="Hand"
+                        Click="AvailableResources_Click"/>
+
+                <Button x:Name="AssignedResourcesBtn" Grid.Column="1" Content="Assigned Resources"
+                        Background="#FF3C3C3C" Foreground="#FFCCCCCC" BorderThickness="0"
+                        Padding="8,6" FontSize="10" FontWeight="SemiBold" Cursor="Hand"
+                        Click="AssignedResources_Click"/>
+            </Grid>
+        </Border>
+
+        <!-- Search Bar -->
+        <Border Grid.Row="1" x:Name="SearchBarPanel" Margin="5,5,5,10">
+            <TextBox x:Name="SearchBox" Style="{StaticResource SearchBox}"
+                     Text="Search stations or units..."
+                     GotFocus="SearchBox_GotFocus"
+                     LostFocus="SearchBox_LostFocus"
+                     TextChanged="SearchBox_TextChanged"/>
+        </Border>
+
+        <!-- Available Resources List -->
+        <ScrollViewer Grid.Row="2" x:Name="AvailableResourcesContainer" VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Disabled">
+            <StackPanel x:Name="ResourcesContainer" Margin="5">
+                
+                <!-- Loading Indicator -->
+                <Border x:Name="LoadingIndicator" Style="{StaticResource ResourceCard}" 
+                       Visibility="Visible" HorizontalAlignment="Center" Margin="0,20">
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Text="●" Foreground="#FF007ACC" FontSize="14" Margin="0,0,8,0">
+                            <TextBlock.RenderTransform>
+                                <RotateTransform x:Name="LoadingRotation"/>
+                            </TextBlock.RenderTransform>
+                        </TextBlock>
+                        <TextBlock Text="Loading resources..." Foreground="#FFCCCCCC" 
+                                  VerticalAlignment="Center" FontSize="11"/>
+                    </StackPanel>
+                </Border>
+
+                <!-- No Resources Message -->
+                <Border x:Name="NoResourcesMessage" Style="{StaticResource ResourceCard}" 
+                       Visibility="Collapsed" HorizontalAlignment="Center" Margin="0,20">
+                    <StackPanel HorizontalAlignment="Center">
+                        <TextBlock Text="🚒" FontSize="20" HorizontalAlignment="Center" Margin="0,0,0,5"/>
+                        <TextBlock Text="No resources found" Foreground="#FFCCCCCC" 
+                                  HorizontalAlignment="Center" FontSize="11"/>
+                        <TextBlock Text="Try adjusting your search" Foreground="#FF999999" 
+                                  FontSize="9" HorizontalAlignment="Center"/>
+                    </StackPanel>
+                </Border>
+
+                <!-- Error Message -->
+                <Border x:Name="ErrorMessage" Style="{StaticResource ResourceCard}" 
+                       Visibility="Collapsed" Background="#FF5A1E1E" BorderBrush="#FFCC0000" Margin="0,20">
+                    <StackPanel>
+                        <TextBlock Text="⚠️ Error Loading Resources" Foreground="#FFFF6B6B" 
+                                  FontWeight="Bold" Margin="0,0,0,5" FontSize="11"/>
+                        <TextBlock x:Name="ErrorText" Text="" Foreground="#FFCCCCCC" 
+                                  FontSize="10" TextWrapping="Wrap"/>
+                        <Button x:Name="RetryButton" Content="Retry" Margin="0,8,0,0" 
+                               Background="#FF007ACC" Foreground="White" BorderThickness="0"
+                               Padding="6,3" HorizontalAlignment="Left" Cursor="Hand" FontSize="10"
+                               Click="RetryButton_Click"/>
+                    </StackPanel>
+                </Border>
+            </StackPanel>
+        </ScrollViewer>
+
+        <!-- Assigned Resources List -->
+        <ScrollViewer Grid.Row="2" x:Name="AssignedResourcesContainer" VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Disabled" Visibility="Collapsed">
+            <StackPanel x:Name="AssignedResourcesPanel" Margin="5">
+
+                <!-- Loading Indicator for Assigned Resources -->
+                <Border x:Name="AssignedLoadingIndicator" Style="{StaticResource ResourceCard}"
+                       Visibility="Collapsed" HorizontalAlignment="Center" Margin="0,20">
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Text="●" Foreground="#FF007ACC" FontSize="14" Margin="0,0,8,0">
+                            <TextBlock.RenderTransform>
+                                <RotateTransform x:Name="AssignedLoadingRotation"/>
+                            </TextBlock.RenderTransform>
+                        </TextBlock>
+                        <TextBlock Text="Loading assigned resources..." Foreground="#FFCCCCCC"
+                                  VerticalAlignment="Center" FontSize="11"/>
+                    </StackPanel>
+                </Border>
+
+                <!-- No Assigned Resources Message -->
+                <Border x:Name="NoAssignedResourcesMessage" Style="{StaticResource ResourceCard}"
+                       Visibility="Visible" HorizontalAlignment="Center" Margin="0,20">
+                    <StackPanel HorizontalAlignment="Center">
+                        <TextBlock Text="🚁" FontSize="20" HorizontalAlignment="Center" Margin="0,0,0,5"/>
+                        <TextBlock Text="No resources assigned to incidents" Foreground="#FFCCCCCC"
+                                  HorizontalAlignment="Center" FontSize="11"/>
+                        <TextBlock Text="Assigned resources will appear here" Foreground="#FF999999"
+                                  FontSize="9" HorizontalAlignment="Center"/>
+                    </StackPanel>
+                </Border>
+            </StackPanel>
+        </ScrollViewer>
+
+        <!-- Selected Resource and Actions -->
+        <Border Grid.Row="3" x:Name="SelectedResourcePanel" Visibility="Collapsed"
+                Background="#FF1E3A5F" BorderBrush="#FF007ACC" BorderThickness="1"
+                CornerRadius="4" Margin="5">
+            <StackPanel Margin="8">
+                <TextBlock Text="Selected Resource:" Foreground="#FFCCCCCC" FontSize="10"/>
+                <TextBlock x:Name="SelectedResourceText" Text="" Style="{StaticResource ResourceTitle}" Margin="0,2"/>
+                <TextBlock x:Name="SelectedResourceDetail" Text="" Style="{StaticResource ResourceDetail}" Margin="0,0,0,8"/>
+                
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+                    
+                    <Button x:Name="AssignToIncidentBtn" Grid.Column="0" Content="Assign" 
+                           Background="#FF28A745" Foreground="White" BorderThickness="0"
+                           Padding="6,4" FontWeight="SemiBold" Cursor="Hand" FontSize="10"
+                           Margin="0,0,2,0" IsEnabled="False" Click="AssignToIncident_Click"/>
+                    
+                    <Button x:Name="ClearSelectionBtn" Grid.Column="1" Content="Clear" 
+                           Background="#FF6C757D" Foreground="White" BorderThickness="0"
+                           Padding="6,4" FontWeight="SemiBold" Cursor="Hand" FontSize="10"
+                           Margin="2,0,0,0" Click="ClearSelection_Click"/>
+                </Grid>
+            </StackPanel>
+        </Border>
+    </Grid>
+</UserControl>

@@ -1,0 +1,68 @@
+{
+  "HellenicCoastGuard": {
+    "SeaRescue": {
+      "el": "ΘΑΛΑΣΣΙΑ ΔΙΑΣΩΣΗ (SAR)",
+      "en": "Maritime Search & Rescue (SAR)",
+      "subcategories": [
+        { "el": "ΑΤΟΜΟ ΣΤΗ ΘΑΛΑΣΣΑ", "en": "Man Overboard" },
+        { "el": "ΝΑΥΑΓΙΟ / ΑΝΑΤΡΟΠΗ ΣΚΑΦΟΥΣ", "en": "Shipwreck / Capsize" },
+        { "el": "ΑΓΝΟΟΥΜΕΝΟΣ ΝΑΥΤΗΣ / ΕΠΙΒΑΤΗΣ", "en": "Missing Mariner / Passenger" },
+        { "el": "ΔΙΑΣΩΣΗ ΑΠΟ ΒΡΑΧΟΝΗΣΙΔΑ / ΑΚΤΗ", "en": "Rescue from Islet / Shore" }
+      ]
+    },
+    "VesselIncidents": {
+      "el": "ΣΚΑΦΗ & ΜΗΧΑΝΙΚΑ ΠΡΟΒΛΗΜΑΤΑ",
+      "en": "Vessel & Mechanical Incidents",
+      "subcategories": [
+        { "el": "ΜΗΧΑΝΙΚΗ ΒΛΑΒΗ", "en": "Mechanical Failure / Disabled Vessel" },
+        { "el": "ΠΥΡΚΑΓΙΑ ΣΕ ΣΚΑΦΟΣ", "en": "Fire on Board" },
+        { "el": "ΒΥΘΙΣΗ / ΕΙΣΡΟΗ ΥΔΑΤΩΝ", "en": "Sinking / Flooding on Vessel" },
+        { "el": "ΡΙΨΗ ΑΓΚΥΡΑΣ / ΡΥΜΟΥΛΚΗΣΗ", "en": "Towing / Assistance Required" }
+      ]
+    },
+    "EnvironmentalIncidents": {
+      "el": "ΠΕΡΙΒΑΛΛΟΝΤΙΚΑ ΣΥΜΒΑΝΤΑ",
+      "en": "Environmental Incidents",
+      "subcategories": [
+        { "el": "ΡΥΠΑΝΣΗ ΘΑΛΑΣΣΑΣ", "en": "Marine Pollution" },
+        { "el": "ΧΗΜΙΚΗ ΔΙΑΡΡΟΗ", "en": "Chemical Discharge" },
+        { "el": "ΠΑΡΑΝΟΜΗ ΑΠΟΡΡΙΨΗ ΑΠΟΒΛΗΤΩΝ", "en": "Illegal Waste Disposal" }
+      ]
+    },
+    "Security": {
+      "el": "ΝΑΥΤΙΚΗ ΑΣΦΑΛΕΙΑ & ΕΠΙΘΕΩΡΗΣΕΙΣ",
+      "en": "Maritime Security & Inspections",
+      "subcategories": [
+        { "el": "ΕΛΕΓΧΟΣ ΣΚΑΦΩΝ / ΕΠΙΘΕΩΡΗΣΗ", "en": "Vessel Inspection / Boarding" },
+        { "el": "ΕΝΤΟΠΙΣΜΟΣ ΛΑΘΡΕΜΠΟΡΙΑΣ", "en": "Smuggling Interdiction" },
+        { "el": "ΕΠΙΚΙΝΔΥΝΕΣ ΜΕΤΑΦΟΡΕΣ", "en": "Dangerous Cargo / Goods Transport" }
+      ]
+    },
+    "Illegal": {
+      "el": "ΛΑΘΡΕΜΠΟΡΙΟ & ΜΕΤΑΝΑΣΤΕΥΣΗ",
+      "en": "Smuggling & Migrant Incidents",
+      "subcategories": [
+        { "el": "ΜΕΤΑΦΟΡΑ ΠΡΟΣΩΠΩΝ (ΛΑΘΡΕΜΠΟΡΙΟ)", "en": "Human Smuggling / Migrant Boat" },
+        { "el": "ΕΓΚΑΤΑΛΕΙΨΗ ΜΕΤΑΝΑΣΤΩΝ ΣΕ ΣΚΑΦΗ", "en": "Abandoned Migrant Vessel" }
+      ]
+    },
+    "MedicalIncidents": {
+      "el": "ΙΑΤΡΙΚΑ & ΑΕΡΟΔΙΑΚΟΜΙΔΕΣ",
+      "en": "Medical & Medevac",
+      "subcategories": [
+        { "el": "ΙΑΤΡΙΚΟ ΕΠΕΙΓΟΝ ΣΕ ΣΚΑΦΟΣ", "en": "Medical Emergency on Vessel" },
+        { "el": "ΑΕΡΟΔΙΑΚΟΜΙΔΗ / MEDIVAC", "en": "Air Medical Evacuation" },
+        { "el": "ΔΙΑΣΩΣΗ ΔΥΤΗ / ΥΠΟΒΡΥΧΙΟ ΣΥΜΒΑΝ", "en": "Diver Rescue / Submersible Incident" }
+      ]
+    },
+    "MaritimeIncidents": {
+      "el": "ΝΑΥΤΙΚΑ ΕΠΕΙΣΟΔΙΑ / ΑΣΤΥΝΟΜΙΚΑ",
+      "en": "Maritime Law Enforcement",
+      "subcategories": [
+        { "el": "ΠΕΡΙΠΟΛΙΑ", "en": "Patrol / Surveillance" },
+        { "el": "ΣΥΓΚΡΟΥΣΗ ΣΚΑΦΩΝ", "en": "Vessel Collision" },
+        { "el": "ΠΟΙΝΙΚΑ ΠΕΡΙΣΤΑΤΙΚΑ (π.χ. ΠΕΙΡΑΤΕΙΑ)", "en": "Criminal Incidents (e.g. piracy)" }
+      ]
+    }
+  }
+}

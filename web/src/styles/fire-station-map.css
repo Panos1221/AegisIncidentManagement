@@ -1,0 +1,110 @@
+/* Fire Station Map */
+
+/* Tooltip styling for fire station boundaries */
+.fire-station-tooltip {
+  background: rgba(255, 255, 255, 0.95) !important;
+  border: 1px solid #e5e7eb !important;
+  border-radius: 6px !important;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06) !important;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif !important;
+  backdrop-filter: blur(4px) !important;
+}
+
+/* Dark theme tooltip styling */
+.dark .fire-station-tooltip {
+  background: rgba(30, 41, 59, 0.95) !important;
+  border: 1px solid #334155 !important;
+  color: #f1f5f9 !important;
+}
+
+.fire-station-tooltip .leaflet-tooltip-content {
+  margin: 8px 12px !important;
+  line-height: 1.4 !important;
+}
+
+/* Performance optimizations for polygon rendering */
+.leaflet-overlay-pane svg {
+  /* Enable hardware acceleration for better performance */
+  transform: translateZ(0);
+  will-change: transform;
+}
+
+/* Reduce rendering complexity on lower-end devices */
+@media (max-width: 768px) {
+  .leaflet-overlay-pane svg path {
+    /* Simplify rendering on mobile devices */
+    shape-rendering: optimizeSpeed;
+  }
+}
+
+/* High-performance rendering for modern browsers */
+@supports (backdrop-filter: blur(1px)) {
+  .fire-station-tooltip {
+    backdrop-filter: blur(8px) !important;
+    background: rgba(255, 255, 255, 0.9) !important;
+  }
+  
+  .dark .fire-station-tooltip {
+    background: rgba(30, 41, 59, 0.9) !important;
+  }
+}
+
+/* Loading states */
+.fire-station-loading {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: rgba(255, 255, 255, 0.9);
+  padding: 16px;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+  z-index: 1000;
+}
+
+.dark .fire-station-loading {
+  background: rgba(30, 41, 59, 0.9);
+  color: #f1f5f9;
+}
+
+/* Performance indicators */
+.performance-indicator {
+  position: absolute;
+  bottom: 16px;
+  right: 16px;
+  background: rgba(0, 0, 0, 0.7);
+  color: white;
+  padding: 8px 12px;
+  border-radius: 4px;
+  font-size: 12px;
+  font-family: monospace;
+  z-index: 1000;
+}
+
+.dark .performance-indicator {
+  background: rgba(30, 41, 59, 0.9);
+  color: #f1f5f9;
+  border: 1px solid #334155;
+}
+
+/* Hover effects for boundaries */
+.leaflet-interactive:hover {
+  filter: brightness(1.1);
+  transition: filter 0.2s ease;
+}
+
+.leaflet-interactive:focus {
+  outline: none !important;  /* Remove the default focus outline */
+  box-shadow: none !important;  /* Remove any default box-shadow for focused elements */
+}
+
+/* Reduce motion for users who prefer it */
+@media (prefers-reduced-motion: reduce) {
+  .leaflet-interactive {
+    transition: none !important;
+  }
+  
+  .fire-station-tooltip {
+    transition: none !important;
+  }
+}
